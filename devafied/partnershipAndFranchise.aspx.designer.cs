@@ -7,11 +7,11 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace devafied
+namespace surgeCable
 {
 
 
-    public partial class services
+    public partial class partnershipAndFranchise
     {
     }
 }

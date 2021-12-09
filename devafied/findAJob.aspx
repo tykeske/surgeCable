@@ -1,18 +1,17 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="index.aspx.cs" Inherits="surgeCable.index" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="findAJob.aspx.cs" Inherits="surgeCable.portfolio" %>
 
 <!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Surge Cable INC |  </title>
-    <meta name="description" content="Web & Software Development | IT Services">
-    <meta name="keywords" content="free website templates, free bootstrap themes, free template, free bootstrap, free website template">
+    <title>Surge Cable INC |Find a Job</title>
+    <meta name="description" content="Surge Cable">
+    <meta name="keywords" content="Surge Cable">
     
-    <link href="https://fonts.googleapis.com/css?family=Poppins:400,500,700" rel="stylesheet">
-    <link href="assets/css/styles-merged.css" rel="stylesheet">
-    <link href="assets/css/style.min.css" rel="stylesheet">
-      
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:400,500,700">
+    <link rel="stylesheet" href="assets/css/styles-merged.css">
+    <link rel="stylesheet" href="assets/css/style.min.css">
 
     <!--[if lt IE 9]>
       <script src="js/vendor/html5shiv.min.js"></script>
@@ -33,7 +32,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="index.aspx" title="uiCookies:Stack">surgeCable</a>
+          <a class="navbar-brand" href="index.aspx" title="Surge Cable">Surge Cable</a>
         </div>
 
         <div id="navbar-collapse" class="navbar-collapse collapse">
@@ -43,7 +42,7 @@
               <a href="#" data-toggle="dropdown" class="dropdown-toggle">Pages</a>
               <ul class="dropdown-menu">
                 <li><a href="about.aspx">About Us</a></li>
-                <li><a href="findAJob.aspx">Find a Job</a></li>
+                <li class="active"><a href="findAJob.aspx">Find a Job</a></li>
                 <li><a href="findAnEmployee.aspx">Find an Employee</a></li>
                 <li><a href="partnershipAndFranchise.aspx">Partnership and Franchise</a></li>
                 <li><a href="News.aspx">News</a></li>
@@ -57,35 +56,14 @@
 
     <section class="flexslider">
       <ul class="slides">
-        <li style="background-image: url(assets/img/slider_1.jpg)" class="overlay">
-          <div class="container">
-            <div class="row">
-              <div class="col-md-8 col-md-offset-2">
-                <div class="probootstrap-slider-text text-center">
-                  <h1 class="probootstrap-heading">Lorem ipsum dolor</h1>
-                </div>
-              </div>
-            </div>
-          </div>
-        </li>
-        <li style="background-image: url(assets/img/slider_2.jpg)" class="overlay">
-          <div class="container">
-            <div class="row">
-              <div class="col-md-8 col-md-offset-2">
-                <div class="probootstrap-slider-text text-center">
-                  <h1 class="probootstrap-heading">Lorem ipsum dolor</h1>
-                </div>
-              </div>
-            </div>
-          </div>
-          
-        </li>
+        
         <li style="background-image: url(assets/img/slider_3.jpg)" class="overlay">
           <div class="container">
             <div class="row">
               <div class="col-md-8 col-md-offset-2">
                 <div class="probootstrap-slider-text text-center">
-                  <h1 class="probootstrap-heading">Lorem ipsum dolor</h1>
+                  <h1 class="probootstrap-heading">Find a Job</h1>
+                  <p class="probootstrap-subheading">Loream isper diaoe flaekies goopser</p>
                 </div>
               </div>
             </div>
@@ -93,118 +71,35 @@
         </li>
       </ul>
     </section>
-    <section class="probootstrap-section probootstrap-bg-white probootstrap-zindex-above-showcase">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-6 col-md-offset-3 text-center section-heading probootstrap-animate" data-animate-effect="fadeIn">
-            <h2>Our Services</h2>
+
+
+      <section class="probootstrap-section">
+          <div class="row">
+          <div class="col-md-6 col-md-offset-3 text-center section-heading">
+            <h2>Our Find a Job Services</h2>
           </div>
         </div>
-        <!-- END row -->
-        <div class="row probootstrap-gutter60">
-          <div class="col-md-4 probootstrap-animate" data-animate-effect="fadeIn">
-            <div class="service hover_service text-center">
-              <div class="icon"><i class="icon-mobile3"></i></div>
-              <div class="text">
-                <h3>Responsive Design</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto provident qui tempore natus quos quibusdam soluta at.</p>
-              </div>  
-            </div>
-          </div>
-          <div class="col-md-4 probootstrap-animate" data-animate-effect="fadeIn">
-            <div class="service hover_service text-center">
-              <div class="icon"><i class="icon-presentation"></i></div>
-              <div class="text">
-                <h3>Lorem ipsum dolor</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto provident qui tempore natus quos quibusdam soluta at.</p>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-4 probootstrap-animate" data-animate-effect="fadeIn">
-            <div class="service hover_service text-center">
-              <div class="icon"><i class="icon-circle-compass"></i></div>
-              <div class="text">
-                <h3>Lorem ipsum dolor</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto provident qui tempore natus quos quibusdam soluta at.</p>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-md-4 probootstrap-animate" data-animate-effect="fadeIn">
-            <div class="service hover_service text-center">
-              <div class="icon"><i class="icon-lightbulb"></i></div>
-              <div class="text">
-                <h3>Lorem ipsum dolor</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto provident qui tempore natus quos quibusdam soluta at.</p>
-              </div>  
-            </div>
-          </div>
-          <div class="col-md-4 probootstrap-animate" data-animate-effect="fadeIn">
-            <div class="service hover_service text-center">
-              <div class="icon"><i class="icon-magnifying-glass2"></i></div>
-              <div class="text">
-                <h3>Lorem ipsum dolor</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto provident qui tempore natus quos quibusdam soluta at.</p>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-4 probootstrap-animate" data-animate-effect="fadeIn">
-            <div class="service hover_service text-center">
-              <div class="icon"><i class="icon-browser2"></i></div>
-              <div class="text">
-                <h3>Lorem ipsum dolor</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto provident qui tempore natus quos quibusdam soluta at.</p>
-              </div>
-            </div>
-          </div>
-        </div>
-        <!-- END row -->
-        <div class="row mt50">
-          <div class="col-md-12 text-center">
-            <a href="services.aspx" class="btn btn-primary btn-lg" role="button">View all our services</a>
-          </div>
-        </div>
-      </div>
-    </section>
-
-          
-    
-    <section class="probootstrap-section proboostrap-clients probootstrap-bg-white probootstrap-zindex-above-showcase">
-      <div class="container">
-
-        <div class="row">
-          <div class="col-md-6 col-md-offset-3 text-center section-heading probootstrap-animate">
-            <h2>Responsive Design</h2>
-            <p class="lead">Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto provident qui tempore natus quos quibusdam soluta at.</p>
-          </div>
-        </div>
-        <!-- END row -->
-      </div>
-    </section>
-
-
-    <section class="probootstrap-section">
       <div class="container">
         <div class="row">
           <div class="col-md-6">
             <div class="service left-icon probootstrap-animate" data-animate-effect="fadeInLeft">
               <div class="icon"><i class="icon-user-check"></i></div>
               <div class="text">
-                <h3>Your Vision</h3>
+                <h3>Loream Ipsome</h3>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit iusto provident.</p>
               </div>  
             </div>
             <div class="service left-icon probootstrap-animate" data-animate-effect="fadeInLeft">
               <div class="icon"><i class="icon-pencil"></i></div>
               <div class="text">
-                <h3>Establish a Plan</h3>
+                <h3>Loream Ipsomen</h3>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit iusto provident.</p>
               </div>
             </div>
             <div class="service left-icon probootstrap-animate" data-animate-effect="fadeInLeft">
               <div class="icon"><i class="icon-spinner"></i></div>
               <div class="text">
-                <h3>Design Mockups</h3>
+                <h3>Loream Ipsomeps</h3>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit iusto provident.</p>
               </div>
             </div>
@@ -213,7 +108,7 @@
             <div class="service left-icon probootstrap-animate" data-animate-effect="fadeInLeft">
               <div class="icon"><i class="icon-embed2"></i></div>
               <div class="text">
-                <h3>Development Phase</h3>
+                <h3>Loream Ipsomease</h3>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto provident qui tempore natus quos quibusdam soluta at.</p>
               </div>  
             </div>
@@ -221,7 +116,7 @@
             <div class="service left-icon probootstrap-animate" data-animate-effect="fadeInLeft">
               <div class="icon"><i class="icon-bubbles"></i></div>
               <div class="text">
-                <h3>Quality Check</h3>
+                <h3>Loream Ipsomeck</h3>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto provident qui tempore natus quos quibusdam soluta at.</p>
               </div>
             </div>
@@ -229,7 +124,7 @@
             <div class="service left-icon probootstrap-animate" data-animate-effect="fadeInLeft">
               <div class="icon"><i class="icon-cloud-check"></i></div>
               <div class="text">
-                <h3>Website Launch</h3>
+                <h3>Loream Ipsomench</h3>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto provident qui tempore natus quos quibusdam soluta at.</p>
               </div>
             </div>
@@ -240,58 +135,25 @@
       </div>
     </section>
 
-    <section class="probootstrap-section probootstrap-border-top probootstrap-bg-white">
+    
+    
+    <section class="probootstrap-cta">
       <div class="container">
         <div class="row">
-          <div class="col-md-6 col-md-offset-3 text-center section-heading probootstrap-animate">
-            <h2>Testimonials</h2>
-          </div>
-        </div>
-        <!-- END row -->
-        <div class="row">
           <div class="col-md-12">
-            <div class="owl-carousel owl-carousel-fullwidth">
-              <div class="item">
-
-                <div class="probootstrap-testimony-wrap text-center">
-                  <figure>
-                    <img src="assets/img/person_1.jpg" alt="Free Bootstrap Template by uicookies.com">
-                  </figure>
-                  <blockquote class="quote">&ldquo;Lorem Epsim nhfIUE Hfe wasfi jela lorel lameli jorfet figiali.&rdquo; <cite class="author">&mdash; John Doe <br> <span>Customer</span></cite></blockquote>
-                </div>
-
-              </div>
-              <div class="item">
-                <div class="probootstrap-testimony-wrap text-center">
-                  <figure>
-                    <img src="assets/img/person_2.jpg" alt="Free Bootstrap Template by uicookies.com">
-                  </figure>
-                  <blockquote class="quote">&ldquo;Lorem Epsim nhfIUE Hfe wasfi jela lorel lameli jorfet figiali.&rdquo; <cite class="author">&mdash; Steve Jobs <br> <span>Customer</span></cite></blockquote>
-                </div>
-              </div>
-              <div class="item">
-                <div class="probootstrap-testimony-wrap text-center">
-                  <figure>
-                    <img src="assets/img/person_3.jpg" alt="Free Bootstrap Template by uicookies.com">
-                  </figure>
-                  <blockquote class="quote">&ldquo;Lorem Epsim nhfIUE Hfe wasfi jela lorel lameli jorfet figiali.&rdquo; <cite class="author">&mdash; Da Baby <br> <span>Customer</span></cite></blockquote>
-                </div>
-              </div>
-              
-            </div>
+            <h2 class="probootstrap-animate" data-animate-effect="fadeInRight">We'd like to help and talk with you</h2>
+            <a href="#" role="button" class="btn btn-primary btn-lg btn-ghost probootstrap-animate" data-animate-effect="fadeInLeft">Contact Us</a>
           </div>
         </div>
-        <!-- END row -->
       </div>
     </section>
     
- 
     <footer class="probootstrap-footer">
       <div class="container">
         <div class="row">
           <div class="col-md-6">
             <div class="probootstrap-footer-widget">
-              <h3>Surge Cable</h3>
+              <h3>Surge Cable INC</h3>
               <p>Contact info contact info contact info</p>
               <ul class="probootstrap-footer-social">
                 <li><a href="#"><i class="icon-twitter"></i></a></li>
@@ -344,13 +206,13 @@
         <!-- END row -->
         <div class="row">
           <div class="col-md-12 copyright">
-            <p><small>&copy; 2021 <a href="surgeCable">Surge Cable</a>. All Rights Reserved.</small></p>
+            <p><small>&copy; 2021 <a href="https://surgecable.com">Surge Cable INC</a>. All Rights Reserved.</small></p>
           </div>
         </div>
       </div>
     </footer>
     
-
+  
     <!-- Modal login -->
     <div class="modal fadeInUp probootstrap-animated" id="loginModal" tabindex="-1" role="dialog" aria-labelledby="loginModalLabel" aria-hidden="true">
       <div class="vertical-alignment-helper">

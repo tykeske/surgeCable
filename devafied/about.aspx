@@ -42,9 +42,10 @@
               <a href="#" data-toggle="dropdown" class="dropdown-toggle">Pages</a>
               <ul class="dropdown-menu">
                 <li class="active"><a href="about.aspx">About Us</a></li>
-                <li><a href="hosting.aspx">Hosting</a></li>
-                <li><a href="technologies.aspx">Technologies</a></li>
-                <li><a href="services.aspx">Services</a></li>
+                <li><a href="findAJob.aspx">Find a Job</a></li>
+                <li><a href="findAnEmployee.aspx">Find an Employee</a></li>
+                <li><a href="partnershipAndFracnhise.aspx">Partnership and Franchise</a></li>
+                <li><a href="News.aspx">News</a></li>
               </ul>
             </li>
             <li><a href="contact.aspx">Contact</a></li>

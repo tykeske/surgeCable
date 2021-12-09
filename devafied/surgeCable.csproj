@@ -134,10 +134,11 @@
     <Content Include="assets\js\vendor\respond.min.js" />
     <Content Include="contact.aspx" />
     <Content Include="index.aspx" />
-    <Content Include="hosting.aspx" />
-    <Content Include="technologies.aspx" />
-    <Content Include="services.aspx" />
+    <Content Include="findAJob.aspx" />
+    <Content Include="findAnEmployee.aspx" />
+    <Content Include="partnershipAndFranchise.aspx" />
     <Content Include="Web.config" />
+    <Content Include="news.aspx" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="about.aspx.cs">
@@ -161,27 +162,34 @@
     <Compile Include="index.aspx.designer.cs">
       <DependentUpon>index.aspx</DependentUpon>
     </Compile>
-    <Compile Include="hosting.aspx.cs">
-      <DependentUpon>hosting.aspx</DependentUpon>
+    <Compile Include="findAJob.aspx.cs">
+      <DependentUpon>findAJob.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="hosting.aspx.designer.cs">
-      <DependentUpon>hosting.aspx</DependentUpon>
+    <Compile Include="findAJob.aspx.designer.cs">
+      <DependentUpon>findAJob.aspx</DependentUpon>
     </Compile>
-    <Compile Include="technologies.aspx.cs">
-      <DependentUpon>technologies.aspx</DependentUpon>
+    <Compile Include="findAnEmployee.aspx.cs">
+      <DependentUpon>findAnEmployee.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="technologies.aspx.designer.cs">
-      <DependentUpon>technologies.aspx</DependentUpon>
+    <Compile Include="findAnEmployee.aspx.designer.cs">
+      <DependentUpon>findAnEmployee.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="services.aspx.cs">
-      <DependentUpon>services.aspx</DependentUpon>
+    <Compile Include="partnershipAndFranchise.aspx.cs">
+      <DependentUpon>partnershipAndFranchise.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="services.aspx.designer.cs">
-      <DependentUpon>services.aspx</DependentUpon>
+    <Compile Include="partnershipAndFranchise.aspx.designer.cs">
+      <DependentUpon>partnershipAndFranchise.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="news.aspx.cs">
+      <DependentUpon>news.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="news.aspx.designer.cs">
+      <DependentUpon>news.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>

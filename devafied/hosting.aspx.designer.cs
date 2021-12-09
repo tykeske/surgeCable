@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace devafied
+namespace surgeCable
 {
 
 

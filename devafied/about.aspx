@@ -1,13 +1,13 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="about.aspx.cs" Inherits="devafied.about" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="about.aspx.cs" Inherits="surgeCable.about" %>
 
 <!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Devafied | About</title>
-    <meta name="description" content="Who is Devafied?">
-    <meta name="keywords" content="Website technology, SQL, Database, MySQL, ASP.NET, C#, Devafied">
+    <title>Surge Cable | About</title>
+    <meta name="description" content="Who is Surge Cable?">
+    <meta name="keywords" content="Surge Cable">
     
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:400,500,700">
     <link rel="stylesheet" href="assets/css/styles-merged.css">
@@ -62,7 +62,8 @@
               <div class="col-md-8 col-md-offset-2">
                 <div class="probootstrap-slider-text text-center">
                   <h1 class="probootstrap-heading">About Us</h1>
-                  <p class="probootstrap-subheading">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                  <p class="probootstrap-subheading">SurgeCable INC provides cable install technician services to major brands
+we are a team full of experienced technicians with superior customer service skills and knowledge of the trade</p>
                 </div>
               </div>
             </div>
@@ -149,92 +150,15 @@
               </div>
             </a>
           </div>
-          <div class="col-md-3 col-sm-6 col-xs-6 probootstrap-animate">
-            <a href="#" class="probootstrap-team">
-              <img src="assets/img/person_3.jpg" alt="Free Bootstrap Template by uicookies.com" class="img-responsive img-rounded">
-              <div class="probootstrap-team-info">
-                <h3>John Doe <span class="position">Developer</span></h3>
-              </div>
-            </a>
-          </div>
-          
-
         </div>
       </div>
     </section>
   
 
-    <section class="probootstrap-section proboostrap-clients probootstrap-bg-white probootstrap-zindex-above-showcase">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-6 col-md-offset-3 text-center section-heading probootstrap-animate">
-            <h2>Lorem ipsum dolor dieas lgien nekaj</h2>
-            <p class="lead">Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto provident qui tempore natus quos quibusdam soluta at.</p>
-          </div>
-        </div>
-        <!-- END row -->
-        
-      </div>
-    </section>
 
     
 
-    <section class="probootstrap-section">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-6">
-            <div class="service left-icon probootstrap-animate" data-animate-effect="fadeInLeft">
-              <div class="icon"><i class="icon-mobile3"></i></div>
-              <div class="text">
-                <h3>Lorem ipsum dolor</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit iusto provident.</p>
-              </div>  
-            </div>
-            <div class="service left-icon probootstrap-animate" data-animate-effect="fadeInLeft">
-              <div class="icon"><i class="icon-presentation"></i></div>
-              <div class="text">
-                <h3>Lorem ipsum dolor</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit iusto provident.</p>
-              </div>
-            </div>
-            <div class="service left-icon probootstrap-animate" data-animate-effect="fadeInLeft">
-              <div class="icon"><i class="icon-circle-compass"></i></div>
-              <div class="text">
-                <h3>Lorem ipsum dolor</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit iusto provident.</p>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-6">
-            <div class="service left-icon probootstrap-animate" data-animate-effect="fadeInLeft">
-              <div class="icon"><i class="icon-lightbulb"></i></div>
-              <div class="text">
-                <h3>Lorem ipsum dolor</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto provident qui tempore natus quos quibusdam soluta at.</p>
-              </div>  
-            </div>
-            
-            <div class="service left-icon probootstrap-animate" data-animate-effect="fadeInLeft">
-              <div class="icon"><i class="icon-magnifying-glass2"></i></div>
-              <div class="text">
-                <h3>Lorem ipsum dolor</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto provident qui tempore natus quos quibusdam soluta at.</p>
-              </div>
-            </div>
-            
-            <div class="service left-icon probootstrap-animate" data-animate-effect="fadeInLeft">
-              <div class="icon"><i class="icon-browser2"></i></div>
-              <div class="text">
-                <h3>Lorem ipsum dolor</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto provident qui tempore natus quos quibusdam soluta at.</p>
-              </div>
-            </div>
-
-          </div>
-        </div>
-        <!-- END row -->
-      </div>
-    </section>
+    
 
     <section class="probootstrap-section probootstrap-border-top probootstrap-bg-white">
       <div class="container">
@@ -286,7 +210,7 @@
         <div class="row">
           <div class="col-md-6">
             <div class="probootstrap-footer-widget">
-              <h3>Devafied</h3>
+              <h3>Surge Cable</h3>
               <p>Contact info contact info contact info</p>
               <ul class="probootstrap-footer-social">
                 <li><a href="#"><i class="icon-twitter"></i></a></li>
@@ -339,7 +263,7 @@
         <!-- END row -->
         <div class="row">
           <div class="col-md-12 copyright">
-            <p><small>&copy; 2021 <a href="https://devafied.com">Devafied</a>. All Rights Reserved.</small></p>
+            <p><small>&copy; 2021 <a href="https://surgecable.com/">Surge</a>. All Rights Reserved.</small></p>
           </div>
         </div>
       </div>

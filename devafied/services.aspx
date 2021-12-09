@@ -5,8 +5,8 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Devafied | Services</title>
-    <meta name="description" content="Devafied Development & IT Services">
+    <title>Surge Cable | Services</title>
+    <meta name="description" content="Surge Cable">
     <meta name="keywords" content="free website templates, free bootstrap themes, free template, free bootstrap, free website template">
     
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:400,500,700">
@@ -42,9 +42,9 @@
               <a href="#" data-toggle="dropdown" class="dropdown-toggle">Pages</a>
               <ul class="dropdown-menu">
                 <li><a href="about.aspx">About Us</a></li>
-                <li><a href="hosting.aspx">Hosting</a></li>
+                <li><a href="Services.aspx">services</a></li>
                 <li><a href="technologies.aspx">Technologies</a></li>
-                <li class="active"><a href="services.aspx">Services</a></li>
+                <li class="active"><a href="Services.aspx">Services</a></li>
               </ul>
             </li>
             <li><a href="contact.aspx">Contact</a></li>

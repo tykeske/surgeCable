@@ -1,13 +1,13 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="hosting.aspx.cs" Inherits="devafied.portfolio" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="hosting.aspx.cs" Inherits="surgeCable.portfolio" %>
 
 <!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Devafied | Hosting</title>
-    <meta name="description" content="Devafied Hosting">
-    <meta name="keywords" content="Website technology, SQL, Database, MySQL, ASP.NET, C#, Devafied">
+    <title>Surge Cable INC | Hosting</title>
+    <meta name="description" content="Surge Cable">
+    <meta name="keywords" content="Surge Cable">
     
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:400,500,700">
     <link rel="stylesheet" href="assets/css/styles-merged.css">
@@ -32,7 +32,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="index.aspx" title="Devafied">Devafied</a>
+          <a class="navbar-brand" href="index.aspx" title="Surge Cable">Surge Cable</a>
         </div>
 
         <div id="navbar-collapse" class="navbar-collapse collapse">
@@ -44,7 +44,7 @@
                 <li><a href="about.aspx">About Us</a></li>
                 <li class="active"><a href="hosting.aspx">Hosting</a></li>
                 <li><a href="technologies.aspx">Technologies</a></li>
-                <li><a href="services.aspx">Services</a></li>
+                <li><a href="hosting.aspx">Hosting</a></li>
               </ul>
             </li>
             <li><a href="contact.aspx">Contact</a></li>
@@ -152,7 +152,7 @@
         <div class="row">
           <div class="col-md-6">
             <div class="probootstrap-footer-widget">
-              <h3>Devafied</h3>
+              <h3>Surge Cable INC</h3>
               <p>Contact info contact info contact info</p>
               <ul class="probootstrap-footer-social">
                 <li><a href="#"><i class="icon-twitter"></i></a></li>
@@ -205,7 +205,7 @@
         <!-- END row -->
         <div class="row">
           <div class="col-md-12 copyright">
-            <p><small>&copy; 2021 <a href="https://devafied.com">Devafied</a>. All Rights Reserved.</small></p>
+            <p><small>&copy; 2021 <a href="https://surgecable.com">Surge Cable INC</a>. All Rights Reserved.</small></p>
           </div>
         </div>
       </div>

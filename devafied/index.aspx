@@ -1,11 +1,11 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="index.aspx.cs" Inherits="devafied.index" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="index.aspx.cs" Inherits="surgeCable.index" %>
 
 <!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Devafied | Web & Software Development</title>
+    <title>Surge Cable INC |  </title>
     <meta name="description" content="Web & Software Development | IT Services">
     <meta name="keywords" content="free website templates, free bootstrap themes, free template, free bootstrap, free website template">
     
@@ -33,7 +33,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="index.aspx" title="uiCookies:Stack">Devafied</a>
+          <a class="navbar-brand" href="index.aspx" title="uiCookies:Stack">surgeCable</a>
         </div>
 
         <div id="navbar-collapse" class="navbar-collapse collapse">
@@ -290,7 +290,7 @@
         <div class="row">
           <div class="col-md-6">
             <div class="probootstrap-footer-widget">
-              <h3>Devafied</h3>
+              <h3>Surge Cable</h3>
               <p>Contact info contact info contact info</p>
               <ul class="probootstrap-footer-social">
                 <li><a href="#"><i class="icon-twitter"></i></a></li>
@@ -343,7 +343,7 @@
         <!-- END row -->
         <div class="row">
           <div class="col-md-12 copyright">
-            <p><small>&copy; 2021 <a href="https://devafied.com">Devafied</a>. All Rights Reserved.</small></p>
+            <p><small>&copy; 2021 <a href="surgeCable">Surge Cable</a>. All Rights Reserved.</small></p>
           </div>
         </div>
       </div>

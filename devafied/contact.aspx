@@ -1,13 +1,13 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="contact.aspx.cs" Inherits="devafied.contact" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="contact.aspx.cs" Inherits="surgeCable.contact" %>
 
 <!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Devafied | Contact</title>
-    <meta name="description" content="Contact Devafied">
-    <meta name="keywords" content="Website technology, SQL, Database, MySQL, ASP.NET, C#, Devafied">
+    <title>Surge Cable | Contact</title>
+    <meta name="description" content="Contact Surge Cable">
+    <meta name="keywords" content="Surge Cable">
     
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:400,500,700">
     <link rel="stylesheet" href="assets/css/styles-merged.css">
@@ -105,7 +105,7 @@
             <h4>USA</h4>
             <ul class="probootstrap-contact-info">
               <li><i class="icon-pin"></i> <span>1969 Apple Street, Portland, OR 98989</span></li>
-              <li><i class="icon-email"></i><span>info@devafied.com</span></li>
+              <li><i class="icon-email"></i><span>info@SurgeCable.com</span></li>
               <li><i class="icon-phone"></i><span>+123-456-7890</span></li>
             </ul>
           </div>
@@ -119,7 +119,7 @@
         <div class="row">
           <div class="col-md-6">
             <div class="probootstrap-footer-widget">
-              <h3>Devafied</h3>
+              <h3>Surge Cable</h3>
               <p>Contact info contact info contact info</p>
               <ul class="probootstrap-footer-social">
                 <li><a href="#"><i class="icon-twitter"></i></a></li>
@@ -172,7 +172,7 @@
         <!-- END row -->
         <div class="row">
           <div class="col-md-12 copyright">
-            <p><small>&copy; 2021 <a href="https://devafied.com">Devafied</a>. All Rights Reserved.</small></p>
+            <p><small>&copy; 2021 <a href="https://surgecable.com/">Surge Cable</a>. All Rights Reserved.</small></p>
           </div>
         </div>
       </div>

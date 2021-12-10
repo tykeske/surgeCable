@@ -114,6 +114,7 @@
     <Content Include="assets\img\work_5.jpg" />
     <Content Include="assets\img\work_6.jpg" />
     <Content Include="assets\img\work_7.jpg" />
+    <Content Include="assets\js\background.js" />
     <Content Include="assets\js\custom.js" />
     <Content Include="assets\js\custom.min.js" />
     <Content Include="assets\js\gulpfile.js" />

@@ -55,9 +55,9 @@ p, ul, ol {
 }
 
 a {
-  -webkit-transition: .3s all;
-  transition: .3s all;
-  color: #66FCF1;
+    -webkit-transition: .3s all;
+    transition: .3s all;
+    color: #94D3FF;
 }
 
 a:hover, a:focus, a:active {
@@ -221,7 +221,7 @@ a:hover, a:focus, a:active {
 }
 
 .probootstrap-navbar .dropdown.open > a, .probootstrap-navbar .dropdown:hover > a, .probootstrap-navbar .dropdown:focus > a, .probootstrap-navbar .dropdown:active > a {
-  border-top: 2px solid #66FCF1;
+  border-top: 2px solid #94D3FF;
   -webkit-transition: .3s all;
   transition: .3s all;
 }
@@ -259,7 +259,7 @@ a:hover, a:focus, a:active {
 }
 
 .probootstrap-navbar .dropdown > .dropdown-menu > li.dropdown-submenu.open > a:before, .probootstrap-navbar .dropdown > .dropdown-menu > li.dropdown-submenu:hover > a:before, .probootstrap-navbar .dropdown > .dropdown-menu > li.dropdown-submenu:focus > a:before, .probootstrap-navbar .dropdown > .dropdown-menu > li.dropdown-submenu:active > a:before {
-  color: #000000;
+  color: white;
 }
 
 .probootstrap-navbar .navbar-right .dropdown-menu {
@@ -345,7 +345,7 @@ a:hover, a:focus, a:active {
 }
 
 .probootstrap-navbar .navbar-nav > li > a:hover, .probootstrap-navbar .navbar-nav > li > a:focus, .probootstrap-navbar .navbar-nav > li > a:active {
-    border-top: 2px solid #66FCF1;
+    border-top: 2px solid #94D3FF;
 }
 
 @media screen and (max-width: 480px) {
@@ -366,7 +366,7 @@ a:hover, a:focus, a:active {
     border-radius: 4px;
     padding: 10px 20px;
     margin-top: 30px;
-    background: #66FCF1;
+    background: ##94D3FF;
     color: #C5C6C7;
 }
 
@@ -586,7 +586,7 @@ a:hover, a:focus, a:active {
 }
 
 .probootstrap-hero.probootstrap-hero-colored {
-    background: #66FCF1;
+    background: #94D3FF;
 }
 
 .probootstrap-hero.probootstrap-hero-colored h1 {
@@ -728,11 +728,11 @@ a:hover, a:focus, a:active {
         box-shadow: 0px 0px 40px 0px rgba(0, 0, 0, 0.08);
     }
 
-    .probootstrap-showcase-nav ul li.active > a {
-        color: #66FCF1;
-        padding-left: 0px;
-        display: block;
-    }
+        .probootstrap-showcase-nav ul li.active > a {
+            color: #94D3FF;
+            padding-left: 0px;
+            display: block;
+        }
 
 .probootstrap-showcase-nav ul li.active p {
   display: block;

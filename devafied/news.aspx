@@ -5,7 +5,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Surge Cable INC |Find a Job</title>
+    <title>Surge Cable INC |News</title>
     <meta name="description" content="Surge Cable">
     <meta name="keywords" content="Surge Cable">
     
@@ -42,10 +42,10 @@
               <a href="#" data-toggle="dropdown" class="dropdown-toggle">Pages</a>
               <ul class="dropdown-menu">
                 <li><a href="about.aspx">About Us</a></li>
-                <li class="active"><a href="News.aspx">News</a></li>
                 <li><a href="findAJob.aspx">Find a Job</a></li>
                 <li><a href="findAnEmployee.aspx">Find an Employee</a></li>
                 <li><a href="partnershipAndFranchise.aspx">Partnership and Franchise</a></li>
+                <li class="active"><a href="News.aspx">News</a></li>
                
               </ul>
                 <li>
@@ -64,8 +64,8 @@
             <div class="row">
               <div class="col-md-8 col-md-offset-2">
                 <div class="probootstrap-slider-text text-center">
-                  <h1 class="probootstrap-heading">Find a Job</h1>
-                  <p class="probootstrap-subheading">Loream isper diaoe flaekies goopser</p>
+                  <h1 class="probootstrap-heading">News</h1>
+                  <p class="probootstrap-subheading"></p>
                 </div>
               </div>
             </div>
@@ -78,7 +78,7 @@
       <section class="probootstrap-section">
           <div class="row">
           <div class="col-md-6 col-md-offset-3 text-center section-heading">
-            <h2>Our Find a Job Services</h2>
+            <h2>Our News</h2>
           </div>
         </div>
       <div class="container">

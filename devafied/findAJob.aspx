@@ -71,72 +71,319 @@
         </li>
       </ul>
     </section>
+       <section class="probootstrap-section proboostrap-clients ">
+      <div class="container">
 
-
-      <section class="probootstrap-section">
-          <div class="row">
+        <div class="row probootstrap-gutter60">
+            <div class="row">
           <div class="col-md-6 col-md-offset-3 text-center section-heading">
-            <h2>Our Find a Job Services</h2>
+            <h2>Our Services</h2>
           </div>
         </div>
-      <div class="container">
+          <div class="col-md-4 probootstrap-animate" data-animate-effect="fadeIn">
+            <div class="service hover_service text-center">
+              <div class="icon"><i class="icon-mobile3"></i></div>
+              <div class="text">
+                <h3>Competitive Salary</h3>
+                <p></p>
+              </div>  
+            </div>
+          </div>
+          <div class="col-md-4 probootstrap-animate" data-animate-effect="fadeIn">
+            <div class="service hover_service text-center">
+              <div class="icon"><i class="icon-presentation"></i></div>
+              <div class="text">
+                <h3>Stable work & projects</h3>
+                <p></p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4 probootstrap-animate" data-animate-effect="fadeIn">
+            <div class="service hover_service text-center">
+              <div class="icon"><i class="icon-circle-compass"></i></div>
+              <div class="text">
+                <h3>Flexible work schedules</h3>
+                <p></p>
+              </div>
+            </div>
+          </div>
+            <div class="container">
+
+        <div class="row">
+          <div class="col-md-6 col-md-offset-3 text-center section-heading probootstrap-animate">
+            <p class="lead">We have a wide variety of services such as residential installation, home security and automation, underground and aerial constructions, multi-dwelling unit constructions, and other special services.</p>
+              </div>
+        </div>
+        <!-- END row -->
+      </div>
+        </div>
+        <!-- END row -->
+      </div>
+    
+
+
+      
+                <div class="container">
         <div class="row">
           <div class="col-md-6">
             <div class="service left-icon probootstrap-animate" data-animate-effect="fadeInLeft">
               <div class="icon"><i class="icon-user-check"></i></div>
               <div class="text">
-                <h3>Loream Ipsome</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit iusto provident.</p>
+                <h3>Residential Installation</h3>
+                <p>These include installation of high-speed internet modems, setting up wifi networks, and even servicing them. Our technicians and engineers are quick to respond and assist you with any problems regarding your home network.</p>
               </div>  
             </div>
             <div class="service left-icon probootstrap-animate" data-animate-effect="fadeInLeft">
               <div class="icon"><i class="icon-pencil"></i></div>
               <div class="text">
-                <h3>Loream Ipsomen</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit iusto provident.</p>
+                <h3>Home Security And Automation</h3>
+                <p>We also provide automated security systems for your homes to keep them safe from intruders. These robust systems come with numerous features that are simple to understand and use on a daily basis.</p>
               </div>
             </div>
-            <div class="service left-icon probootstrap-animate" data-animate-effect="fadeInLeft">
-              <div class="icon"><i class="icon-spinner"></i></div>
-              <div class="text">
-                <h3>Loream Ipsomeps</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit iusto provident.</p>
-              </div>
-            </div>
+          
           </div>
           <div class="col-md-6">
             <div class="service left-icon probootstrap-animate" data-animate-effect="fadeInLeft">
               <div class="icon"><i class="icon-embed2"></i></div>
               <div class="text">
-                <h3>Loream Ipsomease</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto provident qui tempore natus quos quibusdam soluta at.</p>
+                <h3>Multi-Dwelling Unit Constructions</h3>
+                <p>Planning and constructing networks for apartments and colonies is yet another area that we cater to. As in the previous cases, we work with partners and vendors to provide quality services. Besides constructing them, we also service the colonies with the help of our technicians and engineers.</p>
               </div>  
             </div>
             
             <div class="service left-icon probootstrap-animate" data-animate-effect="fadeInLeft">
-              <div class="icon"><i class="icon-bubbles"></i></div>
+              <div class="icon"><i class="icon-spinner"></i></div>
               <div class="text">
-                <h3>Loream Ipsomeck</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto provident qui tempore natus quos quibusdam soluta at.</p>
-              </div>
-            </div>
-            
-            <div class="service left-icon probootstrap-animate" data-animate-effect="fadeInLeft">
-              <div class="icon"><i class="icon-cloud-check"></i></div>
-              <div class="text">
-                <h3>Loream Ipsomench</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto provident qui tempore natus quos quibusdam soluta at.</p>
-              </div>
-            </div>
+                <h3>Underground And Aerial Constructions</h3>
+                <p>We work with our partners and specialize in constructing underground and aerial networks of fiber optic and 5G services. These include end-to-end planning and execution of outside plant designs.</p>
+              </div>           
+         </div>
+         </div>     
+        </div>
+        <!-- END row -->
+      </div>
+                     <div class="container">
 
+        <div class="row">
+          <div class="col-md-6 col-md-offset-3 text-center section-heading probootstrap-animate">
+            <p class="lead">Above and beyond these, we provide services such as digital migration of projects, digital conversions, hurricane relief, and others.</p>
+              <p class="lead">With these services, we look to grow further by increasing our reach to numerous other states and constantly evolve the way we provide our services.</p>
+          </div>
+        </div>
+        <!-- END row -->
+      </div>
+   
+      </section>
+    <section class="probootstrap-section proboostrap-clients probootstrap-bg-white probootstrap-zindex-above-showcase">
+      <div class="container">
+
+        <div class="row">
+          <div class="col-md-6 col-md-offset-3 text-center section-heading probootstrap-animate">
+            <h2>About Us</h2>
+            <p class="lead">As a growing telecommunication service company, we are always on the look for outreach mediums. One such medium is expanding our service company as a franchise in other places. Currently, we are based in the state of Illinois and would like to have branches in other states as well.</p>
+              <p class="lead">This brings an entrepreneurship opportunity for anyone and everyone passionate about telecommunications and networks. An opportunity that enables you to have your own business under our franchise, and it also helps us expand as a company and build new customer bases.</p>
+              <p class="lead">As owners of the branches, you’ll manage and run all operations as we help you with the resources and support you as franchise owners. Besides these, we’d also help you with the direction of the company and plans of expansion.</p>
           </div>
         </div>
         <!-- END row -->
       </div>
     </section>
+      <section class="probootstrap-section proboostrap-clients probootstrap-bg-white probootstrap-zindex-above-showcase">
+      <div class="container">
 
-    
-    
+        <div class="row">
+          <div class="col-md-6 col-md-offset-3 text-center section-heading probootstrap-animate">
+            <h2>Our Clients</h2>
+            <p class="lead">Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto provident qui tempore natus quos quibusdam soluta at.</p>
+          </div>
+        </div>
+        <!-- END row -->
+      </div>
+    </section>
+      <section class="probootstrap-section">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-6 col-md-offset-3 text-center section-heading probootstrap-animate">
+            <h2>Team</h2>
+          </div>
+        </div>
+        <!-- END row -->
+        <div class="row">
+          <div class="col-md-3 col-sm-6 col-xs-6 probootstrap-animate">
+            <a href="#" class="probootstrap-team">
+              <img src="assets/img/person_2.jpg" alt="Free Bootstrap Template by uicookies.com" class="img-responsive img-rounded" width="200" height="200" style="padding-left: 25px">
+              <div class="probootstrap-team-info">
+                <h3>Lil Baby <span class="position">Co-Founder / Creative</span></h3>
+              </div>
+            </a>
+          </div>
+          
+          <div class="clearfix visible-sm-block visible-xs-block"></div>
+
+          <div class="col-md-3 col-sm-6 col-xs-6 probootstrap-animate">
+            <a href="#" class="probootstrap-team">
+              <img src="assets/img/person_3.jpg" alt="Free Bootstrap Template by uicookies.com" class="img-responsive img-rounded" width="200" height="200" style="padding-left: 25px">
+              <div class="probootstrap-team-info">
+                <h3>Will Smith <span class="position">Developer</span></h3>
+              </div>
+            </a>
+          </div>
+          <div class="col-md-3 col-sm-6 col-xs-6 probootstrap-animate">
+              <a href="#" class="probootstrap-team">
+              <img src="assets/img/person_3.jpg" alt="Free Bootstrap Template by uicookies.com" class="img-responsive img-rounded" width="200" height="200" style="padding-left: 25px">
+              <div class="probootstrap-team-info">
+                <h3>Don Joe <span class="position">Designer</span></h3>
+                
+              </div>
+            </a>
+          </div>
+
+          <div class="clearfix visible-sm-block visible-xs-block"></div>
+
+          <div class="col-md-3 col-sm-6 col-xs-6 probootstrap-animate">
+            <a href="#" class="probootstrap-team">
+              <img src="assets/img/person_2.jpg" alt="Free Bootstrap Template by uicookies.com" class="img-responsive img-rounded" width="200" height="200" style="padding-left: 25px">
+              <div class="probootstrap-team-info">
+                <h3>Kid Cudi <span class="position">Co-Founder / Creative</span></h3>
+              </div>
+            </a>
+          </div>
+          <div class="col-md-3 col-sm-6 col-xs-6 probootstrap-animate">
+            <a href="#" class="probootstrap-team">
+              <img src="assets/img/person_1.jpg" alt="Free Bootstrap Template by uicookies.com" class="img-responsive img-rounded" width="200" height="200" style="padding-left: 25px">
+              <div class="probootstrap-team-info">
+                <h3>Da Baby <span class="position">Co-Founder / Tech</span></h3>
+              </div>
+            </a>
+          </div>
+          
+        </div>
+      </div>
+    </section>
+       <section class="probootstrap-section">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-6 col-md-offset-3 text-center section-heading probootstrap-animate">
+            <h2>Team</h2>
+          </div>
+        </div>
+        <!-- END row -->
+        <div class="row">
+          <div class="col-md-3 col-sm-6 col-xs-6 probootstrap-animate">
+            <a href="#" class="probootstrap-team">
+              <img src="assets/img/person_1.jpg" alt="Free Bootstrap Template by uicookies.com" class="img-responsive img-rounded">
+              <img src="assets/img/person_1.jpg" alt="Free Bootstrap Template by uicookies.com" class="img-responsive img-rounded">
+              <div class="probootstrap-team-info">
+                <h3>Mike Hawk <span class="position">Co-Founder / Tech</span></h3>
+              </div>
+            </a>
+          </div>
+          <div class="col-md-3 col-sm-6 col-xs-6 probootstrap-animate">
+            <a href="#" class="probootstrap-team">
+              <img src="assets/img/person_2.jpg" alt="Free Bootstrap Template by uicookies.com" class="img-responsive img-rounded">
+              <div class="probootstrap-team-info">
+                <h3>Lil Baby <span class="position">Co-Founder / Creative</span></h3>
+              </div>
+            </a>
+          </div>
+          
+          <div class="clearfix visible-sm-block visible-xs-block"></div>
+
+          <div class="col-md-3 col-sm-6 col-xs-6 probootstrap-animate">
+            <a href="#" class="probootstrap-team">
+              <img src="assets/img/person_3.jpg" alt="Free Bootstrap Template by uicookies.com" class="img-responsive img-rounded">
+              <div class="probootstrap-team-info">
+                <h3>Will Smith <span class="position">Developer</span></h3>
+              </div>
+            </a>
+          </div>
+          <div class="col-md-3 col-sm-6 col-xs-6 probootstrap-animate">
+            <a href="#" class="probootstrap-team">
+              <img src="assets/img/person_4.jpg" alt="Free Bootstrap Template by uicookies.com" class="img-responsive img-rounded">
+              <div class="probootstrap-team-info">
+                <h3>Don Joe <span class="position">Designer</span></h3>
+                
+              </div>
+            </a>
+          </div>
+
+          <div class="clearfix visible-sm-block visible-xs-block"></div>
+
+          <div class="col-md-3 col-sm-6 col-xs-6 probootstrap-animate">
+            <a href="#" class="probootstrap-team">
+              <img src="assets/img/person_2.jpg" alt="Free Bootstrap Template by uicookies.com" class="img-responsive img-rounded">
+              <div class="probootstrap-team-info">
+                <h3>Kid Cudi <span class="position">Co-Founder / Creative</span></h3>
+              </div>
+            </a>
+          </div>
+          <div class="col-md-3 col-sm-6 col-xs-6 probootstrap-animate">
+            <a href="#" class="probootstrap-team">
+              <img src="assets/img/person_1.jpg" alt="Free Bootstrap Template by uicookies.com" class="img-responsive img-rounded">
+              <div class="probootstrap-team-info">
+                <h3>Da Baby <span class="position">Co-Founder / Tech</span></h3>
+              </div>
+            </a>
+          </div>
+          
+          <div class="clearfix visible-sm-block visible-xs-block"></div>
+
+          <div class="col-md-3 col-sm-6 col-xs-6 probootstrap-animate">
+            <a href="#" class="probootstrap-team">
+              <img src="assets/img/person_4.jpg" alt="Free Bootstrap Template by uicookies.com" class="img-responsive img-rounded">
+              <div class="probootstrap-team-info">
+                <h3>Don Donnie <span class="position">Designer</span></h3>
+                
+              </div>
+            </a>
+          </div>
+        </div>
+      </div>
+    </section>
+      <section class="probootstrap-section probootstrap-bg-white">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-6 col-md-offset-3 text-center section-heading">
+            <h2>Testimonials</h2>
+          </div>
+        </div>
+        <!-- END row -->
+        <div class="row">
+          <div class="col-md-12">
+            <div class="owl-carousel owl-carousel-fullwidth">
+              <div class="item">
+
+                <div class="probootstrap-testimony-wrap text-center">
+                  <figure>
+                    <img src="assets/img/person_1.jpg" alt="Free Bootstrap Template by uicookies.com">
+                  </figure>
+                  <blockquote class="quote">&ldquo;Design must be functional and functionality must be translated into visual aesthetics, without any reliance on gimmicks that have to be explained.&rdquo; <cite class="author">&mdash; Ferdinand A. Porsche <br> <span>Design Lead at AirBNB</span></cite></blockquote>
+                </div>
+
+              </div>
+              <div class="item">
+                <div class="probootstrap-testimony-wrap text-center">
+                  <figure>
+                    <img src="assets/img/person_2.jpg" alt="Free Bootstrap Template by uicookies.com">
+                  </figure>
+                  <blockquote class="quote">&ldquo;Creativity is just connecting things. When you ask creative people how they did something, they feel a little guilty because they didn’t really do it, they just saw something. It seemed obvious to them after a while.&rdquo; <cite class="author">&mdash; Steve Jobs <br> <span>Co-Founder Square</span></cite></blockquote>
+                </div>
+              </div>
+              <div class="item">
+                <div class="probootstrap-testimony-wrap text-center">
+                  <figure>
+                    <img src="assets/img/person_3.jpg" alt="Free Bootstrap Template by uicookies.com">
+                  </figure>
+                  <blockquote class="quote">&ldquo;I think design would be better if designers were much more skeptical about its applications. If you believe in the potency of your craft, where you choose to dole it out is not something to take lightly.&rdquo; <cite class="author">&mdash; Frank Chimero <br> <span>Creative Director at Twitter</span></cite></blockquote>
+                </div>
+              </div>
+              
+            </div>
+          </div>
+        </div>
+        <!-- END row -->
+      </div>
+    </section>
     <section class="probootstrap-cta">
       <div class="container">
         <div class="row">

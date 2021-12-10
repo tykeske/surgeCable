@@ -5,9 +5,9 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Devafied | Technologies</title>
-    <meta name="description" content="Devafied Service Technologies">
-    <meta name="keywords" content="Website technology, SQL, Database, MySQL, ASP.NET, C#, Devafied">
+    <title>Surge Cable</title>
+    <meta name="description" content="Surge Cable Services">
+    <meta name="keywords" content="Surge Cable">
     
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:400,500,700">
     <link rel="stylesheet" href="assets/css/styles-merged.css">
@@ -45,7 +45,7 @@
                 <li><a href="findAJob.aspx">Find a Job</a></li>
                 <li class="active"><a href="findAnEmployee.aspx">Find an Employee</a></li>
                 <li><a href="partnershipAndFranchise.aspx">Partnership and Franchise</a></li>
-                <li><a href="News.aspx">Services</a></li>
+                <li><a href="News.aspx">News</a></li>
               </ul>
             </li>
             <li><a href="contact.aspx">Contact</a></li>
@@ -62,35 +62,108 @@
             <div class="row">
               <div class="col-md-8 col-md-offset-2">
                 <div class="probootstrap-slider-text text-center">
-                  <h1 class="probootstrap-heading">Poster</h1>
-                  <p class="probootstrap-subheading">Brand Identity, Website</p>
+                  <h1 class="probootstrap-heading">Find an Employee</h1>
+                  <p class="probootstrap-subheading"></p>
                 </div>
               </div>
             </div>
           </div>
         </li>
       </ul>
-    </section>
-
-
-    
-
-    <section class="probootstrap-section proboostrap-clients probootstrap-bg-white probootstrap-zindex-above-showcase">
+    </section>   
+      <section class="probootstrap-section proboostrap-clients probootstrap-bg-white probootstrap-zindex-above-showcase">
       <div class="container">
 
-        <div class="row mb50">
-          <div class="col-md-4"><h1 class="mt0">The Technologies We Use</h1></div>
-          <div class="col-md-7 col-md-push-1">
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum est incidunt dolorem earum doloremque quasi mollitia magnam debitis eos eligendi ratione a illo ipsam aspernatur quas odio dicta! Neque ullam reiciendis numquam architecto eius reprehenderit aperiam dicta voluptates laborum a fugit sit non omnis perferendis magni suscipit dolorum cumque obcaecati autem. Explicabo odit veritatis quae porro praesentium veniam delectus itaque expedita cumque minus necessitatibus quia assumenda illum! Vitae doloribus nemo esse alias autem debitis facilis quae pariatur voluptatum eaque perspiciatis animi accusantium cupiditate at molestias optio assumenda hic fuga. Consequatur vero cupiditate ea dolorum sit cum odio ipsam aliquam sed!</p>
-            <p>Explicabo odit veritatis quae porro praesentium veniam delectus itaque expedita cumque minus necessitatibus quia assumenda illum! Vitae doloribus nemo esse alias autem debitis facilis quae pariatur voluptatum eaque perspiciatis animi accusantium cupiditate at molestias optio assumenda hic fuga. Consequatur vero cupiditate ea dolorum sit cum odio ipsam aliquam sed!</p>
+        <div class="row">
+          <div class="col-md-6 col-md-offset-3 text-center section-heading probootstrap-animate">
+            <h2>Our Clients</h2>
+            <p class="lead">Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto provident qui tempore natus quos quibusdam soluta at.</p>
           </div>
         </div>
         <!-- END row -->
       </div>
     </section>
+       <section class="probootstrap-section">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-6 col-md-offset-3 text-center section-heading probootstrap-animate">
+            <h2>Team</h2>
+          </div>
+        </div>
+        <!-- END row -->
+        <div class="row">
+          <div class="col-md-3 col-sm-6 col-xs-6 probootstrap-animate">
+            <a href="#" class="probootstrap-team">
+              <img src="assets/img/person_1.jpg" alt="Free Bootstrap Template by uicookies.com" class="img-responsive img-rounded">
+              <img src="assets/img/person_1.jpg" alt="Free Bootstrap Template by uicookies.com" class="img-responsive img-rounded">
+              <div class="probootstrap-team-info">
+                <h3>Mike Hawk <span class="position">Co-Founder / Tech</span></h3>
+              </div>
+            </a>
+          </div>
+          <div class="col-md-3 col-sm-6 col-xs-6 probootstrap-animate">
+            <a href="#" class="probootstrap-team">
+              <img src="assets/img/person_2.jpg" alt="Free Bootstrap Template by uicookies.com" class="img-responsive img-rounded">
+              <div class="probootstrap-team-info">
+                <h3>Lil Baby <span class="position">Co-Founder / Creative</span></h3>
+              </div>
+            </a>
+          </div>
+          
+          <div class="clearfix visible-sm-block visible-xs-block"></div>
 
-    
+          <div class="col-md-3 col-sm-6 col-xs-6 probootstrap-animate">
+            <a href="#" class="probootstrap-team">
+              <img src="assets/img/person_3.jpg" alt="Free Bootstrap Template by uicookies.com" class="img-responsive img-rounded">
+              <div class="probootstrap-team-info">
+                <h3>Will Smith <span class="position">Developer</span></h3>
+              </div>
+            </a>
+          </div>
+          <div class="col-md-3 col-sm-6 col-xs-6 probootstrap-animate">
+            <a href="#" class="probootstrap-team">
+              <img src="assets/img/person_4.jpg" alt="Free Bootstrap Template by uicookies.com" class="img-responsive img-rounded">
+              <div class="probootstrap-team-info">
+                <h3>Don Joe <span class="position">Designer</span></h3>
+                
+              </div>
+            </a>
+          </div>
 
+          <div class="clearfix visible-sm-block visible-xs-block"></div>
+
+          <div class="col-md-3 col-sm-6 col-xs-6 probootstrap-animate">
+            <a href="#" class="probootstrap-team">
+              <img src="assets/img/person_2.jpg" alt="Free Bootstrap Template by uicookies.com" class="img-responsive img-rounded">
+              <div class="probootstrap-team-info">
+                <h3>Kid Cudi <span class="position">Co-Founder / Creative</span></h3>
+              </div>
+            </a>
+          </div>
+          <div class="col-md-3 col-sm-6 col-xs-6 probootstrap-animate">
+            <a href="#" class="probootstrap-team">
+              <img src="assets/img/person_1.jpg" alt="Free Bootstrap Template by uicookies.com" class="img-responsive img-rounded">
+              <div class="probootstrap-team-info">
+                <h3>Da Baby <span class="position">Co-Founder / Tech</span></h3>
+              </div>
+            </a>
+          </div>
+          
+          <div class="clearfix visible-sm-block visible-xs-block"></div>
+
+          <div class="col-md-3 col-sm-6 col-xs-6 probootstrap-animate">
+            <a href="#" class="probootstrap-team">
+              <img src="assets/img/person_4.jpg" alt="Free Bootstrap Template by uicookies.com" class="img-responsive img-rounded">
+              <div class="probootstrap-team-info">
+                <h3>Don Donnie <span class="position">Designer</span></h3>
+                
+              </div>
+            </a>
+          </div>
+        </div>
+      </div>
+    </section>
+  
     
     
     <section class="probootstrap-cta">

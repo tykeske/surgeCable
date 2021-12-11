@@ -195,7 +195,58 @@
         <!-- END row -->
       </div>
     </section>
-
+      <section>
+      <div class="container">
+  <div class="col_fourth">
+    <div class="at-work-process position-relative overflow-hidden text-center">
+      <div class="at-work-process-text">
+        <span class="at-work-process-number">01</span>
+        <span class="at-work-process-number-text">1st Step</span>
+        <div class="at-separator-thick"></div>
+      </div>
+      <div class="at-work-process-details">
+        <i class="fa fa-diamond"></i><span>You leave a request</span>
+      </div>
+    </div>
+  </div>
+  <div class="col_fourth text-center">
+    <div class="at-work-process position-relative overflow-hidden">
+      <div class="at-work-process-text">
+        <span class="at-work-process-number">02</span>
+        <span class="at-work-process-number-text">2nd step</span>
+        <div class="at-separator-thick"></div>
+      </div>
+      <div class="at-work-process-details">
+        <i class="fa fa-magic"></i><span>Our manager will contact you and clarify all your wishes</span>
+      </div>
+    </div>
+  </div>
+  <div class="col_fourth text-center">
+    <div class="at-work-process position-relative overflow-hidden">
+      <div class="at-work-process-text">
+        <span class="at-work-process-number">03</span>
+        <span class="at-work-process-number-text">3rd step</span>
+        <div class="at-separator-thick"></div>
+      </div>
+      <div class="at-work-process-details">
+        <i class="fa fa-rocket"></i><span>We will conduct an interview and select the best job for you</span>
+      </div>
+    </div>
+  </div>
+  <div class="col_fourth text-center end">
+    <div class="at-work-process position-relative overflow-hidden">
+      <div class="at-work-process-text">
+        <span class="at-work-process-number">04</span>
+        <span class="at-work-process-number-text">4th step</span>
+        <div class="at-separator-thick"></div>
+      </div>
+      <div class="at-work-process-details">
+        <i class="fa fa-shopping-basket"></i><span>We will conduct an interview and select the best job for you</span>
+      </div>
+    </div>
+  </div>
+</div>   
+          </section>
     
     <section class="probootstrap-cta">
       <div class="container">

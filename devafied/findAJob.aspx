@@ -12,7 +12,7 @@
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:400,500,700">
     <link rel="stylesheet" href="assets/css/styles-merged.css">
     <link rel="stylesheet" href="assets/css/style.min.css">
-
+    
     <!--[if lt IE 9]>
       <script src="js/vendor/html5shiv.min.js"></script>
       <script src="js/vendor/respond.min.js"></script>
@@ -372,60 +372,58 @@
         <!-- END row -->
       </div>
     </section>
-      <section class="probootstrap-section probootstrap-bg-white probootstrap-zindex-above-showcase">
+      <section>
       <div class="container">
-
-        <div class="row">
-          <div class="col-md-6 col-md-offset-3 text-center section-heading probootstrap-animate" data-animate-effect="fadeIn">
-            <h2>Find what you're looking for</h2>
-          </div>
-        </div>
-          </div>
-          
-
-        <div class="row probootstrap-gutter60">
-          <div class="col-md-4 probootstrap-animate" data-animate-effect="fadeIn">
-            <div class="service hover_service text-center">
-              <div class="icon"><i class="icon-lightbulb"></i></div>
-              <div class="text">
-                <h3>I need a job</h3>
-                <p>Start your career here</p>
-                  <a href="#" role="button" style="background-color:#0066BF" class="btn btn-primary btn-lg btn-ghost probootstrap-animate" data-animate-effect="fadeInLeft">Learn more</a>
-              </div>  
-            </div>
-          </div>
-          <div class="col-md-4 probootstrap-animate" data-animate-effect="fadeIn">
-            <div class="service hover_service text-center">
-              <div class="icon"><i class="icon-magnifying-glass2"></i></div>
-              <div class="text">
-                <h3>I need an employee</h3>
-                <p>Find exactly who you're looking for</p>
-                  <a href="#" role="button" style="background-color:#0066BF" class="btn btn-primary btn-lg btn-ghost probootstrap-animate" data-animate-effect="fadeInLeft">Learn more</a>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-4 probootstrap-animate" data-animate-effect="fadeIn">
-            <div class="service hover_service text-center">
-              <div class="icon"><i class="icon-browser2"></i></div>
-              <div class="text">
-                <h3>Partnership/Franchise</h3>
-                <p>Would you like to become a partner?</p>
-                  <a href="#" role="button" style="background-color:#0066BF" class="btn btn-primary btn-lg btn-ghost probootstrap-animate" data-animate-effect="fadeInLeft">Learn more</a>
-              </div>
-            </div>
-          </div>
-             <div class="col-md-4 probootstrap-animate" data-animate-effect="fadeIn">
-            <div class="service hover_service text-center">
-              <div class="icon"><i class="icon-browser2"></i></div>
-              <div class="text">
-                <h3>Partnership/Franchise</h3>
-                <p>Would you like to become a partner?</p>
-                  <a href="#" role="button" style="background-color:#0066BF" class="btn btn-primary btn-lg btn-ghost probootstrap-animate" data-animate-effect="fadeInLeft">Learn more</a>
-              </div>
-            </div>
-          </div>
-            </div>     
-    </section>
+  <div class="col_fourth">
+    <div class="at-work-process position-relative overflow-hidden text-center">
+      <div class="at-work-process-text">
+        <span class="at-work-process-number">01</span>
+        <span class="at-work-process-number-text">1st Step</span>
+        <div class="at-separator-thick"></div>
+      </div>
+      <div class="at-work-process-details">
+        <i class="fa fa-diamond"></i><span>You leave a request</span>
+      </div>
+    </div>
+  </div>
+  <div class="col_fourth text-center">
+    <div class="at-work-process position-relative overflow-hidden">
+      <div class="at-work-process-text">
+        <span class="at-work-process-number">02</span>
+        <span class="at-work-process-number-text">2nd step</span>
+        <div class="at-separator-thick"></div>
+      </div>
+      <div class="at-work-process-details">
+        <i class="fa fa-magic"></i><span>Our manager will contact you and clarify all your wishes</span>
+      </div>
+    </div>
+  </div>
+  <div class="col_fourth text-center">
+    <div class="at-work-process position-relative overflow-hidden">
+      <div class="at-work-process-text">
+        <span class="at-work-process-number">03</span>
+        <span class="at-work-process-number-text">3rd step</span>
+        <div class="at-separator-thick"></div>
+      </div>
+      <div class="at-work-process-details">
+        <i class="fa fa-rocket"></i><span>We will conduct an interview and select the best job for you</span>
+      </div>
+    </div>
+  </div>
+  <div class="col_fourth text-center end">
+    <div class="at-work-process position-relative overflow-hidden">
+      <div class="at-work-process-text">
+        <span class="at-work-process-number">04</span>
+        <span class="at-work-process-number-text">4th step</span>
+        <div class="at-separator-thick"></div>
+      </div>
+      <div class="at-work-process-details">
+        <i class="fa fa-shopping-basket"></i><span>We will conduct an interview and select the best job for you</span>
+      </div>
+    </div>
+  </div>
+</div>   
+          </section>
     <section class="probootstrap-cta">
       <div class="container">
         <div class="row">

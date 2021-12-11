@@ -61,8 +61,8 @@
             <div class="row">
               <div class="col-md-8 col-md-offset-2">
                 <div class="probootstrap-slider-text text-center">
-                  <h1 class="probootstrap-heading">Hosting</h1>
-                  <p class="probootstrap-subheading">Loream isper diaoe flaekies goopser</p>
+                  <h1 class="probootstrap-heading">Start a Career</h1>
+                  <p class="probootstrap-subheading"></p>
                 </div>
               </div>
             </div>
@@ -152,7 +152,7 @@
         <div class="row">
           <div class="col-md-6">
             <div class="probootstrap-footer-widget">
-              <h3>Surge Cable INC.</h3>
+              <img src="assets/img/bottomlogo1.png" />
               <p>Contact info contact info contact info</p>
               <ul class="probootstrap-footer-social">
                 <li><a href="#"><i class="icon-twitter"></i></a></li>

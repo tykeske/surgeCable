@@ -60,8 +60,8 @@
             <div class="row">
               <div class="col-md-8 col-md-offset-2">
                 <div class="probootstrap-slider-text text-center">
-                  <h1 class="probootstrap-heading">About Us</h1>
-                  <p class="probootstrap-subheading">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                  <h1 class="probootstrap-heading">What is Surge Cable?</h1>
+                  <p class="probootstrap-subheading"></p>
                 </div>
               </div>
             </div>
@@ -71,172 +71,29 @@
     </section>
 
 
-    <section class="probootstrap-section">
+    <section class="probootstrap-section probootstrap-border-top probootstrap-bg-white">
       <div class="container">
         <div class="row">
-          <div class="col-md-6 col-md-offset-3 text-center section-heading probootstrap-animate">
-            <h2>Team</h2>
+          <div class="col-md-6 col-md-offset-3 text-center section-heading">
+            <h2>About Us</h2>
           </div>
-        </div>
+          <div class="col-md-12" style="color:#808080; text-align:center;">
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum est incidunt dolorem earum doloremque quasi mollitia magnam debitis eos eligendi ratione a illo ipsam aspernatur quas odio dicta! Neque ullam reiciendis numquam architecto eius reprehenderit aperiam dicta voluptates laborum a fugit sit non omnis perferendis magni suscipit dolorum cumque obcaecati autem. Explicabo odit veritatis quae porro praesentium veniam delectus itaque expedita cumque minus necessitatibus quia assumenda illum! Vitae doloribus nemo esse alias autem debitis facilis quae pariatur voluptatum eaque perspiciatis animi accusantium cupiditate at molestias optio assumenda hic fuga. Consequatur vero cupiditate ea dolorum sit cum odio ipsam aliquam sed!</p>
+            <p>Explicabo odit veritatis quae porro praesentium veniam delectus itaque expedita cumque minus necessitatibus quia assumenda illum! Vitae doloribus nemo esse alias autem debitis facilis quae pariatur voluptatum eaque perspiciatis animi accusantium cupiditate at molestias optio assumenda hic fuga. Consequatur vero cupiditate ea dolorum sit cum odio ipsam aliquam sed!</p>
+          </div>
+
+          </div>
+       
         <!-- END row -->
-        <div class="row">
-          <div class="col-md-3 col-sm-6 col-xs-6 probootstrap-animate">
-            <a href="#" class="probootstrap-team">
-              <img src="assets/img/person_1.jpg" alt="Free Bootstrap Template by uicookies.com" class="img-responsive img-rounded">
-              <img src="assets/img/person_1.jpg" alt="Free Bootstrap Template by uicookies.com" class="img-responsive img-rounded">
-              <div class="probootstrap-team-info">
-                <h3>Mike Hawk <span class="position">Co-Founder / Tech</span></h3>
-              </div>
-            </a>
-          </div>
-          <div class="col-md-3 col-sm-6 col-xs-6 probootstrap-animate">
-            <a href="#" class="probootstrap-team">
-              <img src="assets/img/person_2.jpg" alt="Free Bootstrap Template by uicookies.com" class="img-responsive img-rounded">
-              <div class="probootstrap-team-info">
-                <h3>Lil Baby <span class="position">Co-Founder / Creative</span></h3>
-              </div>
-            </a>
-          </div>
-          
-          <div class="clearfix visible-sm-block visible-xs-block"></div>
-
-          <div class="col-md-3 col-sm-6 col-xs-6 probootstrap-animate">
-            <a href="#" class="probootstrap-team">
-              <img src="assets/img/person_3.jpg" alt="Free Bootstrap Template by uicookies.com" class="img-responsive img-rounded">
-              <div class="probootstrap-team-info">
-                <h3>Will Smith <span class="position">Developer</span></h3>
-              </div>
-            </a>
-          </div>
-          <div class="col-md-3 col-sm-6 col-xs-6 probootstrap-animate">
-            <a href="#" class="probootstrap-team">
-              <img src="assets/img/person_4.jpg" alt="Free Bootstrap Template by uicookies.com" class="img-responsive img-rounded">
-              <div class="probootstrap-team-info">
-                <h3>Don Joe <span class="position">Designer</span></h3>
-                
-              </div>
-            </a>
-          </div>
-
-          <div class="clearfix visible-sm-block visible-xs-block"></div>
-
-          <div class="col-md-3 col-sm-6 col-xs-6 probootstrap-animate">
-            <a href="#" class="probootstrap-team">
-              <img src="assets/img/person_2.jpg" alt="Free Bootstrap Template by uicookies.com" class="img-responsive img-rounded">
-              <div class="probootstrap-team-info">
-                <h3>Kid Cudi <span class="position">Co-Founder / Creative</span></h3>
-              </div>
-            </a>
-          </div>
-          <div class="col-md-3 col-sm-6 col-xs-6 probootstrap-animate">
-            <a href="#" class="probootstrap-team">
-              <img src="assets/img/person_1.jpg" alt="Free Bootstrap Template by uicookies.com" class="img-responsive img-rounded">
-              <div class="probootstrap-team-info">
-                <h3>Da Baby <span class="position">Co-Founder / Tech</span></h3>
-              </div>
-            </a>
-          </div>
-          
-          <div class="clearfix visible-sm-block visible-xs-block"></div>
-
-          <div class="col-md-3 col-sm-6 col-xs-6 probootstrap-animate">
-            <a href="#" class="probootstrap-team">
-              <img src="assets/img/person_4.jpg" alt="Free Bootstrap Template by uicookies.com" class="img-responsive img-rounded">
-              <div class="probootstrap-team-info">
-                <h3>Don Donnie <span class="position">Designer</span></h3>
-                
-              </div>
-            </a>
-          </div>
-          <div class="col-md-3 col-sm-6 col-xs-6 probootstrap-animate">
-            <a href="#" class="probootstrap-team">
-              <img src="assets/img/person_3.jpg" alt="Free Bootstrap Template by uicookies.com" class="img-responsive img-rounded">
-              <div class="probootstrap-team-info">
-                <h3>John Doe <span class="position">Developer</span></h3>
-              </div>
-            </a>
-          </div>
-          
-
-        </div>
-      </div>
-    </section>
-  
-
-    <section class="probootstrap-section proboostrap-clients probootstrap-bg-white probootstrap-zindex-above-showcase">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-6 col-md-offset-3 text-center section-heading probootstrap-animate">
-            <h2>Lorem ipsum dolor dieas lgien nekaj</h2>
-            <p class="lead">Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto provident qui tempore natus quos quibusdam soluta at.</p>
-          </div>
-        </div>
-        <!-- END row -->
-        
       </div>
     </section>
 
     
 
+    
+
     <section class="probootstrap-section">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-6">
-            <div class="service left-icon probootstrap-animate" data-animate-effect="fadeInLeft">
-              <div class="icon"><i class="icon-mobile3"></i></div>
-              <div class="text">
-                <h3>Lorem ipsum dolor</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit iusto provident.</p>
-              </div>  
-            </div>
-            <div class="service left-icon probootstrap-animate" data-animate-effect="fadeInLeft">
-              <div class="icon"><i class="icon-presentation"></i></div>
-              <div class="text">
-                <h3>Lorem ipsum dolor</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit iusto provident.</p>
-              </div>
-            </div>
-            <div class="service left-icon probootstrap-animate" data-animate-effect="fadeInLeft">
-              <div class="icon"><i class="icon-circle-compass"></i></div>
-              <div class="text">
-                <h3>Lorem ipsum dolor</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit iusto provident.</p>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-6">
-            <div class="service left-icon probootstrap-animate" data-animate-effect="fadeInLeft">
-              <div class="icon"><i class="icon-lightbulb"></i></div>
-              <div class="text">
-                <h3>Lorem ipsum dolor</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto provident qui tempore natus quos quibusdam soluta at.</p>
-              </div>  
-            </div>
-            
-            <div class="service left-icon probootstrap-animate" data-animate-effect="fadeInLeft">
-              <div class="icon"><i class="icon-magnifying-glass2"></i></div>
-              <div class="text">
-                <h3>Lorem ipsum dolor</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto provident qui tempore natus quos quibusdam soluta at.</p>
-              </div>
-            </div>
-            
-            <div class="service left-icon probootstrap-animate" data-animate-effect="fadeInLeft">
-              <div class="icon"><i class="icon-browser2"></i></div>
-              <div class="text">
-                <h3>Lorem ipsum dolor</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto provident qui tempore natus quos quibusdam soluta at.</p>
-              </div>
-            </div>
-
-          </div>
-        </div>
-        <!-- END row -->
-      </div>
-    </section>
-
-    <section class="probootstrap-section probootstrap-border-top probootstrap-bg-white">
-      <div class="container">
+<div class="container">
         <div class="row">
           <div class="col-md-6 col-md-offset-3 text-center section-heading probootstrap-animate">
             <h2>Testimonial</h2>
@@ -279,13 +136,15 @@
         <!-- END row -->
       </div>
     </section>
+
+
     
     <footer class="probootstrap-footer">
       <div class="container">
         <div class="row">
           <div class="col-md-6">
             <div class="probootstrap-footer-widget">
-              <h3>Surge Cable INC.</h3>
+              <img src="assets/img/bottomlogo1.png" />
               <p>Contact info contact info contact info</p>
               <ul class="probootstrap-footer-social">
                 <li><a href="#"><i class="icon-twitter"></i></a></li>

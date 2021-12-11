@@ -86,7 +86,7 @@
 			density: 15000, // the lower the denser
 			netLineDistance: 200,
 			netLineColor: 'blue',  //Line-COLORS
-			particleColors: ['#0066bf'] // ['#6D4E5C', '#aaa', '#FFC458' ] //DOT Colors
+			particleColors: ['#94d3ff'] // ['#6D4E5C', '#aaa', '#FFC458' ] //DOT Colors
 		};
 		this.canvas = parent.canvas;
 		this.ctx = parent.ctx;
@@ -208,8 +208,7 @@
 	ParticleNetwork.prototype.bindUiActions = function () {
 		// Mouse / touch event handling
 		this.spawnQuantity = 3;
-		this.mouseIsDown = false;
-		this.touchIsMoving = false;
+
 
 		this.onMouseMove = function (e) {
 			if (!this.interactionParticle) {
@@ -229,27 +228,7 @@
 			this.interactionParticle.y = e.changedTouches[0].clientY;
 		}.bind(this);
 
-		this.onMouseDown = function (e) {
-			this.mouseIsDown = true;
-			var counter = 0;
-			var quantity = this.spawnQuantity;
-			var intervalId = setInterval(function () {
-				if (this.mouseIsDown) {
-					if (counter === 1) {
-						quantity = 1;
-					}
-					for (var i = 0; i < quantity; i++) {
-						if (this.interactionParticle) {
-							this.particles.push(new Particle(this, this.interactionParticle.x, this.interactionParticle.y));
-						}
-					}
-				}
-				else {
-					clearInterval(intervalId);
-				}
-				counter++;
-			}.bind(this), 50);
-		}.bind(this);
+		
 
 		this.onTouchStart = function (e) {
 			e.preventDefault();
@@ -309,7 +288,6 @@
 		return array[Math.floor(Math.random() * array.length)];
 	};
 
-	pna = new ParticleNetworkAnimation(); pna.init($('.particle-network-animation')[0]);
+	pna = new ParticleNetworkAnimation(); pna.init($('.probootstrap-section')[0]);
 
 }());
-

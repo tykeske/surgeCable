@@ -79,6 +79,8 @@
     <Content Include="assets\css\vendor\icomoon.css" />
     <Content Include="assets\css\vendor\owl.carousel.min.css" />
     <Content Include="assets\css\vendor\owl.theme.default.min.css" />
+    <Content Include="assets\fonts\font-awesome.css" />
+    <Content Include="assets\fonts\font-awesome.min.css" />
     <Content Include="assets\fonts\icomoon demo\demo-files\demo.css" />
     <Content Include="assets\fonts\icomoon demo\demo-files\demo.js" />
     <Content Include="assets\fonts\icomoon demo\demo.html" />
@@ -86,6 +88,8 @@
     <Content Include="assets\fonts\icomoon demo\Read Me.txt" />
     <Content Include="assets\fonts\icomoon demo\style.css" />
     <Content Include="assets\fonts\icomoon\icomoon.svg" />
+    <Content Include="assets\img\bottomlogo.png" />
+    <Content Include="assets\img\bottomlogo1.png" />
     <Content Include="assets\img\client_1.png" />
     <Content Include="assets\img\client_2.png" />
     <Content Include="assets\img\client_3.png" />
@@ -105,6 +109,8 @@
     <Content Include="assets\img\logotest2_155x46-removebg-preview.png" />
     <Content Include="assets\img\logotest2_155x46.png" />
     <Content Include="assets\img\modal_bg.jpg" />
+    <Content Include="assets\img\newlogo-removebg-preview.png" />
+    <Content Include="assets\img\newlogo.png" />
     <Content Include="assets\img\person_1.jpg" />
     <Content Include="assets\img\person_2.jpg" />
     <Content Include="assets\img\person_3.jpg" />
@@ -146,9 +152,9 @@
     <Content Include="assets\js\vendor\respond.min.js" />
     <Content Include="contact.aspx" />
     <Content Include="index.aspx" />
-    <Content Include="hosting.aspx" />
-    <Content Include="technologies.aspx" />
-    <Content Include="services.aspx" />
+    <Content Include="findAJob.aspx" />
+    <Content Include="findAnEmployee.aspx" />
+    <Content Include="partnershipFranchise.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -173,27 +179,27 @@
     <Compile Include="index.aspx.designer.cs">
       <DependentUpon>index.aspx</DependentUpon>
     </Compile>
-    <Compile Include="hosting.aspx.cs">
-      <DependentUpon>hosting.aspx</DependentUpon>
+    <Compile Include="findAJob.aspx.cs">
+      <DependentUpon>findAJob.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="hosting.aspx.designer.cs">
-      <DependentUpon>hosting.aspx</DependentUpon>
+    <Compile Include="findAJob.aspx.designer.cs">
+      <DependentUpon>findAJob.aspx</DependentUpon>
     </Compile>
-    <Compile Include="technologies.aspx.cs">
-      <DependentUpon>technologies.aspx</DependentUpon>
+    <Compile Include="findAnEmployee.aspx.cs">
+      <DependentUpon>findAnEmployee.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="technologies.aspx.designer.cs">
-      <DependentUpon>technologies.aspx</DependentUpon>
+    <Compile Include="findAnEmployee.aspx.designer.cs">
+      <DependentUpon>findAnEmployee.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="services.aspx.cs">
-      <DependentUpon>services.aspx</DependentUpon>
+    <Compile Include="partnershipFranchise.aspx.cs">
+      <DependentUpon>partnershipFranchise.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="services.aspx.designer.cs">
-      <DependentUpon>services.aspx</DependentUpon>
+    <Compile Include="partnershipFranchise.aspx.designer.cs">
+      <DependentUpon>partnershipFranchise.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>

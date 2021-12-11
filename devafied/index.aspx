@@ -1,18 +1,20 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="index.aspx.cs" Inherits="devafied.index" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="index.aspx.cs" Inherits="surgecable.index" %>
 
 <!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Surge Cable | Leading Cable Service Providers</title>
+    <title>Surge Cable INC. | Leading Cable Service Providers</title>
     <meta name="description" content="Leading Cable Service Providers | Cable Services">
     <meta name="keywords" content="cable install, cabling jobs, xfinity jobs, installation job, networking in oregon, cable service company">
     <link href="https://fonts.googleapis.com/css?family=Poppins:400,500,700" rel="stylesheet">
     <link href="assets/css/styles-merged.css" rel="stylesheet">
     <link href="assets/css/style.min.css" rel="stylesheet">
-      
+      <link rel="stylesheet" href="assets/fonts/font-awesome.min.css">
+      <link rel="stylesheet" href="assets/fonts/font-awesome.css">
 
+      <script src="https://kit.fontawesome.com/0593c0994a.js" crossorigin="anonymous"></script>
     <!--[if lt IE 9]>
       <script src="js/vendor/html5shiv.min.js"></script>
       <script src="js/vendor/respond.min.js"></script>
@@ -31,7 +33,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="index.aspx" title="uiCookies:Surge">Surge Cable</a>
+          <a class="navbar-brand" href="index.aspx" title="Surge">Surge Cable</a>
         </div>
 
         <div id="navbar-collapse" class="navbar-collapse collapse">
@@ -41,9 +43,9 @@
               <a href="#" data-toggle="dropdown" class="dropdown-toggle">Pages</a>
               <ul class="dropdown-menu">
                 <li><a href="about.aspx">About Us</a></li>
-                <li><a href="hosting.aspx">Hosting</a></li>
-                <li><a href="technologies.aspx">Technologies</a></li>
-                <li><a href="services.aspx">Services</a></li>
+                <li><a href="findAJob.aspx">Find a Job</a></li>
+                <li><a href="findAnEmployee.aspx">Find an Employee</a></li>
+                <li><a href="partnershipFranchise.aspx">Partnership</a></li>
               </ul>
             </li>
             <li><a href="contact.aspx">Contact</a></li>
@@ -94,43 +96,41 @@
 
     <section class="probootstrap-section probootstrap-bg-white probootstrap-zindex-above-showcase">
       <div class="container">
-
         <div class="row">
           <div class="col-md-6 col-md-offset-3 text-center section-heading probootstrap-animate" data-animate-effect="fadeIn">
             <h2>Find what you're looking for</h2>
           </div>
         </div>
           </div>
-          
-
+         
         <div class="row probootstrap-gutter60">
           <div class="col-md-4 probootstrap-animate" data-animate-effect="fadeIn">
             <div class="service hover_service text-center">
-              <div class="icon"><i class="icon-lightbulb"></i></div>
+              <div class="icon"><i class="icon-user-plus"></i></div>
               <div class="text">
                 <h3>I need a job</h3>
                 <p>Start your career here</p>
-                  <a href="#" role="button" style="background-color:#0066BF" class="btn btn-primary btn-lg btn-ghost probootstrap-animate" data-animate-effect="fadeInLeft">Learn more</a>
+                  <a href="findAJob.aspx" role="button" style="background-color:#0066BF" class="btn btn-primary btn-lg btn-ghost probootstrap-animate" data-animate-effect="fadeInLeft">Learn more</a>
               </div>  
             </div>
           </div>
           <div class="col-md-4 probootstrap-animate" data-animate-effect="fadeIn">
             <div class="service hover_service text-center">
-              <div class="icon"><i class="icon-magnifying-glass2"></i></div>
+              <div class="icon"><i class="fas fa-hard-hat"></i></div>
               <div class="text">
                 <h3>I need an employee</h3>
                 <p>Find exactly who you're looking for</p>
-                  <a href="#" role="button" style="background-color:#0066BF" class="btn btn-primary btn-lg btn-ghost probootstrap-animate" data-animate-effect="fadeInLeft">Learn more</a>
+                  <a href="findAnEmployee.aspx" role="button" style="background-color:#0066BF" class="btn btn-primary btn-lg btn-ghost probootstrap-animate" data-animate-effect="fadeInLeft">Learn more</a>
               </div>
             </div>
           </div>
           <div class="col-md-4 probootstrap-animate" data-animate-effect="fadeIn">
             <div class="service hover_service text-center">
-              <div class="icon"><i class="icon-browser2"></i></div>
+              <div class="icon"><i class="fas fa-handshake"></i></div>
               <div class="text">
                 <h3>Partnership/Franchise</h3>
                 <p>Would you like to become a partner?</p>
-                  <a href="#" role="button" style="background-color:#0066BF" class="btn btn-primary btn-lg btn-ghost probootstrap-animate" data-animate-effect="fadeInLeft">Learn more</a>
+                  <a href="partnershipFranchise.aspx" role="button" style="background-color:#0066BF" class="btn btn-primary btn-lg btn-ghost probootstrap-animate" data-animate-effect="fadeInLeft">Learn more</a>
               </div>
             </div>
           </div>
@@ -203,8 +203,8 @@
       <div class="container">
         <div class="row">
           <div class="col-md-12">
-            <h2 class="probootstrap-animate" data-animate-effect="fadeInRight">We'd like to help and talk with you</h2>
-            <a href="#" role="button" class="btn btn-primary btn-lg btn-ghost probootstrap-animate" data-animate-effect="fadeInLeft">Contact Us</a>
+            <h2 class="probootstrap-animate" data-animate-effect="fadeInRight">We'd love to speak with you</h2>
+            <a href="contact.aspx" role="button" class="btn btn-primary btn-lg btn-ghost probootstrap-animate" data-animate-effect="fadeInLeft">Contact Us</a>
           </div>
         </div>
       </div>
@@ -215,12 +215,11 @@
         <div class="row">
           <div class="col-md-6">
             <div class="probootstrap-footer-widget">
-              <h3>Surge Cable INC.</h3>
+                <img src="assets/img/bottomlogo1.png" />
               <p>Contact info contact info contact info</p>
               <ul class="probootstrap-footer-social">
                 <li><a href="#"><i class="icon-twitter"></i></a></li>
                 <li><a href="#"><i class="icon-facebook"></i></a></li>
-                <li><a href="#"><i class="icon-github"></i></a></li>
                 <li><a href="#"><i class="icon-linkedin"></i></a></li>
               </ul>
             </div>
@@ -229,12 +228,23 @@
             <div class="row">
               <div class="col-md-4">
                 <div class="probootstrap-footer-widget">
-                  <h3>Links</h3>
+                  <h3></h3>
                   <ul>
-                    <li><a href="#">Knowledge Base</a></li>
-                    <li><a href="#">Careers</a></li>
-                    <li><a href="#">Terms of services</a></li>
-                    <li><a href="#">Privacy Policy</a></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                  </ul>
+                </div>
+              </div>
+              <div class="col-md-4">
+                <div class="probootstrap-footer-widget">
+                  <h3></h3>
+                  <ul>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
                   </ul>
                 </div>
               </div>
@@ -242,19 +252,8 @@
                 <div class="probootstrap-footer-widget">
                   <h3>Links</h3>
                   <ul>
-                    <li><a href="#">Knowledge Base</a></li>
-                    <li><a href="#">Careers</a></li>
-                    <li><a href="#">Terms of services</a></li>
-                    <li><a href="#">Privacy Policy</a></li>
-                  </ul>
-                </div>
-              </div>
-              <div class="col-md-4">
-                <div class="probootstrap-footer-widget">
-                  <h3>Links</h3>
-                  <ul>
-                    <li><a href="#">Knowledge Base</a></li>
-                    <li><a href="#">Careers</a></li>
+                    <li><a href="#">Our Areas</a></li>
+                    <li><a href="findAJob.aspx">Careers</a></li>
                     <li><a href="#">Terms of services</a></li>
                     <li><a href="#">Privacy Policy</a></li>
                   </ul>

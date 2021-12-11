@@ -7,11 +7,11 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace devafied
+namespace surgecable
 {
 
 
-    public partial class portfolioSingle
+    public partial class portfolio
     {
     }
 }

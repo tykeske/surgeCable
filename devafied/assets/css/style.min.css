@@ -53,7 +53,7 @@
 .probootstrap-navbar .navbar-brand {
     font-size: 30px;
     text-transform: uppercase;
-    background: url(../img/logotest2_155x46-removebg-preview.png) left center no-repeat;
+    background: url(../img/newlogo.png) left center no-repeat;
     top: 8px;
     position: relative;
     width: 155px;
@@ -67,7 +67,7 @@
         position: relative;
         width: 155px;
         height: 46px;
-        background: url(../img/logotest2_155x46.png) left center no-repeat;
+        background: url(../img/newlogo.png) left center no-repeat;
         background-size: cover
     }}.probootstrap-navbar 
    .navbar-nav>li>a{color:#000;font-size:14px;position:relative;border-top:2px solid transparent}@media screen and (max-width:768px){.probootstrap-navbar 
@@ -162,7 +162,7 @@
 .probootstrap-section {
     padding-bottom: 0px;
     padding-top: 0px;
-    padding: 7em 0
+    padding: 7em 0;
 }
 
    .probootstrap-section.probootstrap-border-top{border-top:1px solid rgba(0,0,0,.1)}.probootstrap-section.probootstrap-border-bottom{border-bottom:1px solid rgba(0,0,0,.1)}

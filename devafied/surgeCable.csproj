@@ -90,6 +90,7 @@
     <Content Include="assets\img\client_2.png" />
     <Content Include="assets\img\client_3.png" />
     <Content Include="assets\img\client_4.png" />
+    <Content Include="assets\img\cox.png" />
     <Content Include="assets\img\devafiedLogo.png" />
     <Content Include="assets\img\devafiedLogo1.png" />
     <Content Include="assets\img\devLogo.png" />
@@ -99,14 +100,18 @@
     <Content Include="assets\img\laptop_1.jpg" />
     <Content Include="assets\img\logo%402x.png" />
     <Content Include="assets\img\logo.png" />
+    <Content Include="assets\img\mediaCom.png" />
     <Content Include="assets\img\modal_bg.jpg" />
     <Content Include="assets\img\person_1.jpg" />
     <Content Include="assets\img\person_2.jpg" />
     <Content Include="assets\img\person_3.jpg" />
     <Content Include="assets\img\person_4.jpg" />
+    <Content Include="assets\img\RCN.png" />
     <Content Include="assets\img\slider_1.jpg" />
     <Content Include="assets\img\slider_2.jpg" />
     <Content Include="assets\img\slider_3.jpg" />
+    <Content Include="assets\img\Spectrum.png" />
+    <Content Include="assets\img\tele.jpeg" />
     <Content Include="assets\img\work_1.jpg" />
     <Content Include="assets\img\work_2.jpg" />
     <Content Include="assets\img\work_3.jpg" />
@@ -114,6 +119,7 @@
     <Content Include="assets\img\work_5.jpg" />
     <Content Include="assets\img\work_6.jpg" />
     <Content Include="assets\img\work_7.jpg" />
+    <Content Include="assets\img\Xfinity.jpg" />
     <Content Include="assets\js\custom.js" />
     <Content Include="assets\js\custom.min.js" />
     <Content Include="assets\js\gulpfile.js" />

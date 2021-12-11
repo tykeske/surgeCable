@@ -102,14 +102,15 @@ a:hover, a:focus, a:active {
   box-shadow: none;
   border-radius: 0px;
   margin-bottom: 0px;
-  background: none;
+  
   -webkit-transition: .3s all;
   transition: .3s all;
+  position:absolute;
 }
 
 @media screen and (max-width: 768px) {
   .probootstrap-navbar {
-    background: black;
+    background: white;
     -webkit-box-shadow: 0px 2px 10px 0px rgba(0, 0, 0, 0.2);
     box-shadow: 0px 2px 10px 0px rgba(0, 0, 0, 0.2);
   }
@@ -117,7 +118,7 @@ a:hover, a:focus, a:active {
 
 .probootstrap-navbar .navbar-toggle:focus,
 .probootstrap-navbar .navbar-toggle:hover {
-  background-color: transparent;
+  background-color: black;
 }
 
 .probootstrap-navbar .navbar-toggle {
@@ -2039,3 +2040,5 @@ a:hover, a:focus, a:active {
     max-width: 100%;
   }
 }
+
+

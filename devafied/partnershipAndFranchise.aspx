@@ -23,7 +23,7 @@
     <!-- Fixed navbar -->
     
     
-    <nav class="navbar navbar-default navbar-fixed-top probootstrap-navbar">
+    <nav class="navbar navbar-default navbar-fixed-top probootstrap-navbar" id="navbar">
       <div class="container">
         <div class="navbar-header">
           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse" aria-expanded="false" aria-controls="navbar">
@@ -73,71 +73,83 @@
     </section>
 
 
-    
-
-    <section class="probootstrap-section proboostrap-clients probootstrap-bg-white">
+    <section class="probootstrap-section proboostrap-clients probootstrap-bg-white probootstrap-zindex-above-showcase">
       <div class="container">
 
-        <div class="row probootstrap-gutter60">
-          <div class="col-md-4 probootstrap-animate" data-animate-effect="fadeIn">
-            <div class="service hover_service text-center">
-              <div class="icon"><i class="icon-mobile3"></i></div>
-              <div class="text">
-                <h3>Lorem ipsum dolor</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto provident qui tempore natus quos quibusdam soluta at.</p>
-              </div>  
-            </div>
-          </div>
-          <div class="col-md-4 probootstrap-animate" data-animate-effect="fadeIn">
-            <div class="service hover_service text-center">
-              <div class="icon"><i class="icon-presentation"></i></div>
-              <div class="text">
-                <h3>Lorem ipsum dolor</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto provident qui tempore natus quos quibusdam soluta at.</p>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-4 probootstrap-animate" data-animate-effect="fadeIn">
-            <div class="service hover_service text-center">
-              <div class="icon"><i class="icon-circle-compass"></i></div>
-              <div class="text">
-                <h3>Lorem ipsum dolor</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto provident qui tempore natus quos quibusdam soluta at.</p>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-md-4 probootstrap-animate" data-animate-effect="fadeIn">
-            <div class="service hover_service text-center">
-              <div class="icon"><i class="icon-lightbulb"></i></div>
-              <div class="text">
-                <h3>Lorem ipsum dolor</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto provident qui tempore natus quos quibusdam soluta at.</p>
-              </div>  
-            </div>
-          </div>
-          <div class="col-md-4 probootstrap-animate" data-animate-effect="fadeIn">
-            <div class="service hover_service text-center">
-              <div class="icon"><i class="icon-magnifying-glass2"></i></div>
-              <div class="text">
-                <h3>Lorem ipsum dolor</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto provident qui tempore natus quos quibusdam soluta at.</p>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-4 probootstrap-animate" data-animate-effect="fadeIn">
-            <div class="service hover_service text-center">
-              <div class="icon"><i class="icon-browser2"></i></div>
-              <div class="text">
-                <h3>Lorem ipsum dolor</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto provident qui tempore natus quos quibusdam soluta at.</p>
-              </div>
-            </div>
+        <div class="row">
+          <div class="col-md-6 col-md-offset-3 text-center section-heading probootstrap-animate">
+            <h2>About Us</h2>
+            <p class="lead">As a growing telecommunication service company, we are always on the look for outreach mediums. One such medium is expanding our service company as a franchise in other places. Currently, we are based in the state of Illinois and would like to have branches in other states as well.</p>
+              <p class="lead">This brings an entrepreneurship opportunity for anyone and everyone passionate about telecommunications and networks. An opportunity that enables you to have your own business under our franchise, and it also helps us expand as a company and build new customer bases.</p>
+              <p class="lead">As owners of the branches, you’ll manage and run all operations as we help you with the resources and support you as franchise owners. Besides these, we’d also help you with the direction of the company and plans of expansion.</p>
           </div>
         </div>
         <!-- END row -->
       </div>
     </section>
+
+    <section class="probootstrap-section">
+          <div class="row">
+          <div class="col-md-6 col-md-offset-3 text-center section-heading">
+            <h2>You will get</h2>
+          </div>
+        </div>
+      <div class="container">
+        <div class="row">
+          <div class="col-md-6">
+            <div class="service left-icon probootstrap-animate" data-animate-effect="fadeInLeft">
+              <div class="icon"><i class="icon-user-check"></i></div>
+              <div class="text">
+                <h3>Loream Ipsome</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit iusto provident.</p>
+              </div>  
+            </div>
+            <div class="service left-icon probootstrap-animate" data-animate-effect="fadeInLeft">
+              <div class="icon"><i class="icon-pencil"></i></div>
+              <div class="text">
+                <h3>Loream Ipsomen</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit iusto provident.</p>
+              </div>
+            </div>
+            <div class="service left-icon probootstrap-animate" data-animate-effect="fadeInLeft">
+              <div class="icon"><i class="icon-spinner"></i></div>
+              <div class="text">
+                <h3>Loream Ipsomeps</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit iusto provident.</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6">
+            <div class="service left-icon probootstrap-animate" data-animate-effect="fadeInLeft">
+              <div class="icon"><i class="icon-embed2"></i></div>
+              <div class="text">
+                <h3>Loream Ipsomease</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto provident qui tempore natus quos quibusdam soluta at.</p>
+              </div>  
+            </div>
+            
+            <div class="service left-icon probootstrap-animate" data-animate-effect="fadeInLeft">
+              <div class="icon"><i class="icon-bubbles"></i></div>
+              <div class="text">
+                <h3>Loream Ipsomeck</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto provident qui tempore natus quos quibusdam soluta at.</p>
+              </div>
+            </div>
+            
+            <div class="service left-icon probootstrap-animate" data-animate-effect="fadeInLeft">
+              <div class="icon"><i class="icon-cloud-check"></i></div>
+              <div class="text">
+                <h3>Loream Ipsomench</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto provident qui tempore natus quos quibusdam soluta at.</p>
+              </div>
+            </div>
+
+          </div>
+        </div>
+        <!-- END row -->
+      </div>
+    </section>
+
 
     <section class="probootstrap-section probootstrap-bg-white">
       <div class="container">

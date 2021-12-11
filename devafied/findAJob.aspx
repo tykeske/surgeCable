@@ -23,7 +23,7 @@
     <!-- Fixed navbar -->
     
     
-    <nav class="navbar navbar-default navbar-fixed-top probootstrap-navbar">
+    <nav class="navbar navbar-default probootstrap-navbar">
       <div class="container">
         <div class="navbar-header">
           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse" aria-expanded="false" aria-controls="navbar">
@@ -57,13 +57,13 @@
     <section class="flexslider">
       <ul class="slides">
         
-        <li style="background-image: url(assets/img/slider_3.jpg)" class="overlay">
+        <li style="background-image: url(assets/img/tele.jpeg)" class="overlay">
           <div class="container">
             <div class="row">
               <div class="col-md-8 col-md-offset-2">
                 <div class="probootstrap-slider-text text-center">
                   <h1 class="probootstrap-heading">Find a Job</h1>
-                  <p class="probootstrap-subheading">Loream isper diaoe flaekies goopser</p>
+                  <p class="probootstrap-subheading"></p>
                 </div>
               </div>
             </div>
@@ -81,7 +81,7 @@
           </div>
         </div>
           <div class="col-md-4 probootstrap-animate" data-animate-effect="fadeIn">
-            <div class="service hover_service text-center">
+            <div class="service  text-center">
               <div class="icon"><i class="icon-mobile3"></i></div>
               <div class="text">
                 <h3>Competitive Salary</h3>
@@ -90,7 +90,7 @@
             </div>
           </div>
           <div class="col-md-4 probootstrap-animate" data-animate-effect="fadeIn">
-            <div class="service hover_service text-center">
+            <div class="service  text-center">
               <div class="icon"><i class="icon-presentation"></i></div>
               <div class="text">
                 <h3>Stable work & projects</h3>
@@ -99,7 +99,7 @@
             </div>
           </div>
           <div class="col-md-4 probootstrap-animate" data-animate-effect="fadeIn">
-            <div class="service hover_service text-center">
+            <div class="service  text-center">
               <div class="icon"><i class="icon-circle-compass"></i></div>
               <div class="text">
                 <h3>Flexible work schedules</h3>
@@ -188,76 +188,64 @@
         <!-- END row -->
       </div>
     </section>
-      <section class="probootstrap-section proboostrap-clients probootstrap-bg-white probootstrap-zindex-above-showcase">
+      
+      <section class="probootstrap-section probootstrap-bg-white">
       <div class="container">
-
         <div class="row">
-          <div class="col-md-6 col-md-offset-3 text-center section-heading probootstrap-animate">
+          <div class="col-md-6 col-md-offset-3 text-center section-heading">
             <h2>Our Clients</h2>
-            <p class="lead">Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto provident qui tempore natus quos quibusdam soluta at.</p>
-          </div>
-        </div>
-        <!-- END row -->
-      </div>
-    </section>
-      <section class="probootstrap-section">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-6 col-md-offset-3 text-center section-heading probootstrap-animate">
-            <h2>Team</h2>
           </div>
         </div>
         <!-- END row -->
         <div class="row">
-          <div class="col-md-3 col-sm-6 col-xs-6 probootstrap-animate">
-            <a href="#" class="probootstrap-team">
-              <img src="assets/img/person_2.jpg" alt="Free Bootstrap Template by uicookies.com" class="img-responsive img-rounded" width="200" height="200" style="padding-left: 25px">
-              <div class="probootstrap-team-info">
-                <h3>Lil Baby <span class="position">Co-Founder / Creative</span></h3>
-              </div>
-            </a>
-          </div>
-          
-          <div class="clearfix visible-sm-block visible-xs-block"></div>
+          <div class="col-md-12">
+            <div class="owl-carousel owl-carousel-fullwidth">
+              <div class="item">
 
-          <div class="col-md-3 col-sm-6 col-xs-6 probootstrap-animate">
-            <a href="#" class="probootstrap-team">
-              <img src="assets/img/person_3.jpg" alt="Free Bootstrap Template by uicookies.com" class="img-responsive img-rounded" width="200" height="200" style="padding-left: 25px">
-              <div class="probootstrap-team-info">
-                <h3>Will Smith <span class="position">Developer</span></h3>
-              </div>
-            </a>
-          </div>
-          <div class="col-md-3 col-sm-6 col-xs-6 probootstrap-animate">
-              <a href="#" class="probootstrap-team">
-              <img src="assets/img/person_3.jpg" alt="Free Bootstrap Template by uicookies.com" class="img-responsive img-rounded" width="200" height="200" style="padding-left: 25px">
-              <div class="probootstrap-team-info">
-                <h3>Don Joe <span class="position">Designer</span></h3>
-                
-              </div>
-            </a>
-          </div>
+                <div class="probootstrap-testimony-wrap text-center">
+                  <figure>
+                    <img src="assets/img/mediaCom.png" alt="Free Bootstrap Template by uicookies.com">
+                  </figure>
+                    <blockquote class="quote">Mediacom<cite class="author">&mdash; Rocco B. Commisso <br> <span>CEO</span></cite></blockquote>
+                </div>
 
-          <div class="clearfix visible-sm-block visible-xs-block"></div>
-
-          <div class="col-md-3 col-sm-6 col-xs-6 probootstrap-animate">
-            <a href="#" class="probootstrap-team">
-              <img src="assets/img/person_2.jpg" alt="Free Bootstrap Template by uicookies.com" class="img-responsive img-rounded" width="200" height="200" style="padding-left: 25px">
-              <div class="probootstrap-team-info">
-                <h3>Kid Cudi <span class="position">Co-Founder / Creative</span></h3>
               </div>
-            </a>
-          </div>
-          <div class="col-md-3 col-sm-6 col-xs-6 probootstrap-animate">
-            <a href="#" class="probootstrap-team">
-              <img src="assets/img/person_1.jpg" alt="Free Bootstrap Template by uicookies.com" class="img-responsive img-rounded" width="200" height="200" style="padding-left: 25px">
-              <div class="probootstrap-team-info">
-                <h3>Da Baby <span class="position">Co-Founder / Tech</span></h3>
+              <div class="item">
+                <div class="probootstrap-testimony-wrap text-center">
+                  <figure>
+                    <img src="assets/img/RCN.png" alt="Free Bootstrap Template by uicookies.com">
+                  </figure>
+                  <blockquote class="quote">RCN Corporation<cite class="author">&mdash; Jim Holanda <br> <span>CEO</span></cite></blockquote>
+                </div>
               </div>
-            </a>
+              <div class="item">
+                <div class="probootstrap-testimony-wrap text-center">
+                  <figure>
+                    <img src="assets/img/cox.png" alt="Free Bootstrap Template by uicookies.com">
+                  </figure>
+                  <blockquote class="quote">Cox Communications <cite class="author">&mdash; Patrick J. Esser <br> <span>President</span></cite></blockquote>
+                </div>
+              </div>
+              <div class="item">
+                <div class="probootstrap-testimony-wrap text-center">
+                  <figure>
+                    <img src="assets/img/Xfinity.jpg" alt="Free Bootstrap Template by uicookies.com">
+                  </figure>
+                  <blockquote class="quote">Comcast Xfinity<cite class="author">&mdash; Brian L. Roberts <br> <span>CEO</span></cite></blockquote>
+                </div>
+              </div>
+                <div class="item">
+                <div class="probootstrap-testimony-wrap text-center">
+                  <figure>
+                    <img src="assets/img/Spectrum.png" alt="Free Bootstrap Template by uicookies.com">
+                  </figure>
+                  <blockquote class="quote">Charter Spectrum <cite class="author">&mdash; Tom Rutledge <br> <span>CEO</span></cite></blockquote>
+                </div>
+              </div>
+            </div>
           </div>
-          
         </div>
+        <!-- END row -->
       </div>
     </section>
        <section class="probootstrap-section">
@@ -383,6 +371,60 @@
         </div>
         <!-- END row -->
       </div>
+    </section>
+      <section class="probootstrap-section probootstrap-bg-white probootstrap-zindex-above-showcase">
+      <div class="container">
+
+        <div class="row">
+          <div class="col-md-6 col-md-offset-3 text-center section-heading probootstrap-animate" data-animate-effect="fadeIn">
+            <h2>Find what you're looking for</h2>
+          </div>
+        </div>
+          </div>
+          
+
+        <div class="row probootstrap-gutter60">
+          <div class="col-md-4 probootstrap-animate" data-animate-effect="fadeIn">
+            <div class="service hover_service text-center">
+              <div class="icon"><i class="icon-lightbulb"></i></div>
+              <div class="text">
+                <h3>I need a job</h3>
+                <p>Start your career here</p>
+                  <a href="#" role="button" style="background-color:#0066BF" class="btn btn-primary btn-lg btn-ghost probootstrap-animate" data-animate-effect="fadeInLeft">Learn more</a>
+              </div>  
+            </div>
+          </div>
+          <div class="col-md-4 probootstrap-animate" data-animate-effect="fadeIn">
+            <div class="service hover_service text-center">
+              <div class="icon"><i class="icon-magnifying-glass2"></i></div>
+              <div class="text">
+                <h3>I need an employee</h3>
+                <p>Find exactly who you're looking for</p>
+                  <a href="#" role="button" style="background-color:#0066BF" class="btn btn-primary btn-lg btn-ghost probootstrap-animate" data-animate-effect="fadeInLeft">Learn more</a>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4 probootstrap-animate" data-animate-effect="fadeIn">
+            <div class="service hover_service text-center">
+              <div class="icon"><i class="icon-browser2"></i></div>
+              <div class="text">
+                <h3>Partnership/Franchise</h3>
+                <p>Would you like to become a partner?</p>
+                  <a href="#" role="button" style="background-color:#0066BF" class="btn btn-primary btn-lg btn-ghost probootstrap-animate" data-animate-effect="fadeInLeft">Learn more</a>
+              </div>
+            </div>
+          </div>
+             <div class="col-md-4 probootstrap-animate" data-animate-effect="fadeIn">
+            <div class="service hover_service text-center">
+              <div class="icon"><i class="icon-browser2"></i></div>
+              <div class="text">
+                <h3>Partnership/Franchise</h3>
+                <p>Would you like to become a partner?</p>
+                  <a href="#" role="button" style="background-color:#0066BF" class="btn btn-primary btn-lg btn-ghost probootstrap-animate" data-animate-effect="fadeInLeft">Learn more</a>
+              </div>
+            </div>
+          </div>
+            </div>     
     </section>
     <section class="probootstrap-cta">
       <div class="container">

@@ -99,6 +99,11 @@
     <Content Include="assets\img\laptop_1.jpg" />
     <Content Include="assets\img\logo%402x.png" />
     <Content Include="assets\img\logo.png" />
+    <Content Include="assets\img\logo1.png" />
+    <Content Include="assets\img\logotest.png" />
+    <Content Include="assets\img\logotest2.png" />
+    <Content Include="assets\img\logotest2_155x46-removebg-preview.png" />
+    <Content Include="assets\img\logotest2_155x46.png" />
     <Content Include="assets\img\modal_bg.jpg" />
     <Content Include="assets\img\person_1.jpg" />
     <Content Include="assets\img\person_2.jpg" />
@@ -107,6 +112,12 @@
     <Content Include="assets\img\slider_1.jpg" />
     <Content Include="assets\img\slider_2.jpg" />
     <Content Include="assets\img\slider_3.jpg" />
+    <Content Include="assets\img\surgeheader1.jpg" />
+    <Content Include="assets\img\surgeheader2.jpg" />
+    <Content Include="assets\img\surgeheader3.jpg" />
+    <Content Include="assets\img\tansparentlogo.png" />
+    <Content Include="assets\img\testtt.png" />
+    <Content Include="assets\img\urgelogo.png" />
     <Content Include="assets\img\work_1.jpg" />
     <Content Include="assets\img\work_2.jpg" />
     <Content Include="assets\img\work_3.jpg" />

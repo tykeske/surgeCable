@@ -5,9 +5,9 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Devafied | Web & Software Development</title>
-    <meta name="description" content="Web & Software Development | IT Services">
-    <meta name="keywords" content="free website templates, free bootstrap themes, free template, free bootstrap, free website template">
+    <title>Surge Cable | Leading Cable Service Providers</title>
+    <meta name="description" content="Leading Cable Service Providers | Cable Services">
+    <meta name="keywords" content="cable install, cabling jobs, xfinity jobs, installation job, networking in oregon, cable service company">
     <link href="https://fonts.googleapis.com/css?family=Poppins:400,500,700" rel="stylesheet">
     <link href="assets/css/styles-merged.css" rel="stylesheet">
     <link href="assets/css/style.min.css" rel="stylesheet">
@@ -31,7 +31,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="index.aspx" title="uiCookies:Stack">Devafied</a>
+          <a class="navbar-brand" href="index.aspx" title="uiCookies:Surge">Surge Cable</a>
         </div>
 
         <div id="navbar-collapse" class="navbar-collapse collapse">
@@ -54,35 +54,35 @@
 
     <section class="flexslider">
       <ul class="slides">
-        <li style="background-image: url(assets/img/slider_1.jpg)" class="overlay">
+        <li style="background-image: url(assets/img/surgeheader1.jpg)" class="overlay">
           <div class="container">
             <div class="row">
               <div class="col-md-8 col-md-offset-2">
                 <div class="probootstrap-slider-text text-center">
-                  <h1 class="probootstrap-heading">Loddddddddrem ipsum dolor</h1>
+                  <h1 class="probootstrap-heading"></h1>
                 </div>
               </div>
             </div>
           </div>
         </li>
-        <li style="background-image: url(assets/img/slider_2.jpg)" class="overlay">
+        <li style="background-image: url(assets/img/surgeheader3.jpg)" class="overlay">
           <div class="container">
             <div class="row">
               <div class="col-md-8 col-md-offset-2">
                 <div class="probootstrap-slider-text text-center">
-                  <h1 class="probootstrap-heading">Lorem ipsum dolor</h1>
+                  <h1 class="probootstrap-heading"></h1>
                 </div>
               </div>
             </div>
           </div>
           
         </li>
-        <li style="background-image: url(assets/img/slider_3.jpg)" class="overlay">
+        <li style="background-image: url(assets/img/surgeheader3.jpg)" class="overlay">
           <div class="container">
             <div class="row">
               <div class="col-md-8 col-md-offset-2">
                 <div class="probootstrap-slider-text text-center">
-                  <h1 class="probootstrap-heading">Lorem ipsum dolor</h1>
+                  <h1 class="probootstrap-heading"></h1>
                 </div>
               </div>
             </div>
@@ -92,10 +92,9 @@
     </section>
 
 
-    <section class="probootstrap-section probootstrap-bg-white probootstrap-zindex-above-showcase ">
-        <div class="particle-network-animation"></div>
+    <section class="probootstrap-section probootstrap-bg-white probootstrap-zindex-above-showcase">
       <div class="container">
-          
+
         <div class="row">
           <div class="col-md-6 col-md-offset-3 text-center section-heading probootstrap-animate" data-animate-effect="fadeIn">
             <h2>Find what you're looking for</h2>
@@ -107,38 +106,11 @@
         <div class="row probootstrap-gutter60">
           <div class="col-md-4 probootstrap-animate" data-animate-effect="fadeIn">
             <div class="service hover_service text-center">
-              <div class="icon"><i class="icon-mobile3"></i></div>
-              <div class="text">
-                <h3>Responsive Design</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto provident qui tempore natus quos quibusdam soluta at.</p>
-              </div>  
-            </div>
-          </div>
-          <div class="col-md-4 probootstrap-animate" data-animate-effect="fadeIn">
-            <div class="service hover_service text-center">
-              <div class="icon"><i class="icon-presentation"></i></div>
-              <div class="text">
-                <h3>Lorem ipsum dolor</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto provident qui tempore natus quos quibusdam soluta at.</p>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-4 probootstrap-animate" data-animate-effect="fadeIn">
-            <div class="service hover_service text-center">
-              <div class="icon"><i class="icon-circle-compass"></i></div>
-              <div class="text">
-                <h3>Lorem ipsum dolor</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto provident qui tempore natus quos quibusdam soluta at.</p>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-md-4 probootstrap-animate" data-animate-effect="fadeIn">
-            <div class="service hover_service text-center">
               <div class="icon"><i class="icon-lightbulb"></i></div>
               <div class="text">
-                <h3>Lorem ipsum dolor</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto provident qui tempore natus quos quibusdam soluta at.</p>
+                <h3>I need a job</h3>
+                <p>Start your career here</p>
+                  <a href="#" role="button" style="background-color:#0066BF" class="btn btn-primary btn-lg btn-ghost probootstrap-animate" data-animate-effect="fadeInLeft">Learn more</a>
               </div>  
             </div>
           </div>
@@ -146,8 +118,9 @@
             <div class="service hover_service text-center">
               <div class="icon"><i class="icon-magnifying-glass2"></i></div>
               <div class="text">
-                <h3>Lorem ipsum dolor</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto provident qui tempore natus quos quibusdam soluta at.</p>
+                <h3>I need an employee</h3>
+                <p>Find exactly who you're looking for</p>
+                  <a href="#" role="button" style="background-color:#0066BF" class="btn btn-primary btn-lg btn-ghost probootstrap-animate" data-animate-effect="fadeInLeft">Learn more</a>
               </div>
             </div>
           </div>
@@ -155,8 +128,9 @@
             <div class="service hover_service text-center">
               <div class="icon"><i class="icon-browser2"></i></div>
               <div class="text">
-                <h3>Lorem ipsum dolor</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto provident qui tempore natus quos quibusdam soluta at.</p>
+                <h3>Partnership/Franchise</h3>
+                <p>Would you like to become a partner?</p>
+                  <a href="#" role="button" style="background-color:#0066BF" class="btn btn-primary btn-lg btn-ghost probootstrap-animate" data-animate-effect="fadeInLeft">Learn more</a>
               </div>
             </div>
           </div>
@@ -166,56 +140,16 @@
     <section class="probootstrap-section">
       <div class="container">
         <div class="row">
-          <div class="col-md-6">
-            <div class="service left-icon probootstrap-animate" data-animate-effect="fadeInLeft">
-              <div class="icon"><i class="icon-user-check"></i></div>
-              <div class="text">
-                <h3>Your Vision</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit iusto provident.</p>
-              </div>  
-            </div>
-            <div class="service left-icon probootstrap-animate" data-animate-effect="fadeInLeft">
-              <div class="icon"><i class="icon-pencil"></i></div>
-              <div class="text">
-                <h3>Establish a Plan</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit iusto provident.</p>
-              </div>
-            </div>
-            <div class="service left-icon probootstrap-animate" data-animate-effect="fadeInLeft">
-              <div class="icon"><i class="icon-spinner"></i></div>
-              <div class="text">
-                <h3>Design Mockups</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit iusto provident.</p>
-              </div>
-            </div>
+          <div class="col-md-6 col-md-offset-3 text-center section-heading">
+            <h2>About Us</h2>
           </div>
-          <div class="col-md-6">
-            <div class="service left-icon probootstrap-animate" data-animate-effect="fadeInLeft">
-              <div class="icon"><i class="icon-embed2"></i></div>
-              <div class="text">
-                <h3>Development Phase</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto provident qui tempore natus quos quibusdam soluta at.</p>
-              </div>  
-            </div>
-            
-            <div class="service left-icon probootstrap-animate" data-animate-effect="fadeInLeft">
-              <div class="icon"><i class="icon-bubbles"></i></div>
-              <div class="text">
-                <h3>Quality Check</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto provident qui tempore natus quos quibusdam soluta at.</p>
-              </div>
-            </div>
-            
-            <div class="service left-icon probootstrap-animate" data-animate-effect="fadeInLeft">
-              <div class="icon"><i class="icon-cloud-check"></i></div>
-              <div class="text">
-                <h3>Website Launch</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto provident qui tempore natus quos quibusdam soluta at.</p>
-              </div>
-            </div>
+          <div class="col-md-12" style="color:#808080; text-align:center;">
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum est incidunt dolorem earum doloremque quasi mollitia magnam debitis eos eligendi ratione a illo ipsam aspernatur quas odio dicta! Neque ullam reiciendis numquam architecto eius reprehenderit aperiam dicta voluptates laborum a fugit sit non omnis perferendis magni suscipit dolorum cumque obcaecati autem. Explicabo odit veritatis quae porro praesentium veniam delectus itaque expedita cumque minus necessitatibus quia assumenda illum! Vitae doloribus nemo esse alias autem debitis facilis quae pariatur voluptatum eaque perspiciatis animi accusantium cupiditate at molestias optio assumenda hic fuga. Consequatur vero cupiditate ea dolorum sit cum odio ipsam aliquam sed!</p>
+            <p>Explicabo odit veritatis quae porro praesentium veniam delectus itaque expedita cumque minus necessitatibus quia assumenda illum! Vitae doloribus nemo esse alias autem debitis facilis quae pariatur voluptatum eaque perspiciatis animi accusantium cupiditate at molestias optio assumenda hic fuga. Consequatur vero cupiditate ea dolorum sit cum odio ipsam aliquam sed!</p>
+          </div>
 
           </div>
-        </div>
+       
         <!-- END row -->
       </div>
     </section>

@@ -49,11 +49,27 @@
    .dropdown>.dropdown-menu>li.dropdown-submenu:hover>a:before{color:#000}.probootstrap-navbar .navbar-right .dropdown-menu{right:auto}.probootstrap-navbar 
    .dropdown-menu{border:none;background:#0B0C10;border-radius:0;-webkit-box-shadow:0 0 7px 0 rgba(0,0,0,.15);box-shadow:0 0 7px 0 rgba(0,0,0,.15);
    min-width:200px;white-space:normal;word-wrap:break-word}.probootstrap-navbar .dropdown-menu a{white-space:normal}@media screen and (max-width:768px){.probootstrap-navbar 
-   .dropdown-menu{width:100%;padding:10px 15px}.probootstrap-navbar .dropdown-menu a{color:#FFFFE3;}}.probootstrap-navbar .navbar-brand{font-size:30px;text-transform:uppercase;
-   background:url(../img/devLogo1.png) left center no-repeat;top:8px;position:relative;width:160px;height:43px;text-indent:-999999px}
+   .dropdown-menu{width:100%;padding:10px 15px}.probootstrap-navbar .dropdown-menu a{color:#FFFFE3;}}
+.probootstrap-navbar .navbar-brand {
+    font-size: 30px;
+    text-transform: uppercase;
+    background: url(../img/logotest2_155x46-removebg-preview.png) left center no-repeat;
+    top: 8px;
+    position: relative;
+    width: 155px;
+    height: 46px;
+    text-indent: -999999px
+}
    @media only screen and (-webkit-min-device-pixel-ratio:2),only screen and (min--moz-device-pixel-ratio:2),only screen and 
-   (min-device-pixel-ratio:2),only screen and (min-resolution:192dpi),only screen and (min-resolution:2dppx){.probootstrap-navbar 
-   .navbar-brand{position:relative;width:160px;height:43px;background:url(../img/devafiedLogo1.png) left center no-repeat;background-size:cover}}.probootstrap-navbar 
+   (min-device-pixel-ratio:2),only screen and (min-resolution:192dpi),only screen and (min-resolution:2dppx){
+    .probootstrap-navbar
+    .navbar-brand {
+        position: relative;
+        width: 155px;
+        height: 46px;
+        background: url(../img/logotest2_155x46.png) left center no-repeat;
+        background-size: cover
+    }}.probootstrap-navbar 
    .navbar-nav>li>a{color:#000;font-size:14px;position:relative;border-top:2px solid transparent}@media screen and (max-width:768px){.probootstrap-navbar 
    .navbar-brand{top:2px!important}.probootstrap-navbar .navbar-nav>li>a{padding-top:8px;padding-bottom:8px}}.probootstrap-navbar 
    .navbar-nav>li>a:hover{color:rgba(255,255,255,.7)}.probootstrap-navbar .navbar-nav>li>a:active,.probootstrap-navbar .navbar-nav>li>a:focus,.probootstrap-navbar 
@@ -344,10 +360,10 @@
 
 .particle-network-animation {
     position: fixed;
-    top: auto;
-    left: auto;
-    right: auto;
-    bottom: auto;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
     height: 100vh;
 }
 

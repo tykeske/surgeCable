@@ -168,14 +168,14 @@
    .probootstrap-section.probootstrap-border-top{border-top:1px solid rgba(0,0,0,.1)}.probootstrap-section.probootstrap-border-bottom{border-bottom:1px solid rgba(0,0,0,.1)}
    .probootstrap-section>.container.probootstrap-border-top{padding-top:50px;border-top:1px solid rgba(0,0,0,.1)}
     .probootstrap-section.probootstrap-bg-white {
-        
-        background: #fff;
+        background-color: #fff;
     }
 .probootstrap-zindex-above-showcase {
     position: relative;
     z-index: 4;
     margin-bottom:0px;
     padding-bottom:0px;
+
 }
    .section-heading
    {
@@ -359,12 +359,13 @@
 
 
 .particle-network-animation {
-    position: fixed;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    height: 100vh;
+    Position: relative;
+    Top: 0;
+    Height: 100px;
+    Bottom: 0;
+    Left: 0;
+    Right: 0;
+    Z-index: -1;
 }
 
 .overlay {

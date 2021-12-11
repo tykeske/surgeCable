@@ -99,12 +99,12 @@
           </div>
           <div class="col-md-6 col-md-push-1 probootstrap-animate" data-animate-effect="fadeIn">
             <h2>Get in touch</h2>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto provident qui tempore natus quos quibusdam soluta at.</p>
+            <p>Looking for something else? Feel free to reach out to one of our contacts.</p>
             
             <h4>USA</h4>
             <ul class="probootstrap-contact-info">
-              <li><i class="icon-pin"></i> <span>1969 Apple Street, Portland, OR 98989</span></li>
-              <li><i class="icon-email"></i><span>info@devafied.com</span></li>
+              <li><i class="icon-pin"></i> <span>Based In Hillsboro, OR, 97123</span></li>
+              <li><i class="icon-email"></i><span>info@surgecable.com</span></li>
               <li><i class="icon-phone"></i><span>+123-456-7890</span></li>
             </ul>
           </div>
@@ -122,7 +122,7 @@
               <ul class="probootstrap-footer-social">
                 <li><a href="#"><i class="icon-twitter"></i></a></li>
                 <li><a href="#"><i class="icon-facebook"></i></a></li>
-                <li><a href="#"><i class="icon-github"></i></a></li>
+                <li><a href="#"><i class="icon-instagram"></i></a></li>
                 <li><a href="#"><i class="icon-linkedin"></i></a></li>
               </ul>
             </div>
@@ -156,7 +156,7 @@
                   <h3>Links</h3>
                   <ul>
                     <li><a href="#">Knowledge Base</a></li>
-                    <li><a href="#">Careers</a></li>
+                    <li><a href="jobContact.aspx">Careers</a></li>
                     <li><a href="#">Terms of services</a></li>
                     <li><a href="#">Privacy Policy</a></li>
                   </ul>
@@ -183,3 +183,4 @@
     <script src="assets/js/background.js"></script>
   </body>
 </html>
+

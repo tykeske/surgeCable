@@ -142,7 +142,7 @@
       <div class="container">
         <div class="row">
           <div class="col-md-6 col-md-offset-3 text-center section-heading">
-            <h2>Testimonials</h2>
+            <h2>Feedbacks</h2>
           </div>
         </div>
         <!-- END row -->
@@ -188,8 +188,8 @@
       <div class="container">
         <div class="row">
           <div class="col-md-12">
-            <h2 class="probootstrap-animate" data-animate-effect="fadeInRight">We'd like to help and talk with you</h2>
-            <a href="#" role="button" class="btn btn-primary btn-lg btn-ghost probootstrap-animate" data-animate-effect="fadeInLeft">Contact Us</a>
+            <h2 class="probootstrap-animate" data-animate-effect="fadeInRight">Looking for a partnership/franchise?</h2>
+            <a href="partnerContact.aspx" role="button" class="btn btn-primary btn-lg btn-ghost probootstrap-animate" data-animate-effect="fadeInLeft">Contact Us</a>
           </div>
         </div>
       </div>

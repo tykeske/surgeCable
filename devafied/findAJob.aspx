@@ -56,7 +56,7 @@
     <section class="flexslider">
       <ul class="slides">
         
-        <li style="background-image: url(assets/img/slider_3.jpg)" class="overlay">
+        <li style="background-image: url(assets/img/surgeheader3.jpg)" class="overlay">
           <div class="container">
             <div class="row">
               <div class="col-md-8 col-md-offset-2">
@@ -140,8 +140,8 @@
       <div class="container">
         <div class="row">
           <div class="col-md-12">
-            <h2 class="probootstrap-animate" data-animate-effect="fadeInRight">We'd like to help and talk with you</h2>
-            <a href="#" role="button" class="btn btn-primary btn-lg btn-ghost probootstrap-animate" data-animate-effect="fadeInLeft">Contact Us</a>
+            <h2 class="probootstrap-animate" data-animate-effect="fadeInRight">Contact us to start your career now</h2>
+            <a href="jobContact.aspx" role="button" class="btn btn-primary btn-lg btn-ghost probootstrap-animate" data-animate-effect="fadeInLeft">Apply Now</a>
           </div>
         </div>
       </div>

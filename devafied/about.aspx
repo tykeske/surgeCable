@@ -55,7 +55,7 @@
     <section class="flexslider">
       <ul class="slides">
         
-        <li style="background-image: url(assets/img/slider_2.jpg)" class="overlay">
+        <li style="background-image: url(assets/img/surgeheader1.jpg)" class="overlay">
           <div class="container">
             <div class="row">
               <div class="col-md-8 col-md-offset-2">
@@ -96,7 +96,7 @@
 <div class="container">
         <div class="row">
           <div class="col-md-6 col-md-offset-3 text-center section-heading probootstrap-animate">
-            <h2>Testimonial</h2>
+            <h2>Feedbacks</h2>
           </div>
         </div>
         <!-- END row -->
@@ -136,7 +136,16 @@
         <!-- END row -->
       </div>
     </section>
-
+      <section class="probootstrap-cta">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <h2 class="probootstrap-animate" data-animate-effect="fadeInRight">We'd love to speak with you</h2>
+            <a href="contact.aspx" role="button" class="btn btn-primary btn-lg btn-ghost probootstrap-animate" data-animate-effect="fadeInLeft">Contact Us</a>
+          </div>
+        </div>
+      </div>
+    </section>
 
     
     <footer class="probootstrap-footer">

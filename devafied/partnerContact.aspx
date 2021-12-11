@@ -1,17 +1,16 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="findAnEmployee.aspx.cs" Inherits="surgecable.portfolioSingle" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="partnerContact.aspx.cs" Inherits="surgecable.partnerContact" %>
 
 <!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Surge Cable INC. | Find a Surge Cable INC. Employee</title>
-    <meta name="description" content="Devafied Service Technologies">
-    <meta name="keywords" content="cable install, cabling jobs, xfinity jobs, installation job, networking in oregon, cable service company, find surge cable employee">
-    
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:400,500,700">
-    <link rel="stylesheet" href="assets/css/styles-merged.css">
-    <link rel="stylesheet" href="assets/css/style.min.css">
+    <title>Surge Cable INC. | Contact Surge Cable INC.</title>
+    <meta name="description" content="Leading Cable Service Providers | Cable Services">
+    <meta name="keywords" content="cable install, cabling jobs, xfinity jobs, installation job, networking in oregon, cable service company, surge cable contact">
+    <link href="https://fonts.googleapis.com/css?family=Poppins:400,500,700" rel="stylesheet">
+    <link href="assets/css/styles-merged.css" rel="stylesheet">
+    <link href="assets/css/style.min.css" rel="stylesheet">
 
     <!--[if lt IE 9]>
       <script src="js/vendor/html5shiv.min.js"></script>
@@ -32,7 +31,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="index.aspx" title="uiCookies:Stack">Stack</a>
+          <a class="navbar-brand" href="index.aspx" title="Surge Cable">Surge Cable</a>
         </div>
 
         <div id="navbar-collapse" class="navbar-collapse collapse">
@@ -43,7 +42,7 @@
               <ul class="dropdown-menu">
                 <li><a href="about.aspx">About Us</a></li>
                 <li><a href="findAJob.aspx">Find a Job</a></li>
-                <li class="active"><a href="findAnEmployee.aspx">Find an Employee</a></li>
+                <li><a href="findAnEmployee.aspx">Find an Employee</a></li>
                 <li><a href="partnershipFranchise.aspx">Partnership</a></li>
               </ul>
             </li>
@@ -56,13 +55,12 @@
     <section class="flexslider">
       <ul class="slides">
         
-        <li style="background-image: url(assets/img/work_1.jpg)" class="overlay">
+        <li style="background-image: url(img/slider_3.jpg)" class="overlay">
           <div class="container">
             <div class="row">
               <div class="col-md-8 col-md-offset-2">
                 <div class="probootstrap-slider-text text-center">
-                  <h1 class="probootstrap-heading">Poster</h1>
-                  <p class="probootstrap-subheading">Brand Identity, Website</p>
+                  <h1 class="probootstrap-heading">Looking to Partner/Franchise?</h1>
                 </div>
               </div>
             </div>
@@ -71,39 +69,49 @@
       </ul>
     </section>
 
-
-    
-
-    <section class="probootstrap-section proboostrap-clients probootstrap-bg-white probootstrap-zindex-above-showcase">
-      <div class="container">
-
-        <div class="row mb50">
-          <div class="col-md-4"><h1 class="mt0">The Technologies We Use</h1></div>
-          <div class="col-md-7 col-md-push-1">
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum est incidunt dolorem earum doloremque quasi mollitia magnam debitis eos eligendi ratione a illo ipsam aspernatur quas odio dicta! Neque ullam reiciendis numquam architecto eius reprehenderit aperiam dicta voluptates laborum a fugit sit non omnis perferendis magni suscipit dolorum cumque obcaecati autem. Explicabo odit veritatis quae porro praesentium veniam delectus itaque expedita cumque minus necessitatibus quia assumenda illum! Vitae doloribus nemo esse alias autem debitis facilis quae pariatur voluptatum eaque perspiciatis animi accusantium cupiditate at molestias optio assumenda hic fuga. Consequatur vero cupiditate ea dolorum sit cum odio ipsam aliquam sed!</p>
-            <p>Explicabo odit veritatis quae porro praesentium veniam delectus itaque expedita cumque minus necessitatibus quia assumenda illum! Vitae doloribus nemo esse alias autem debitis facilis quae pariatur voluptatum eaque perspiciatis animi accusantium cupiditate at molestias optio assumenda hic fuga. Consequatur vero cupiditate ea dolorum sit cum odio ipsam aliquam sed!</p>
-          </div>
-        </div>
-        <!-- END row -->
-      </div>
-    </section>
-
-    
-
-    
-    
-    <section class="probootstrap-cta">
+    <section class="probootstrap-section probootstrap-bg-white">
       <div class="container">
         <div class="row">
-          <div class="col-md-12">
-            <h2 class="probootstrap-animate" data-animate-effect="fadeInRight">Looking for someone?</h2>
-            <a href="employeeContact.aspx" role="button" class="btn btn-primary btn-lg btn-ghost probootstrap-animate" data-animate-effect="fadeInLeft">Find Employee</a>
+          <div class="col-md-5 probootstrap-animate" data-animate-effect="fadeIn">
+            <h2>Send Proposal</h2>
+            <form action="#" method="post" class="probootstrap-form">
+              <div class="form-group">
+                <label for="name">Full Name</label>
+                <input type="text" class="form-control" id="name" name="name">
+              </div>
+              <div class="form-group">
+                <label for="email">Email</label>
+                <input type="email" class="form-control" id="email" name="email">
+              </div>
+                <div class="form-group">
+                <label for="name">Company or Business</label>
+                <input type="text" class="form-control" id="company" name="company">
+              </div>
+              <div class="form-group">
+                <label for="message">Message</label>
+                <textarea cols="30" rows="10" class="form-control" id="message" name="message"></textarea>
+              </div>
+              <div class="form-group">
+                <input type="submit" class="btn btn-primary btn-lg" id="submit" name="submit" value="Submit Proposal">
+              </div>
+            </form>
+          </div>
+          <div class="col-md-6 col-md-push-1 probootstrap-animate" data-animate-effect="fadeIn">
+            <h2>Get in touch</h2>
+            <p>Looking for something else? Feel free to reach out to one of our contacts.</p>
+            
+            <h4>USA</h4>
+            <ul class="probootstrap-contact-info">
+              <li><i class="icon-pin"></i> <span>Based In Hillsboro, OR, 97123</span></li>
+              <li><i class="icon-email"></i><span>info@surgecable.com</span></li>
+              <li><i class="icon-phone"></i><span>+123-456-7890</span></li>
+            </ul>
           </div>
         </div>
       </div>
-    </section>
-
-       <footer class="probootstrap-footer">
+    </section>   
+  
+    <footer class="probootstrap-footer">
       <div class="container">
         <div class="row">
           <div class="col-md-6">
@@ -113,7 +121,7 @@
               <ul class="probootstrap-footer-social">
                 <li><a href="#"><i class="icon-twitter"></i></a></li>
                 <li><a href="#"><i class="icon-facebook"></i></a></li>
-                <li><a href="#"><i class="icon-github"></i></a></li>
+                <li><a href="#"><i class="icon-instagram"></i></a></li>
                 <li><a href="#"><i class="icon-linkedin"></i></a></li>
               </ul>
             </div>
@@ -147,7 +155,7 @@
                   <h3>Links</h3>
                   <ul>
                     <li><a href="#">Knowledge Base</a></li>
-                    <li><a href="#">Careers</a></li>
+                    <li><a href="jobContact.aspx">Careers</a></li>
                     <li><a href="#">Terms of services</a></li>
                     <li><a href="#">Privacy Policy</a></li>
                   </ul>
@@ -174,3 +182,4 @@
     <script src="assets/js/background.js"></script>
   </body>
 </html>
+

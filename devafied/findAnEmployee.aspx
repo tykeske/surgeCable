@@ -33,7 +33,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="index.aspx" title="uiCookies:Stack">Stack</a>
+          <a class="navbar-brand" href="index.aspx" title="surgecable">surgecable</a>
         </div>
 
         <div id="navbar-collapse" class="navbar-collapse collapse">
@@ -63,8 +63,8 @@
             <div class="row">
               <div class="col-md-8 col-md-offset-2">
                 <div class="probootstrap-slider-text text-center">
-                  <h1 class="probootstrap-heading">Poster</h1>
-                  <p class="probootstrap-subheading">Brand Identity, Website</p>
+                  <h1 class="probootstrap-heading">Find an Employee</h1>
+                  <p class="probootstrap-subheading"></p>
                 </div>
               </div>
             </div>
@@ -80,7 +80,7 @@
       <div class="container">
 
         <div class="row mb50">
-          <div class="col-md-4"><h1 class="mt0">The Technologies We Use</h1></div>
+          <div class="col-md-4"><h1 class="mt0">Looking for one of our employees?</h1></div>
           <div class="col-md-7 col-md-push-1">
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum est incidunt dolorem earum doloremque quasi mollitia magnam debitis eos eligendi ratione a illo ipsam aspernatur quas odio dicta! Neque ullam reiciendis numquam architecto eius reprehenderit aperiam dicta voluptates laborum a fugit sit non omnis perferendis magni suscipit dolorum cumque obcaecati autem. Explicabo odit veritatis quae porro praesentium veniam delectus itaque expedita cumque minus necessitatibus quia assumenda illum! Vitae doloribus nemo esse alias autem debitis facilis quae pariatur voluptatum eaque perspiciatis animi accusantium cupiditate at molestias optio assumenda hic fuga. Consequatur vero cupiditate ea dolorum sit cum odio ipsam aliquam sed!</p>
             <p>Explicabo odit veritatis quae porro praesentium veniam delectus itaque expedita cumque minus necessitatibus quia assumenda illum! Vitae doloribus nemo esse alias autem debitis facilis quae pariatur voluptatum eaque perspiciatis animi accusantium cupiditate at molestias optio assumenda hic fuga. Consequatur vero cupiditate ea dolorum sit cum odio ipsam aliquam sed!</p>
@@ -108,7 +108,7 @@
           <div class="col-md-6">
             <div class="probootstrap-footer-widget">
               <img src="assets/img/bottomlogo1.png" />
-              <p>Contact info contact info contact info</p>
+              <p>info@surgecable.com</p>
               <ul class="probootstrap-footer-social">
                 <li><a href="#"><i class="icon-twitter"></i></a></li>
                 <li><a href="#"><i class="icon-facebook"></i></a></li>

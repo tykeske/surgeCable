@@ -107,7 +107,6 @@
             <ul class="probootstrap-contact-info">
               <li><i class="icon-pin"></i> <span>Based In Hillsboro, OR, 97123</span></li>
               <li><i class="icon-email"></i><span>info@surgecable.com</span></li>
-              <li><i class="icon-phone"></i><span>+123-456-7890</span></li>
             </ul>
           </div>
         </div>
@@ -120,7 +119,7 @@
           <div class="col-md-6">
             <div class="probootstrap-footer-widget">
               <img src="assets/img/bottomlogo1.png" />
-              <p>Contact info contact info contact info</p>
+              <p>info@surgecable.com</p>
               <ul class="probootstrap-footer-social">
                 <li><a href="#"><i class="icon-twitter"></i></a></li>
                 <li><a href="#"><i class="icon-facebook"></i></a></li>

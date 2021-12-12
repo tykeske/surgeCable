@@ -157,7 +157,7 @@
           <div class="col-md-6">
             <div class="probootstrap-footer-widget">
               <img src="assets/img/bottomlogo1.png" />
-              <p>Contact info contact info contact info</p>
+              <p>info@surgecable.com</p>
               <ul class="probootstrap-footer-social">
                 <li><a href="#"><i class="icon-twitter"></i></a></li>
                 <li><a href="#"><i class="icon-facebook"></i></a></li>

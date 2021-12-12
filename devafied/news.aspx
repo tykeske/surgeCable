@@ -76,7 +76,7 @@
     </section>
 
 
-<section class="probootstrap-section">
+<section class="probootstrap-section" style="background-color:#fff;">
       <div class="container">
         <div class="row">
           <div class="col-md-6 col-md-offset-3 text-center section-heading probootstrap-animate">
@@ -93,8 +93,8 @@
                 
               </div>
               </a>
-               <h3>There is a first post headline</h3>
-                <p>A text for a new post. Add text here as a description. It will be shown only in the description of a news card.</p>
+               <h3>New website launch!</h3>
+                <p>We appreciate the support, and we'd like to give back. We now have launched this site with your support. We would love to hear your feedback about our site.</p>
                 <p>12.12.2021</p>
           </div>
           
@@ -107,8 +107,8 @@
                 
               </div>
             </a>
-               <h3>Title of the second sample post</h3>
-                <p>A text for a new post. Add text here as a description. It will be shown only in the description of a news card.</p>
+               <h3>New website launch!</h3>
+                <p>We appreciate the support, and we'd like to give back. We now have launched this site with your support. We would love to hear your feedback about our site.</p>
                 <p>12.12.2021</p>
           </div>
             <div class="clearfix visible-sm-block visible-xs-block"></div>
@@ -121,8 +121,8 @@
                 
               </div>
             </a>
-              <h3>The third title for the post</h3>
-                <p>A text for a new post. Add text here as a description. It will be shown only in the description of a news card.</p>
+              <h3>New website launch!</h3>
+                <p>We appreciate the support, and we'd like to give back. We now have launched this site with your support. We would love to hear your feedback about our site.</p>
                 <p>12.12.2021</p>
           </div>
 
@@ -135,8 +135,8 @@
                 
               </div>
             </a>
-               <h3>The fourth title for the post</h3>
-                <p>A text for a new post. Add text here as a description. It will be shown only in the description of a news card.</p>
+               <h3>New website launch!</h3>
+                <p>We appreciate the support, and we'd like to give back. We now have launched this site with your support. We would love to hear your feedback about our site.</p>
                 <p>12.12.2021</p>
           </div>
             <div class="clearfix visible-sm-block visible-xs-block"></div>
@@ -150,12 +150,12 @@
 
     
     
-    <section class="probootstrap-cta">
+<section class="probootstrap-cta">
       <div class="container">
         <div class="row">
           <div class="col-md-12">
-            <h2 class="probootstrap-animate" data-animate-effect="fadeInRight">We'd like to help and talk with you</h2>
-            <a href="#" role="button" class="btn btn-primary btn-lg btn-ghost probootstrap-animate" data-animate-effect="fadeInLeft">Contact Us</a>
+            <h2 class="probootstrap-animate" data-animate-effect="fadeInRight">We'd love to speak with you</h2>
+            <a href="contact.aspx" role="button" class="btn btn-primary btn-lg btn-ghost probootstrap-animate" data-animate-effect="fadeInLeft">Contact Us</a>
           </div>
         </div>
       </div>
@@ -205,9 +205,10 @@
                   <h3>Links</h3>
                   <ul>
                     <li><a href="#">Knowledge Base</a></li>
-                    <li><a href="jobContact.aspx">Careers</a></li>
-                    <li><a href="#">Terms of services</a></li>
-                    <li><a href="#">Privacy Policy</a></li>
+                    <li><a href="findAJob.aspx">Careers</a></li>
+                    <li><a href="employeeContact.aspx">Employee Contact</a></li>
+                    <li><a href="partnershipFranchise.aspx">Partnership/Franchise</a></li>
+                    <li><a href="contact.aspx">Contact Us</a></li>
                   </ul>
                 </div>
               </div>

@@ -157,9 +157,10 @@
                   <h3>Links</h3>
                   <ul>
                     <li><a href="#">Knowledge Base</a></li>
-                    <li><a href="jobContact.aspx">Careers</a></li>
-                    <li><a href="#">Terms of services</a></li>
-                    <li><a href="#">Privacy Policy</a></li>
+                    <li><a href="findAJob.aspx">Careers</a></li>
+                    <li><a href="employeeContact.aspx">Employee Contact</a></li>
+                    <li><a href="partnershipFranchise.aspx">Partnership/Franchise</a></li>
+                    <li><a href="contact.aspx">Contact Us</a></li>
                   </ul>
                 </div>
               </div>

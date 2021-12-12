@@ -57,7 +57,7 @@
     <section class="flexslider">
       <ul class="slides">
         
-        <li style="background-image: url(img/slider_3.jpg)" class="overlay">
+        <li style="background-image: url(assets/img/surgeheader1.jpg)" class="overlay">
           <div class="container">
             <div class="row">
               <div class="col-md-8 col-md-offset-2">
@@ -156,9 +156,10 @@
                   <h3>Links</h3>
                   <ul>
                     <li><a href="#">Knowledge Base</a></li>
-                    <li><a href="jobContact.aspx">Careers</a></li>
-                    <li><a href="#">Terms of services</a></li>
-                    <li><a href="#">Privacy Policy</a></li>
+                    <li><a href="findAJob.aspx">Careers</a></li>
+                    <li><a href="employeeContact.aspx">Employee Contact</a></li>
+                    <li><a href="partnershipFranchise.aspx">Partnership/Franchise</a></li>
+                    <li><a href="contact.aspx">Contact Us</a></li>
                   </ul>
                 </div>
               </div>

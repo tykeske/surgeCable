@@ -1929,7 +1929,7 @@ a:hover, a:focus, a:active {
   padding-left: 30px;
 }
 
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 0px) {
   .probootstrap-gutter60 > div[class*='col-'] {
     padding-right: 15px;
     padding-left: 15px;
@@ -1941,43 +1941,43 @@ a:hover, a:focus, a:active {
 }
 
 .mb10 {
-  margin-bottom: 10px;
+  margin-bottom: 0px;
 }
 
 .mb20 {
-  margin-bottom: 20px;
+  margin-bottom: 0px;
 }
 
 .mb30 {
-  margin-bottom: 30px;
+  margin-bottom: 0px;
 }
 
 .mb40 {
-  margin-bottom: 40px;
+  margin-bottom: 0px;
 }
 
 .mb50 {
-  margin-bottom: 50px;
+  margin-bottom: 0px;
 }
 
 .mb60 {
-  margin-bottom: 60px;
+  margin-bottom: 0px;
 }
 
 .mb70 {
-  margin-bottom: 70px;
+  margin-bottom: 0px;
 }
 
 .mb80 {
-  margin-bottom: 80px;
+  margin-bottom: 0px;
 }
 
 .mb90 {
-  margin-bottom: 90px;
+  margin-bottom: 0px;
 }
 
 .mb100 {
-  margin-bottom: 100px;
+  margin-bottom: 0px;
 }
 
 .mt0 {
@@ -1985,43 +1985,43 @@ a:hover, a:focus, a:active {
 }
 
 .mt10 {
-  margin-top: 10px;
+  margin-top: 0px;
 }
 
 .mt20 {
-  margin-top: 20px;
+  margin-top: 0px;
 }
 
 .mt30 {
-  margin-top: 30px;
+  margin-top: 0px;
 }
 
 .mt40 {
-  margin-top: 40px;
+  margin-top: 0px;
 }
 
 .mt50 {
-  margin-top: 50px;
+  margin-top: 0px;
 }
 
 .mt60 {
-  margin-top: 60px;
+  margin-top: 0px;
 }
 
 .mt70 {
-  margin-top: 70px;
+  margin-top: 0px;
 }
 
 .mt80 {
-  margin-top: 80px;
+  margin-top: 0px;
 }
 
 .mt90 {
-  margin-top: 90px;
+  margin-top: 0px;
 }
 
 .mt100 {
-  margin-top: 100px;
+  margin-top: 0px;
 }
 
 .pb0 {

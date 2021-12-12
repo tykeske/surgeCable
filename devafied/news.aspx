@@ -9,7 +9,8 @@
     <meta name="description" content="Surge Cable">
     <meta name="keywords" content="Surge Cable">
     
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:400,500,700">
+    <script src="https://kit.fontawesome.com/0593c0994a.js" crossorigin="anonymous"></script>
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:400,500,700">
     <link rel="stylesheet" href="assets/css/styles-merged.css">
     <link rel="stylesheet" href="assets/css/style.min.css">
 
@@ -56,84 +57,79 @@
       </div>
     </nav>
 
-    <section class="flexslider">
-      <ul class="slides">
-        
-        <li style="background-image: url(assets/img/slider_3.jpg)" class="overlay">
-          <div class="container">
-            <div class="row">
-              <div class="col-md-8 col-md-offset-2">
-                <div class="probootstrap-slider-text text-center">
-                  <h1 class="probootstrap-heading">News</h1>
-                  <p class="probootstrap-subheading"></p>
-                </div>
-              </div>
-            </div>
-          </div>
-        </li>
-      </ul>
-    </section>
+   
 
 
-      <section class="probootstrap-section">
-          <div class="row">
-          <div class="col-md-6 col-md-offset-3 text-center section-heading">
+      
+       <section class="probootstrap-section">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-6 col-md-offset-3 text-center section-heading probootstrap-animate">
             <h2>Our News</h2>
           </div>
         </div>
-      <div class="container">
-        <div class="row">
-          <div class="col-md-6">
-            <div class="service left-icon probootstrap-animate" data-animate-effect="fadeInLeft">
-              <div class="icon"><i class="icon-user-check"></i></div>
-              <div class="text">
-                <h3>Loream Ipsome</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit iusto provident.</p>
-              </div>  
-            </div>
-            <div class="service left-icon probootstrap-animate" data-animate-effect="fadeInLeft">
-              <div class="icon"><i class="icon-pencil"></i></div>
-              <div class="text">
-                <h3>Loream Ipsomen</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit iusto provident.</p>
-              </div>
-            </div>
-            <div class="service left-icon probootstrap-animate" data-animate-effect="fadeInLeft">
-              <div class="icon"><i class="icon-spinner"></i></div>
-              <div class="text">
-                <h3>Loream Ipsomeps</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit iusto provident.</p>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-6">
-            <div class="service left-icon probootstrap-animate" data-animate-effect="fadeInLeft">
-              <div class="icon"><i class="icon-embed2"></i></div>
-              <div class="text">
-                <h3>Loream Ipsomease</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto provident qui tempore natus quos quibusdam soluta at.</p>
-              </div>  
-            </div>
-            
-            <div class="service left-icon probootstrap-animate" data-animate-effect="fadeInLeft">
-              <div class="icon"><i class="icon-bubbles"></i></div>
-              <div class="text">
-                <h3>Loream Ipsomeck</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto provident qui tempore natus quos quibusdam soluta at.</p>
-              </div>
-            </div>
-            
-            <div class="service left-icon probootstrap-animate" data-animate-effect="fadeInLeft">
-              <div class="icon"><i class="icon-cloud-check"></i></div>
-              <div class="text">
-                <h3>Loream Ipsomench</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto provident qui tempore natus quos quibusdam soluta at.</p>
-              </div>
-            </div>
-
-          </div>
-        </div>
         <!-- END row -->
+        <div class="row">
+          
+          <div class="col-md-3 col-sm-6 col-xs-6 probootstrap-animate">
+            <a href="#" >
+              <img src="assets/img/person_2.jpg"  class="img-responsive img-rounded">
+              <div class="probootstrap-team-info">
+                
+              </div>
+              </a>
+               <h3>There is a first post headline</h3>
+                <p>A text for a new post. Add text here as a description. It will be shown only in the description of a news card.</p>
+                <p>12.12.2021</p>
+          </div>
+          
+          <div class="clearfix visible-sm-block visible-xs-block"></div>
+
+          <div class="col-md-3 col-sm-6 col-xs-6 probootstrap-animate">
+            <a href="#" >
+              <img src="assets/img/person_3.jpg" class="img-responsive img-rounded">
+              <div class="probootstrap-team-info">
+                
+              </div>
+            </a>
+               <h3>Title of the second sample post</h3>
+                <p>A text for a new post. Add text here as a description. It will be shown only in the description of a news card.</p>
+                <p>12.12.2021</p>
+          </div>
+            <div class="clearfix visible-sm-block visible-xs-block"></div>
+
+          <div class="col-md-3 col-sm-6 col-xs-6 probootstrap-animate">
+            <a href="#">
+              <img src="assets/img/person_4.jpg"  class="img-responsive img-rounded">
+              <div class="probootstrap-team-info">
+               
+                
+              </div>
+            </a>
+              <h3>The third title for the post</h3>
+                <p>A text for a new post. Add text here as a description. It will be shown only in the description of a news card.</p>
+                <p>12.12.2021</p>
+          </div>
+
+          <div class="clearfix visible-sm-block visible-xs-block"></div>
+
+          <div class="col-md-3 col-sm-6 col-xs-6 probootstrap-animate">
+            <a href="#" >
+              <img src="assets/img/person_2.jpg"  class="img-responsive img-rounded">
+              <div class="probootstrap-team-info">
+                
+              </div>
+            </a>
+               <h3>The fourth title for the post</h3>
+                <p>A text for a new post. Add text here as a description. It will be shown only in the description of a news card.</p>
+                <p>12.12.2021</p>
+          </div>
+            <div class="clearfix visible-sm-block visible-xs-block"></div>
+         
+          
+
+         
+        </div>
       </div>
     </section>
 

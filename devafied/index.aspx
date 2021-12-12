@@ -9,7 +9,8 @@
     <meta name="description" content="Web & Software Development | IT Services">
     <meta name="keywords" content="free website templates, free bootstrap themes, free template, free bootstrap, free website template">
     
-    <link href="https://fonts.googleapis.com/css?family=Poppins:400,500,700" rel="stylesheet">
+    <script src="https://kit.fontawesome.com/0593c0994a.js" crossorigin="anonymous"></script>
+      <link href="https://fonts.googleapis.com/css?family=Poppins:400,500,700" rel="stylesheet">
     <link href="assets/css/styles-merged.css" rel="stylesheet">
     <link href="assets/css/style.min.css" rel="stylesheet">
       

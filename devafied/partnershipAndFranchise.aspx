@@ -9,7 +9,8 @@
     <meta name="description" content="Surge Cable">
     <meta name="keywords" content="free website templates, free bootstrap themes, free template, free bootstrap, free website template">
     
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:400,500,700">
+    <script src="https://kit.fontawesome.com/0593c0994a.js" crossorigin="anonymous"></script>
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:400,500,700">
     <link rel="stylesheet" href="assets/css/styles-merged.css">
     <link rel="stylesheet" href="assets/css/style.min.css">
 
@@ -98,49 +99,49 @@
         <div class="row">
           <div class="col-md-6">
             <div class="service left-icon probootstrap-animate" data-animate-effect="fadeInLeft">
-              <div class="icon"><i class="icon-user-check"></i></div>
+              <div class="icon"><i class="fas fa-user-tie"></i></div>
               <div class="text">
-                <h3>Loream Ipsome</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit iusto provident.</p>
+                
+                <p>You get to be independent business owners and entrepreneurs</p>
               </div>  
             </div>
             <div class="service left-icon probootstrap-animate" data-animate-effect="fadeInLeft">
-              <div class="icon"><i class="icon-pencil"></i></div>
+              <div class="icon"><i class="fas fa-chalkboard-teacher"></i></div>
               <div class="text">
-                <h3>Loream Ipsomen</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit iusto provident.</p>
+                
+                <p>You possess a great deal of autonomy as to how you want to lead your branch</p>
               </div>
             </div>
             <div class="service left-icon probootstrap-animate" data-animate-effect="fadeInLeft">
-              <div class="icon"><i class="icon-spinner"></i></div>
+              <div class="icon"><i class="fas fa-hands-helping"></i></div>
               <div class="text">
-                <h3>Loream Ipsomeps</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit iusto provident.</p>
+               
+                <p>You do not have to start everything from scratch since we’ll be there to help you set up</p>
               </div>
             </div>
           </div>
           <div class="col-md-6">
             <div class="service left-icon probootstrap-animate" data-animate-effect="fadeInLeft">
-              <div class="icon"><i class="icon-embed2"></i></div>
+              <div class="icon"><i class="fas fa-users"></i></div>
               <div class="text">
-                <h3>Loream Ipsomease</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto provident qui tempore natus quos quibusdam soluta at.</p>
+               
+                <p>You’ll have some pre-existing workforce, so you don’t have to hire for all roles</p>
               </div>  
             </div>
             
             <div class="service left-icon probootstrap-animate" data-animate-effect="fadeInLeft">
-              <div class="icon"><i class="icon-bubbles"></i></div>
+              <div class="icon"><i class="icomoon icon-thumbs-up"></i></div>
               <div class="text">
-                <h3>Loream Ipsomeck</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto provident qui tempore natus quos quibusdam soluta at.</p>
+                
+                <p>We will help you cater to them with more accurate solutions and services, leading to a higher success rate</p>
               </div>
             </div>
             
             <div class="service left-icon probootstrap-animate" data-animate-effect="fadeInLeft">
-              <div class="icon"><i class="icon-cloud-check"></i></div>
+              <div class="icon"><i class="fas fa-user-check"></i></div>
               <div class="text">
-                <h3>Loream Ipsomench</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto provident qui tempore natus quos quibusdam soluta at.</p>
+               
+                <p>Over and above these, you’ll have a fair idea about customer requirements and challenges</p>
               </div>
             </div>
 
@@ -195,7 +196,7 @@
         <!-- END row -->
       </div>
     </section>
-      <section>
+   <section>
       <div class="container">
   <div class="col_fourth">
     <div class="at-work-process position-relative overflow-hidden text-center">
@@ -205,7 +206,7 @@
         <div class="at-separator-thick"></div>
       </div>
       <div class="at-work-process-details">
-        <i class="fa fa-diamond"></i><span>You leave a request</span>
+        <i class="fas fa-inbox"></i><span>You leave a request</span>
       </div>
     </div>
   </div>
@@ -217,7 +218,7 @@
         <div class="at-separator-thick"></div>
       </div>
       <div class="at-work-process-details">
-        <i class="fa fa-magic"></i><span>Our manager will contact you and clarify all your wishes</span>
+        <i class="fas fa-tasks"></i><span>Our manager will contact you and clarify all your wishes</span>
       </div>
     </div>
   </div>
@@ -229,7 +230,7 @@
         <div class="at-separator-thick"></div>
       </div>
       <div class="at-work-process-details">
-        <i class="fa fa-rocket"></i><span>We will conduct an interview and select the best job for you</span>
+        <i class="fas fa-info"></i><span>We will conduct an interview and select the best job for you</span>
       </div>
     </div>
   </div>
@@ -241,12 +242,12 @@
         <div class="at-separator-thick"></div>
       </div>
       <div class="at-work-process-details">
-        <i class="fa fa-shopping-basket"></i><span>We will conduct an interview and select the best job for you</span>
+        <i class="fas fa-screwdriver"></i><span>We will conduct an interview and select the best job for you</span>
       </div>
     </div>
   </div>
 </div>   
- </section>
+          </section>
     
     <section class="probootstrap-cta">
       <div class="container">

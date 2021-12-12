@@ -79,6 +79,8 @@
     <Content Include="assets\css\vendor\icomoon.css" />
     <Content Include="assets\css\vendor\owl.carousel.min.css" />
     <Content Include="assets\css\vendor\owl.theme.default.min.css" />
+    <Content Include="assets\fonts\font-awesome.css" />
+    <Content Include="assets\fonts\font-awesome.min.css" />
     <Content Include="assets\fonts\icomoon demo\demo-files\demo.css" />
     <Content Include="assets\fonts\icomoon demo\demo-files\demo.js" />
     <Content Include="assets\fonts\icomoon demo\demo.html" />

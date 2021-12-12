@@ -8,7 +8,8 @@
     <title>Surge Cable</title>
     <meta name="description" content="Surge Cable Services">
     <meta name="keywords" content="Surge Cable">
-    
+   
+    <script src="https://kit.fontawesome.com/0593c0994a.js" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:400,500,700">
     <link rel="stylesheet" href="assets/css/styles-merged.css">
     <link rel="stylesheet" href="assets/css/style.min.css">
@@ -82,7 +83,7 @@
         </div>
           <div class="col-md-4 probootstrap-animate" data-animate-effect="fadeIn">
             <div class="service  text-center">
-              <div class="icon"><i class="icon-mobile3"></i></div>
+              <div class="icon"><i class="fas fa-tools"></i></div>
               <div class="text">
                 <h3>Residential Installs</h3>
                 <p></p>
@@ -91,7 +92,7 @@
           </div>
           <div class="col-md-4 probootstrap-animate" data-animate-effect="fadeIn">
             <div class="service  text-center">
-              <div class="icon"><i class="icon-presentation"></i></div>
+              <div class="icon"><i class="fas fa-hard-hat"></i></div>
               <div class="text">
                 <h3>Construction</h3>
                 <p></p>
@@ -100,7 +101,7 @@
           </div>
           <div class="col-md-4 probootstrap-animate" data-animate-effect="fadeIn">
             <div class="service  text-center">
-              <div class="icon"><i class="icon-circle-compass"></i></div>
+              <div class="icon"><i class="fas fa-wifi"></i></div>
               <div class="text">
                 <h3>Multi Dwelling Wiring</h3>
                 <p></p>
@@ -318,7 +319,7 @@
         <div class="at-separator-thick"></div>
       </div>
       <div class="at-work-process-details">
-        <i class="fa fa-diamond"></i><span>You leave a request</span>
+        <i class="fas fa-inbox"></i><span>You leave a request</span>
       </div>
     </div>
   </div>
@@ -330,7 +331,7 @@
         <div class="at-separator-thick"></div>
       </div>
       <div class="at-work-process-details">
-        <i class="fa fa-magic"></i><span>Our manager will contact you and clarify all your wishes</span>
+        <i class="fas fa-tasks"></i><span>Our manager will contact you and clarify all your wishes</span>
       </div>
     </div>
   </div>
@@ -342,7 +343,7 @@
         <div class="at-separator-thick"></div>
       </div>
       <div class="at-work-process-details">
-        <i class="fa fa-rocket"></i><span>We will conduct an interview and select the best job for you</span>
+        <i class="fas fa-info"></i><span>We will conduct an interview and select the best job for you</span>
       </div>
     </div>
   </div>
@@ -354,7 +355,7 @@
         <div class="at-separator-thick"></div>
       </div>
       <div class="at-work-process-details">
-        <i class="fa fa-shopping-basket"></i><span>We will conduct an interview and select the best job for you</span>
+        <i class="fas fa-screwdriver"></i><span>We will conduct an interview and select the best job for you</span>
       </div>
     </div>
   </div>

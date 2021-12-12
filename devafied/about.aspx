@@ -9,7 +9,8 @@
     <meta name="description" content="Who is Surge Cable?">
     <meta name="keywords" content="Surge Cable">
     
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:400,500,700">
+   <script src="https://kit.fontawesome.com/0593c0994a.js" crossorigin="anonymous"></script>
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:400,500,700">
     <link rel="stylesheet" href="assets/css/styles-merged.css">
     <link rel="stylesheet" href="assets/css/style.min.css">
 

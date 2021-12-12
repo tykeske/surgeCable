@@ -9,6 +9,7 @@
     <meta name="description" content="Surge Cable">
     <meta name="keywords" content="Surge Cable">
     
+       <script src="https://kit.fontawesome.com/0593c0994a.js" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:400,500,700">
     <link rel="stylesheet" href="assets/css/styles-merged.css">
     <link rel="stylesheet" href="assets/css/style.min.css">
@@ -82,7 +83,7 @@
         </div>
           <div class="col-md-4 probootstrap-animate" data-animate-effect="fadeIn">
             <div class="service  text-center">
-              <div class="icon"><i class="icon-mobile3"></i></div>
+              <div class="icon"><i class="fas fa-dollar-sign"></i></div>
               <div class="text">
                 <h3>Competitive Salary</h3>
                 <p></p>
@@ -100,7 +101,7 @@
           </div>
           <div class="col-md-4 probootstrap-animate" data-animate-effect="fadeIn">
             <div class="service  text-center">
-              <div class="icon"><i class="icon-circle-compass"></i></div>
+              <div class="icon"><i class="icomoon icon-calendar"></i></div>
               <div class="text">
                 <h3>Flexible work schedules</h3>
                 <p></p>
@@ -127,14 +128,14 @@
         <div class="row">
           <div class="col-md-6">
             <div class="service left-icon probootstrap-animate" data-animate-effect="fadeInLeft">
-              <div class="icon"><i class="icon-user-check"></i></div>
+              <div class="icon"><i class="fas fa-hard-hat"></i></div>
               <div class="text">
                 <h3>Residential Installation</h3>
                 <p>These include installation of high-speed internet modems, setting up wifi networks, and even servicing them. Our technicians and engineers are quick to respond and assist you with any problems regarding your home network.</p>
               </div>  
             </div>
             <div class="service left-icon probootstrap-animate" data-animate-effect="fadeInLeft">
-              <div class="icon"><i class="icon-pencil"></i></div>
+              <div class="icon"><i class="fas fa-lock"></i></div>
               <div class="text">
                 <h3>Home Security And Automation</h3>
                 <p>We also provide automated security systems for your homes to keep them safe from intruders. These robust systems come with numerous features that are simple to understand and use on a daily basis.</p>
@@ -144,7 +145,7 @@
           </div>
           <div class="col-md-6">
             <div class="service left-icon probootstrap-animate" data-animate-effect="fadeInLeft">
-              <div class="icon"><i class="icon-embed2"></i></div>
+              <div class="icon"><i class="fas fa-home"></i></div>
               <div class="text">
                 <h3>Multi-Dwelling Unit Constructions</h3>
                 <p>Planning and constructing networks for apartments and colonies is yet another area that we cater to. As in the previous cases, we work with partners and vendors to provide quality services. Besides constructing them, we also service the colonies with the help of our technicians and engineers.</p>
@@ -152,7 +153,7 @@
             </div>
             
             <div class="service left-icon probootstrap-animate" data-animate-effect="fadeInLeft">
-              <div class="icon"><i class="icon-spinner"></i></div>
+              <div class="icon"><i class="fas fa-tools"></i></div>
               <div class="text">
                 <h3>Underground And Aerial Constructions</h3>
                 <p>We work with our partners and specialize in constructing underground and aerial networks of fiber optic and 5G services. These include end-to-end planning and execution of outside plant designs.</p>
@@ -371,7 +372,7 @@
         <!-- END row -->
       </div>
     </section>
-      <section>
+ <section>
       <div class="container">
   <div class="col_fourth">
     <div class="at-work-process position-relative overflow-hidden text-center">
@@ -381,7 +382,7 @@
         <div class="at-separator-thick"></div>
       </div>
       <div class="at-work-process-details">
-        <i class="fa fa-diamond"></i><span>You leave a request</span>
+        <i class="fas fa-inbox"></i><span>You leave a request</span>
       </div>
     </div>
   </div>
@@ -393,7 +394,7 @@
         <div class="at-separator-thick"></div>
       </div>
       <div class="at-work-process-details">
-        <i class="fa fa-magic"></i><span>Our manager will contact you and clarify all your wishes</span>
+        <i class="fas fa-tasks"></i><span>Our manager will contact you and clarify all your wishes</span>
       </div>
     </div>
   </div>
@@ -405,7 +406,7 @@
         <div class="at-separator-thick"></div>
       </div>
       <div class="at-work-process-details">
-        <i class="fa fa-rocket"></i><span>We will conduct an interview and select the best job for you</span>
+        <i class="fas fa-info"></i><span>We will conduct an interview and select the best job for you</span>
       </div>
     </div>
   </div>
@@ -417,7 +418,7 @@
         <div class="at-separator-thick"></div>
       </div>
       <div class="at-work-process-details">
-        <i class="fa fa-shopping-basket"></i><span>We will conduct an interview and select the best job for you</span>
+        <i class="fas fa-screwdriver"></i><span>We will conduct an interview and select the best job for you</span>
       </div>
     </div>
   </div>

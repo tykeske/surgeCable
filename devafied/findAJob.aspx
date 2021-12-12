@@ -23,7 +23,7 @@
     <!-- Fixed navbar -->
     
     
-    <nav class="navbar navbar-default probootstrap-navbar">
+    <nav class="navbar navbar-default navbar-fixed-top probootstrap-navbar scrolled" id="navbar">
       <div class="container">
         <div class="navbar-header">
           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse" aria-expanded="false" aria-controls="navbar">
@@ -364,8 +364,7 @@
                   </figure>
                   <blockquote class="quote">&ldquo;I think design would be better if designers were much more skeptical about its applications. If you believe in the potency of your craft, where you choose to dole it out is not something to take lightly.&rdquo; <cite class="author">&mdash; Frank Chimero <br> <span>Creative Director at Twitter</span></cite></blockquote>
                 </div>
-              </div>
-              
+              </div>              
             </div>
           </div>
         </div>

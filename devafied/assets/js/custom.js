@@ -216,23 +216,7 @@
 		} , { offset: '85%' } );
 	};
 
-	var navbarState = function() {
-
-		jQuery(window).scroll(function(){
-
-			var $this = jQuery(this),
-				 	st = $this.scrollTop();
-
-			if ( st > 5 ) {
-				jQuery('.probootstrap-navbar').addClass('scrolled');
-			} else {
-				jQuery('.probootstrap-navbar').removeClass('scrolled');
-			}
-
-		});
-		
-
-	};
+	
 
 	jQuery(function(){
 		menuHover();

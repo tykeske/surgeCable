@@ -243,16 +243,15 @@
    @media screen and (max-width:768px){.img-xs-responsive{max-width:100%}}
 
 
-@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
-@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,600);
 
-.container {
+
+.container-effect {
     max-width: 1200px !important;
     margin: 100px 0;
     
 }
 
-.container {
+.container-effect {
     box-sizing: border-box;
     margin-left: auto !important;
     margin-right: auto !important;

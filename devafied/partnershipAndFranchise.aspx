@@ -23,7 +23,7 @@
     <!-- Fixed navbar -->
     
     
-    <nav class="navbar navbar-default navbar-fixed-top probootstrap-navbar" id="navbar">
+    <nav class="navbar navbar-default navbar-fixed-top probootstrap-navbar scrolled" id="navbar">
       <div class="container">
         <div class="navbar-header">
           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse" aria-expanded="false" aria-controls="navbar">
@@ -246,7 +246,7 @@
     </div>
   </div>
 </div>   
-          </section>
+ </section>
     
     <section class="probootstrap-cta">
       <div class="container">
@@ -264,7 +264,7 @@
         <div class="row">
           <div class="col-md-6">
             <div class="probootstrap-footer-widget">
-              <h3>Devafied</h3>
+              <h3>Surge Cable INC</h3>
               <p>Contact info contact info contact info</p>
               <ul class="probootstrap-footer-social">
                 <li><a href="#"><i class="icon-twitter"></i></a></li>
@@ -317,7 +317,7 @@
         <!-- END row -->
         <div class="row">
           <div class="col-md-12 copyright">
-            <p><small>&copy; 2021 <a href="https://devafied.com">Devafied</a>. All Rights Reserved.</small></p>
+            <p><small>&copy; 2021 <a href="https://surgecable.com">Surge Cable INC</a>. All Rights Reserved.</small></p>
           </div>
         </div>
       </div>

@@ -74,13 +74,55 @@
     </section>
 
 
-      <section class="probootstrap-section">
-          <div class="row">
+       <section class="probootstrap-section proboostrap-clients" style="padding-top:0px; padding-bottom:0px;">
+      <div class="container">
+
+        <div class="row probootstrap-gutter60" style="height:10px;">
+            <div class="row">
           <div class="col-md-6 col-md-offset-3 text-center section-heading">
             <h2>Our Services</h2>
           </div>
         </div>
-      <div class="container">
+          <div class="col-md-4 probootstrap-animate" data-animate-effect="fadeIn">
+            <div class="service  text-center">
+              <div class="icon"><i class="icon-mobile3"></i></div>
+              <div class="text">
+                <h3>Competitive Salary</h3>
+                <p></p>
+              </div>  
+            </div>
+          </div>
+          <div class="col-md-4 probootstrap-animate" data-animate-effect="fadeIn">
+            <div class="service  text-center">
+              <div class="icon"><i class="icon-presentation"></i></div>
+              <div class="text">
+                <h3>Stable work & projects</h3>
+                <p></p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4 probootstrap-animate" data-animate-effect="fadeIn">
+            <div class="service  text-center">
+              <div class="icon"><i class="icon-circle-compass"></i></div>
+              <div class="text">
+                <h3>Flexible work schedules</h3>
+                <p></p>
+              </div>
+            </div>
+          </div>
+            <div class="container">
+
+        
+        <!-- END row -->
+      </div>
+        </div>
+        <!-- END row -->
+      </div>
+    
+
+
+      
+                <div class="container">
         <div class="row">
           <div class="col-md-6">
             <div class="service left-icon probootstrap-animate" data-animate-effect="fadeInLeft">
@@ -97,13 +139,7 @@
                 <p>We also provide automated security systems for your homes to keep them safe from intruders. These robust systems come with numerous features that are simple to understand and use on a daily basis.</p>
               </div>
             </div>
-            <div class="service left-icon probootstrap-animate" data-animate-effect="fadeInLeft">
-              <div class="icon"><i class="icon-spinner"></i></div>
-              <div class="text">
-                <h3>Underground And Aerial Constructions</h3>
-                <p>We work with our partners and specialize in constructing underground and aerial networks of fiber optic and 5G services. These include end-to-end planning and execution of outside plant designs.</p>
-              </div>
-            </div>
+          
           </div>
           <div class="col-md-6">
             <div class="service left-icon probootstrap-animate" data-animate-effect="fadeInLeft">
@@ -115,26 +151,28 @@
             </div>
             
             <div class="service left-icon probootstrap-animate" data-animate-effect="fadeInLeft">
-              <div class="icon"><i class="icon-bubbles"></i></div>
+              <div class="icon"><i class="icon-spinner"></i></div>
               <div class="text">
-                <h3>Loream Ipsomeck</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto provident qui tempore natus quos quibusdam soluta at.</p>
-              </div>
-            </div>
-            
-            <div class="service left-icon probootstrap-animate" data-animate-effect="fadeInLeft">
-              <div class="icon"><i class="icon-cloud-check"></i></div>
-              <div class="text">
-                <h3>Loream Ipsomench</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto provident qui tempore natus quos quibusdam soluta at.</p>
-              </div>
-            </div>
+                <h3>Underground And Aerial Constructions</h3>
+                <p>We work with our partners and specialize in constructing underground and aerial networks of fiber optic and 5G services. These include end-to-end planning and execution of outside plant designs.</p>
+              </div>           
+         </div>
+         </div>     
+        </div>
+        <!-- END row -->
+      </div>
+                     <div class="container">
 
+        <div class="row">
+          <div class="col-md-6 col-md-offset-3 text-center section-heading probootstrap-animate">
+            <p class="lead">Above and beyond these, we provide services such as digital migration of projects, digital conversions, hurricane relief, and others.</p>
+              <p class="lead">With these services, we look to grow further by increasing our reach to numerous other states and constantly evolve the way we provide our services.</p>
           </div>
         </div>
         <!-- END row -->
       </div>
-    </section>
+   
+      </section>
 
     
     

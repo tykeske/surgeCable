@@ -85,7 +85,7 @@
         </div>
           <div class="col-md-4 probootstrap-animate" data-animate-effect="fadeIn">
             <div class="service  text-center">
-              <div class="icon"><i class="icon-mobile3"></i></div>
+              <div class="icon"><i class="fas fa-money-bill-wave"></i></div>
               <div class="text">
                 <h3 style="color:#0066BF;">Competitive Salary</h3>
                 <p></p>
@@ -94,7 +94,7 @@
           </div>
           <div class="col-md-4 probootstrap-animate" data-animate-effect="fadeIn">
             <div class="service  text-center">
-              <div class="icon"><i class="icon-presentation"></i></div>
+              <div class="icon"><i class="fas fa-chart-line"></i></div>
               <div class="text">
                 <h3 style="color:#0066BF;">Stable work & projects</h3>
                 <p></p>
@@ -103,7 +103,7 @@
           </div>
           <div class="col-md-4 probootstrap-animate" data-animate-effect="fadeIn">
             <div class="service  text-center">
-              <div class="icon"><i class="icon-circle-compass"></i></div>
+              <div class="icon"><i class="fas fa-calendar-alt"></i></div>
               <div class="text">
                 <h3 style="color:#0066BF;">Flexible work schedules</h3>
                 <p></p>
@@ -126,14 +126,14 @@
         <div class="row">
           <div class="col-md-6";>
             <div class="service left-icon probootstrap-animate" data-animate-effect="fadeInLeft">
-              <div class="icon"><i class="icon-user-check"></i></div>
+              <div class="icon"><i class="fas fa-hard-hat"></i></div>
               <div class="text">
                 <h3 style="color:#0066BF;">Residential Installation</h3>
                 <p>These include installation of high-speed internet modems, setting up wifi networks, and even servicing them. Our technicians and engineers are quick to respond and assist you with any problems regarding your home network.</p>
               </div>  
             </div>
             <div class="service left-icon probootstrap-animate" data-animate-effect="fadeInLeft">
-              <div class="icon"><i class="icon-pencil"></i></div>
+              <div class="icon"><i class="fas fa-lock"></i></div>
               <div class="text">
                 <h3 style="color:#0066BF;">Home Security And Automation</h3>
                 <p>We also provide automated security systems for your homes to keep them safe from intruders. These robust systems come with numerous features that are simple to understand and use on a daily basis.</p>
@@ -143,7 +143,7 @@
           </div>
           <div class="col-md-6">
             <div class="service left-icon probootstrap-animate" data-animate-effect="fadeInLeft">
-              <div class="icon"><i class="icon-embed2"></i></div>
+              <div class="icon"><i class="fas fa-home"></i></div>
               <div class="text">
                 <h3 style="color:#0066BF;">Multi-Dwelling Unit Constructions</h3>
                 <p>Planning and constructing networks for apartments and colonies is yet another area that we cater to. As in the previous cases, we work with partners and vendors to provide quality services. We also service the colonies with the help of our technicians and engineers.</p>
@@ -151,7 +151,7 @@
             </div>
             
             <div class="service left-icon probootstrap-animate" data-animate-effect="fadeInLeft">
-              <div class="icon"><i class="icon-spinner"></i></div>
+              <div class="icon"><i class="fas fa-tools"></i></div>
               <div class="text">
                 <h3 style="color:#0066BF;">Underground And Aerial Constructions</h3>
                 <p>We work with our partners and specialize in constructing underground and aerial networks of fiber optic and 5G services. These include end-to-end planning and execution of outside plant designs.</p>
@@ -181,7 +181,7 @@
         <div class="at-separator-thick"></div>
       </div>
       <div class="at-work-process-details">
-        <i class="fa fa-diamond" style="margin-top:0px;margin-bottom:10px;color:#0066BF;"></i><span style="color:#fff; font-size:12px;">You leave a request</span>
+        <i class="fas fa-inbox" style="margin-top:0px;margin-bottom:10px;color:#0066BF;"></i><span style="color:#fff; font-size:12px;">You leave a request</span>
       </div>
     </div>
   </div>
@@ -193,7 +193,7 @@
         <div class="at-separator-thick"></div>
       </div>
       <div class="at-work-process-details">
-        <i class="fa fa-magic"style="margin-top:0px;margin-bottom:10px;color:#0066BF;"></i><span style="color:#fff; font-size:12px;">Our manager will contact you and clarify all your wishes</span>
+        <i class="fas fa-tasks"style="margin-top:0px;margin-bottom:10px;color:#0066BF;"></i><span style="color:#fff; font-size:12px;">Our manager will contact you and clarify all your wishes</span>
       </div>
     </div>
   </div>
@@ -205,7 +205,7 @@
         <div class="at-separator-thick"></div>
       </div>
       <div class="at-work-process-details">
-        <i class="fa fa-rocket"style="margin-top:0px;margin-bottom:10px;color:#0066BF;"></i><span style="color:#fff; font-size:12px;">We will conduct an interview and select the best job for you</span>
+        <i class="fas fa-info"style="margin-top:0px;margin-bottom:10px;color:#0066BF;"></i><span style="color:#fff; font-size:12px;">We will conduct an interview and select the best job for you</span>
       </div>
     </div>
   </div>
@@ -217,7 +217,7 @@
         <div class="at-separator-thick"></div>
       </div>
       <div class="at-work-process-details">
-        <i class="fa fa-shopping-basket"style="margin-top:0px;margin-bottom:10px;color:#0066BF;"></i><span style="color:#fff; font-size:12px;">We will contact you with an offical job offer</span>
+        <i class="fas fa-screwdriver"style="margin-top:0px;margin-bottom:10px;color:#0066BF;"></i><span style="color:#fff; font-size:12px;">We will contact you with an offical job offer</span>
       </div>
     </div>
   </div>

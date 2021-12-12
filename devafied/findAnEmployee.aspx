@@ -58,7 +58,7 @@
     <section class="flexslider">
       <ul class="slides">
         
-        <li style="background-image: url(assets/img/work_1.jpg)" class="overlay">
+        <li style="background-image: url(assets/img/surgeheader1.jpg)" class="overlay">
           <div class="container">
             <div class="row">
               <div class="col-md-8 col-md-offset-2">
@@ -82,8 +82,8 @@
         <div class="row mb50">
           <div class="col-md-4"><h1 class="mt0">Looking for one of our employees?</h1></div>
           <div class="col-md-7 col-md-push-1">
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum est incidunt dolorem earum doloremque quasi mollitia magnam debitis eos eligendi ratione a illo ipsam aspernatur quas odio dicta! Neque ullam reiciendis numquam architecto eius reprehenderit aperiam dicta voluptates laborum a fugit sit non omnis perferendis magni suscipit dolorum cumque obcaecati autem. Explicabo odit veritatis quae porro praesentium veniam delectus itaque expedita cumque minus necessitatibus quia assumenda illum! Vitae doloribus nemo esse alias autem debitis facilis quae pariatur voluptatum eaque perspiciatis animi accusantium cupiditate at molestias optio assumenda hic fuga. Consequatur vero cupiditate ea dolorum sit cum odio ipsam aliquam sed!</p>
-            <p>Explicabo odit veritatis quae porro praesentium veniam delectus itaque expedita cumque minus necessitatibus quia assumenda illum! Vitae doloribus nemo esse alias autem debitis facilis quae pariatur voluptatum eaque perspiciatis animi accusantium cupiditate at molestias optio assumenda hic fuga. Consequatur vero cupiditate ea dolorum sit cum odio ipsam aliquam sed!</p>
+            <p>There are many reasons why you might want to contact one of our employees directly. If you have questions or issues with one of our employees please use the contact page link below to report the issue. Additionally, you may want to request an employee by name to work on your installation. Keep in mind if you request this, the job may get delayed based on their schedule.</p>
+            <p>Please use the link below to request contact with one of our employees. We work very hard, so please allow our employees some time to reach out to you.</p>
           </div>
         </div>
         <!-- END row -->

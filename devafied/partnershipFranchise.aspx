@@ -33,7 +33,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="index.aspx" title="uiCookies:Stack">Stack</a>
+          <a class="navbar-brand" href="index.aspx" title="surge cable">surge cable</a>
         </div>
 
         <div id="navbar-collapse" class="navbar-collapse collapse">
@@ -58,13 +58,13 @@
     <section class="flexslider">
       <ul class="slides">
         
-        <li style="background-image: url(img/slider_1.jpg)" class="overlay">
+        <li style="background-image: url(assets/img/surgeheader3.jpg)" class="overlay">
           <div class="container">
             <div class="row">
               <div class="col-md-8 col-md-offset-2">
                 <div class="probootstrap-slider-text text-center">
-                  <h1 class="probootstrap-heading">Services</h1>
-                  <p class="probootstrap-subheading">Our specialty, we love to work with you</p>
+                  <h1 class="probootstrap-heading">Looking for a partner?</h1>
+                  <p class="probootstrap-subheading"></p>
                 </div>
               </div>
             </div>
@@ -78,60 +78,64 @@
 
     <section class="probootstrap-section proboostrap-clients probootstrap-bg-white">
       <div class="container">
-
+          <div class="row">
+          <div class="col-md-6 col-md-offset-3 text-center section-heading probootstrap-animate" data-animate-effect="fadeIn">
+            <h2>What we bring to the table</h2>
+          </div>
+        </div>
         <div class="row probootstrap-gutter60">
           <div class="col-md-4 probootstrap-animate" data-animate-effect="fadeIn">
             <div class="service hover_service text-center">
-              <div class="icon"><i class="icon-mobile3"></i></div>
+              <div class="icon"><i class="fas fa-user-tie"></i></div>
               <div class="text">
-                <h3>Lorem ipsum dolor</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto provident qui tempore natus quos quibusdam soluta at.</p>
+                <h3>Independence</h3>
+                <p>You get to be independent business owners and entrepreneurs</p>
               </div>  
             </div>
           </div>
           <div class="col-md-4 probootstrap-animate" data-animate-effect="fadeIn">
             <div class="service hover_service text-center">
-              <div class="icon"><i class="icon-presentation"></i></div>
+              <div class="icon"><i class="fas fa-chalkboard-teacher"></i></div>
               <div class="text">
-                <h3>Lorem ipsum dolor</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto provident qui tempore natus quos quibusdam soluta at.</p>
+                <h3>Autonamy</h3>
+                <p>You possess a great deal of autonomy as to how you want to lead your branch</p>
               </div>
             </div>
           </div>
           <div class="col-md-4 probootstrap-animate" data-animate-effect="fadeIn">
             <div class="service hover_service text-center">
-              <div class="icon"><i class="icon-circle-compass"></i></div>
+              <div class="icon"><i class="fas fa-hands-helping"></i></div>
               <div class="text">
-                <h3>Lorem ipsum dolor</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto provident qui tempore natus quos quibusdam soluta at.</p>
+                <h3>Foundation</h3>
+                <p>You do not have to start everything from scratch since we’ll be there to help you set up</p>
               </div>
             </div>
           </div>
 
           <div class="col-md-4 probootstrap-animate" data-animate-effect="fadeIn">
             <div class="service hover_service text-center">
-              <div class="icon"><i class="icon-lightbulb"></i></div>
+              <div class="icon"><i class="fas fa-users"></i></div>
               <div class="text">
-                <h3>Lorem ipsum dolor</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto provident qui tempore natus quos quibusdam soluta at.</p>
+                <h3>Workforce</h3>
+                <p>You’ll have some pre-existing workforce, so you don’t have to hire for all roles</p>
               </div>  
             </div>
           </div>
           <div class="col-md-4 probootstrap-animate" data-animate-effect="fadeIn">
             <div class="service hover_service text-center">
-              <div class="icon"><i class="icon-magnifying-glass2"></i></div>
+              <div class="icon"><i class="icomoon icon-thumbs-up"></i></div>
               <div class="text">
-                <h3>Lorem ipsum dolor</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto provident qui tempore natus quos quibusdam soluta at.</p>
+                <h3>Success</h3>
+                <p>We will help you create more accurate solutions and services, leading to a higher success rate</p>
               </div>
             </div>
           </div>
           <div class="col-md-4 probootstrap-animate" data-animate-effect="fadeIn">
             <div class="service hover_service text-center">
-              <div class="icon"><i class="icon-browser2"></i></div>
+              <div class="icon"><i class="fas fa-user-check"></i></div>
               <div class="text">
-                <h3>Lorem ipsum dolor</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto provident qui tempore natus quos quibusdam soluta at.</p>
+                <h3>Proficiency</h3>
+                <p>Above and beyond these, you’ll have a fair idea about customer requirements and challenges</p>
               </div>
             </div>
           </div>
@@ -155,7 +159,7 @@
 
                 <div class="probootstrap-testimony-wrap text-center">
                   <figure>
-                    <img src="assets/img/person_1.jpg" alt="Free Bootstrap Template by uicookies.com">
+                    <img src="assets/img/person_1.jpg">
                   </figure>
                   <blockquote class="quote">&ldquo;Design must be functional and functionality must be translated into visual aesthetics, without any reliance on gimmicks that have to be explained.&rdquo; <cite class="author">&mdash; Ferdinand A. Porsche <br> <span>Design Lead at AirBNB</span></cite></blockquote>
                 </div>
@@ -164,7 +168,7 @@
               <div class="item">
                 <div class="probootstrap-testimony-wrap text-center">
                   <figure>
-                    <img src="assets/img/person_2.jpg" alt="Free Bootstrap Template by uicookies.com">
+                    <img src="assets/img/person_2.jpg">
                   </figure>
                   <blockquote class="quote">&ldquo;Creativity is just connecting things. When you ask creative people how they did something, they feel a little guilty because they didn’t really do it, they just saw something. It seemed obvious to them after a while.&rdquo; <cite class="author">&mdash; Steve Jobs <br> <span>Co-Founder Square</span></cite></blockquote>
                 </div>
@@ -172,7 +176,7 @@
               <div class="item">
                 <div class="probootstrap-testimony-wrap text-center">
                   <figure>
-                    <img src="assets/img/person_3.jpg" alt="Free Bootstrap Template by uicookies.com">
+                    <img src="assets/img/person_3.jpg">
                   </figure>
                   <blockquote class="quote">&ldquo;I think design would be better if designers were much more skeptical about its applications. If you believe in the potency of your craft, where you choose to dole it out is not something to take lightly.&rdquo; <cite class="author">&mdash; Frank Chimero <br> <span>Creative Director at Twitter</span></cite></blockquote>
                 </div>

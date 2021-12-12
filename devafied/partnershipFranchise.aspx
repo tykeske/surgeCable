@@ -6,12 +6,13 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Surge Cable INC. | Partner with Surge Cable INC.</title>
-    <meta name="description" content="Devafied Development & IT Services">
+    <meta name="description" content="Surge Cable INC. Partnership and Franchise">
     <meta name="keywords" content="free website templates, free bootstrap themes, free template, free bootstrap, free website template, partner with surge cable">
     
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:400,500,700">
     <link rel="stylesheet" href="assets/css/styles-merged.css">
     <link rel="stylesheet" href="assets/css/style.min.css">
+            <script src="https://kit.fontawesome.com/0593c0994a.js" crossorigin="anonymous"></script>
 
     <!--[if lt IE 9]>
       <script src="js/vendor/html5shiv.min.js"></script>
@@ -23,7 +24,7 @@
     <!-- Fixed navbar -->
     
     
-    <nav class="navbar navbar-default navbar-fixed-top probootstrap-navbar">
+    <nav class="navbar navbar-default navbar-fixed-top probootstrap-navbar scrolled">
       <div class="container">
         <div class="navbar-header">
           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse" aria-expanded="false" aria-controls="navbar">
@@ -45,6 +46,7 @@
                 <li><a href="findAJob.aspx">Find a Job</a></li>
                 <li><a href="findAnEmployee.aspx">Find an Employee</a></li>
                 <li class="active"><a href="partnershipFranchise.aspx">Partnership</a></li>
+                <li><a href="news.aspx">News</a></li>
               </ul>
             </li>
             <li><a href="contact.aspx">Contact</a></li>
@@ -195,7 +197,7 @@
       </div>
     </section>
     
-        <footer class="probootstrap-footer">
+    <footer class="probootstrap-footer">
       <div class="container">
         <div class="row">
           <div class="col-md-6">
@@ -205,7 +207,7 @@
               <ul class="probootstrap-footer-social">
                 <li><a href="#"><i class="icon-twitter"></i></a></li>
                 <li><a href="#"><i class="icon-facebook"></i></a></li>
-                <li><a href="#"><i class="icon-github"></i></a></li>
+                <li><a href="#"><i class="icon-instagram"></i></a></li>
                 <li><a href="#"><i class="icon-linkedin"></i></a></li>
               </ul>
             </div>
@@ -239,7 +241,7 @@
                   <h3>Links</h3>
                   <ul>
                     <li><a href="#">Knowledge Base</a></li>
-                    <li><a href="#">Careers</a></li>
+                    <li><a href="jobContact.aspx">Careers</a></li>
                     <li><a href="#">Terms of services</a></li>
                     <li><a href="#">Privacy Policy</a></li>
                   </ul>

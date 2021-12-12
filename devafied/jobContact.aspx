@@ -11,6 +11,7 @@
     <link href="https://fonts.googleapis.com/css?family=Poppins:400,500,700" rel="stylesheet">
     <link href="assets/css/styles-merged.css" rel="stylesheet">
     <link href="assets/css/style.min.css" rel="stylesheet">
+            <script src="https://kit.fontawesome.com/0593c0994a.js" crossorigin="anonymous"></script>
 
     <!--[if lt IE 9]>
       <script src="js/vendor/html5shiv.min.js"></script>
@@ -22,7 +23,7 @@
     <!-- Fixed navbar -->
     
     
-    <nav class="navbar navbar-default navbar-fixed-top probootstrap-navbar">
+    <nav class="navbar navbar-default navbar-fixed-top probootstrap-navbar scrolled">
       <div class="container">
         <div class="navbar-header">
           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse" aria-expanded="false" aria-controls="navbar">
@@ -44,6 +45,7 @@
                 <li><a href="findAJob.aspx">Find a Job</a></li>
                 <li><a href="findAnEmployee.aspx">Find an Employee</a></li>
                 <li><a href="partnershipFranchise.aspx">Partnership</a></li>
+                <li><a href="news.aspx">News</a></li>
               </ul>
             </li>
             <li><a href="contact.aspx">Contact</a></li>

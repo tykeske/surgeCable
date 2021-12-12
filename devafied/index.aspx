@@ -24,7 +24,7 @@
     
     <!-- Fixed navbar -->
     
-    <nav class="navbar navbar-default navbar-fixed-top probootstrap-navbar">
+    <nav class="navbar navbar-default navbar-fixed-top probootstrap-navbar scrolled">
       <div class="container">
         <div class="navbar-header">
           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse" aria-expanded="false" aria-controls="navbar">
@@ -46,6 +46,7 @@
                 <li><a href="findAJob.aspx">Find a Job</a></li>
                 <li><a href="findAnEmployee.aspx">Find an Employee</a></li>
                 <li><a href="partnershipFranchise.aspx">Partnership</a></li>
+                <li><a href="news.aspx">News</a></li>
               </ul>
             </li>
             <li><a href="contact.aspx">Contact</a></li>
@@ -215,11 +216,12 @@
         <div class="row">
           <div class="col-md-6">
             <div class="probootstrap-footer-widget">
-                <img src="assets/img/bottomlogo1.png" />
+              <img src="assets/img/bottomlogo1.png" />
               <p>Contact info contact info contact info</p>
               <ul class="probootstrap-footer-social">
                 <li><a href="#"><i class="icon-twitter"></i></a></li>
                 <li><a href="#"><i class="icon-facebook"></i></a></li>
+                <li><a href="#"><i class="icon-instagram"></i></a></li>
                 <li><a href="#"><i class="icon-linkedin"></i></a></li>
               </ul>
             </div>
@@ -252,8 +254,8 @@
                 <div class="probootstrap-footer-widget">
                   <h3>Links</h3>
                   <ul>
-                    <li><a href="#">Our Areas</a></li>
-                    <li><a href="findAJob.aspx">Careers</a></li>
+                    <li><a href="#">Knowledge Base</a></li>
+                    <li><a href="jobContact.aspx">Careers</a></li>
                     <li><a href="#">Terms of services</a></li>
                     <li><a href="#">Privacy Policy</a></li>
                   </ul>

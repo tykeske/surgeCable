@@ -2,7 +2,7 @@
 
 <!DOCTYPE html>
 <html lang="en">
-  <head>
+  <head runat="server">
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Surge Cable INC. | Contact Surge Cable INC.</title>
@@ -57,13 +57,13 @@
     <section class="flexslider">
       <ul class="slides">
         
-        <li style="background-image: url(img/slider_3.jpg)" class="overlay">
+        <li style="background-image: url(assets/img/surgeheader1.jpg)" class="overlay">
           <div class="container">
             <div class="row">
               <div class="col-md-8 col-md-offset-2">
                 <div class="probootstrap-slider-text text-center">
                   <h1 class="probootstrap-heading">Get In Touch</h1>
-                  <p class="probootstrap-subheading">Let's have a chat</p>
+                  <p class="probootstrap-subheading"></p>
                 </div>
               </div>
             </div>
@@ -76,26 +76,26 @@
       <div class="container">
         <div class="row">
           <div class="col-md-5 probootstrap-animate" data-animate-effect="fadeIn">
-            <h2>Drop us a line</h2>
-            <form action="#" method="post" class="probootstrap-form">
+            <h2>Send an Inquiry</h2>
+            <form action="#" method="post" class="probootstrap-form" id="form1" runat="server">
               <div class="form-group">
                 <label for="name">Full Name</label>
-                <input type="text" class="form-control" id="name" name="name">
+                <asp:TextBox type="name" ID="firstNameTextBox" class="form-control" required="required" runat="server"></asp:TextBox>
               </div>
               <div class="form-group">
                 <label for="email">Email</label>
-                <input type="email" class="form-control" id="email" name="email">
+                <asp:TextBox type="email" ID="emailTextBox" class="form-control" required="required" runat="server"></asp:TextBox>            
               </div>
               <div class="form-group">
                 <label for="subject">Subject</label>
-                <input type="text" class="form-control" id="subject" name="subject">
+                <asp:TextBox type="name" ID="subjectTextBox" class="form-control" required="required" runat="server"></asp:TextBox>
               </div>
               <div class="form-group">
                 <label for="message">Message</label>
-                <textarea cols="30" rows="10" class="form-control" id="message" name="message"></textarea>
+                <textarea cols="30" rows="10" class="form-control" id="message" name="message" runat="server"></textarea>
               </div>
               <div class="form-group">
-                <input type="submit" class="btn btn-primary btn-lg" id="submit" name="submit" value="Submit Form">
+                <asp:Button type="submit" class="btn btn-primary btn-lg" ID="submitButton" value="Submit Here" runat="server" Text="Submit Here" OnClick="submitButton_Click"></asp:Button>
               </div>
             </form>
           </div>

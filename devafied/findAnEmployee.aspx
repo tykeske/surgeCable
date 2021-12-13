@@ -6,7 +6,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Surge Cable INC. | Find a Surge Cable INC. Employee</title>
-    <meta name="description" content="Devafied Service Technologies">
+    <meta name="description" content="Find a Surge Cable INC. Employee">
     <meta name="keywords" content="cable install, cabling jobs, xfinity jobs, installation job, networking in oregon, cable service company, find surge cable employee">
     
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:400,500,700">

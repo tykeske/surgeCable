@@ -144,10 +144,10 @@
       </div>
     </section>
 
-    <section class="probootstrap-section probootstrap-bg-white" style="padding-bottom:0; padding-top:0;">
-      <div class="container">
+<section class="probootstrap-section">
+<div class="container">
         <div class="row">
-          <div class="col-md-6 col-md-offset-3 text-center section-heading">
+          <div class="col-md-6 col-md-offset-3 text-center section-heading probootstrap-animate">
             <h2>Feedbacks</h2>
           </div>
         </div>
@@ -161,7 +161,7 @@
                   <figure>
                     <img src="assets/img/person_1.jpg">
                   </figure>
-                  <blockquote class="quote">&ldquo;Design must be functional and functionality must be translated into visual aesthetics, without any reliance on gimmicks that have to be explained.&rdquo; <cite class="author">&mdash; Ferdinand A. Porsche <br> <span>Design Lead at AirBNB</span></cite></blockquote>
+                  <blockquote class="quote">&ldquo;Great communication between worker and management.&rdquo; <cite class="author">&mdash; Ruvim <br> <span>Employee</span></cite></blockquote>
                 </div>
 
               </div>
@@ -170,7 +170,7 @@
                   <figure>
                     <img src="assets/img/person_2.jpg">
                   </figure>
-                  <blockquote class="quote">&ldquo;Creativity is just connecting things. When you ask creative people how they did something, they feel a little guilty because they didn’t really do it, they just saw something. It seemed obvious to them after a while.&rdquo; <cite class="author">&mdash; Steve Jobs <br> <span>Co-Founder Square</span></cite></blockquote>
+                  <blockquote class="quote">&ldquo;A lot of opportunity to learn and to increase earnings, everyone is very helpful.&rdquo; <cite class="author">&mdash; Ivan <br> <span>Employee</span></cite></blockquote>
                 </div>
               </div>
               <div class="item">
@@ -178,7 +178,7 @@
                   <figure>
                     <img src="assets/img/person_3.jpg">
                   </figure>
-                  <blockquote class="quote">&ldquo;I think design would be better if designers were much more skeptical about its applications. If you believe in the potency of your craft, where you choose to dole it out is not something to take lightly.&rdquo; <cite class="author">&mdash; Frank Chimero <br> <span>Creative Director at Twitter</span></cite></blockquote>
+                  <blockquote class="quote">&ldquo;Good pay. Weekly pay is really nice.&rdquo; <cite class="author">&mdash; Korbin <br> <span>Employee</span></cite></blockquote>
                 </div>
               </div>
               

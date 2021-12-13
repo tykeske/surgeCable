@@ -231,8 +231,8 @@
             <h2>About Us</h2>
           </div>
           <div class="col-md-12" style="color:#808080; text-align:center;">
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum est incidunt dolorem earum doloremque quasi mollitia magnam debitis eos eligendi ratione a illo ipsam aspernatur quas odio dicta! Neque ullam reiciendis numquam architecto eius reprehenderit aperiam dicta voluptates laborum a fugit sit non omnis perferendis magni suscipit dolorum cumque obcaecati autem. Explicabo odit veritatis quae porro praesentium veniam delectus itaque expedita cumque minus necessitatibus quia assumenda illum! Vitae doloribus nemo esse alias autem debitis facilis quae pariatur voluptatum eaque perspiciatis animi accusantium cupiditate at molestias optio assumenda hic fuga. Consequatur vero cupiditate ea dolorum sit cum odio ipsam aliquam sed!</p>
-            <p>Explicabo odit veritatis quae porro praesentium veniam delectus itaque expedita cumque minus necessitatibus quia assumenda illum! Vitae doloribus nemo esse alias autem debitis facilis quae pariatur voluptatum eaque perspiciatis animi accusantium cupiditate at molestias optio assumenda hic fuga. Consequatur vero cupiditate ea dolorum sit cum odio ipsam aliquam sed!</p>
+            <p>As a young and ambitious telecommunication service company, we strive for growth while providing the best services for our partners. Surge Cable INC. began in Oregon, and one of our key values is expanding and branching out our services across the states.</p>
+            <p>While expanding our services, we aim to provide the best services possible for our partners. Quantity and quality are always a possibility with us, and it’s what we continually strive to provide with our services. We are always looking forward to new partnerships and our development.</p>
           </div>
           </div>
       </div>

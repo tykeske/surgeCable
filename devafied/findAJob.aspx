@@ -316,7 +316,7 @@
         <div class="row">
           <div class="col-md-6">
             <div class="probootstrap-footer-widget">
-              <img src="assets/img/bottomlogo1.png" />
+              <img src="assets/img/betterBotLogosss.png" />
               <p>info@surgecable.com</p>
               <ul class="probootstrap-footer-social">
                 <li><a href="#"><i class="icon-twitter"></i></a></li>

@@ -45,7 +45,7 @@
                 <li><a href="about.aspx">About Us</a></li>
                 <li><a href="findAJob.aspx">Find a Job</a></li>
                 <li><a href="findAnEmployee.aspx">Find an Employee</a></li>
-                <li><a href="partnershipAndFranchise.aspx">Partnership and Franchise</a></li>
+                <li><a href="partnershipFranchise.aspx">Partnership and Franchise</a></li>
                 <li class="active"><a href="News.aspx">News</a></li>
                
               </ul>

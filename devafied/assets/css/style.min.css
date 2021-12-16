@@ -310,7 +310,7 @@ a {
 .probootstrap-navbar .navbar-brand {
     font-size: 30px;
     text-transform: uppercase;
-    background: url(../img/newTopLogos.png) left center no-repeat;
+    background: url('../img/Artboard 1.png') left center no-repeat;
     top: 8px;
     position: relative;
     width: 165px;
@@ -324,7 +324,7 @@ a {
         position: relative;
         width: 165px;
         height: 46px;
-        background: url(../img/newTopLogos.png) left center no-repeat;
+        background: url('../img/Artboard 1.png') left center no-repeat;
         background-size: cover
     }
 }

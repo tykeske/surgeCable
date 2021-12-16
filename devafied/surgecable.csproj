@@ -88,6 +88,7 @@
     <Content Include="assets\fonts\icomoon demo\Read Me.txt" />
     <Content Include="assets\fonts\icomoon demo\style.css" />
     <Content Include="assets\fonts\icomoon\icomoon.svg" />
+    <Content Include="assets\img\Artboard 1.png" />
     <Content Include="assets\img\betterBotLogo %281%29.png" />
     <Content Include="assets\img\betterBotLogos.png" />
     <Content Include="assets\img\betterBotLogoss.png" />
@@ -113,6 +114,7 @@
     <Content Include="assets\img\logotest2.png" />
     <Content Include="assets\img\logotest2_155x46-removebg-preview.png" />
     <Content Include="assets\img\logotest2_155x46.png" />
+    <Content Include="assets\img\logoTesting.jpg" />
     <Content Include="assets\img\mediaCom.png" />
     <Content Include="assets\img\modal_bg.jpg" />
     <Content Include="assets\img\newlogo-removebg-preview.png" />

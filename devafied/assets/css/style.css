@@ -83,9 +83,9 @@ p, ul, ol {
 }
 
 a {
-  -webkit-transition: .3s all;
-  transition: .3s all;
-  color: #66FCF1;
+    -webkit-transition: .3s all;
+    transition: .3s all;
+    color: #94D3FF;
 }
 
 a:hover, a:focus, a:active {
@@ -250,7 +250,7 @@ a:hover, a:focus, a:active {
 }
 
 .probootstrap-navbar .dropdown.open > a, .probootstrap-navbar .dropdown:hover > a, .probootstrap-navbar .dropdown:focus > a, .probootstrap-navbar .dropdown:active > a {
-  border-top: 2px solid #66FCF1;
+  border-top: 2px solid #94D3FF;
   -webkit-transition: .3s all;
   transition: .3s all;
 }
@@ -288,7 +288,7 @@ a:hover, a:focus, a:active {
 }
 
 .probootstrap-navbar .dropdown > .dropdown-menu > li.dropdown-submenu.open > a:before, .probootstrap-navbar .dropdown > .dropdown-menu > li.dropdown-submenu:hover > a:before, .probootstrap-navbar .dropdown > .dropdown-menu > li.dropdown-submenu:focus > a:before, .probootstrap-navbar .dropdown > .dropdown-menu > li.dropdown-submenu:active > a:before {
-  color: #000000;
+  color: white;
 }
 
 .probootstrap-navbar .navbar-right .dropdown-menu {
@@ -374,7 +374,7 @@ a:hover, a:focus, a:active {
 }
 
 .probootstrap-navbar .navbar-nav > li > a:hover, .probootstrap-navbar .navbar-nav > li > a:focus, .probootstrap-navbar .navbar-nav > li > a:active {
-    border-top: 2px solid #66FCF1;
+    border-top: 2px solid #94D3FF;
 }
 
 @media screen and (max-width: 480px) {
@@ -395,7 +395,7 @@ a:hover, a:focus, a:active {
     border-radius: 4px;
     padding: 10px 20px;
     margin-top: 30px;
-    background: #66FCF1;
+    background: ##94D3FF;
     color: #C5C6C7;
 }
 
@@ -615,7 +615,7 @@ a:hover, a:focus, a:active {
 }
 
 .probootstrap-hero.probootstrap-hero-colored {
-    background: #66FCF1;
+    background: #94D3FF;
 }
 
 .probootstrap-hero.probootstrap-hero-colored h1 {
@@ -757,11 +757,11 @@ a:hover, a:focus, a:active {
         box-shadow: 0px 0px 40px 0px rgba(0, 0, 0, 0.08);
     }
 
-    .probootstrap-showcase-nav ul li.active > a {
-        color: #66FCF1;
-        padding-left: 0px;
-        display: block;
-    }
+        .probootstrap-showcase-nav ul li.active > a {
+            color: #94D3FF;
+            padding-left: 0px;
+            display: block;
+        }
 
 .probootstrap-showcase-nav ul li.active p {
   display: block;
@@ -1958,7 +1958,7 @@ a:hover, a:focus, a:active {
   padding-left: 30px;
 }
 
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 0px) {
   .probootstrap-gutter60 > div[class*='col-'] {
     padding-right: 15px;
     padding-left: 15px;
@@ -1970,43 +1970,43 @@ a:hover, a:focus, a:active {
 }
 
 .mb10 {
-  margin-bottom: 10px;
+  margin-bottom: 0px;
 }
 
 .mb20 {
-  margin-bottom: 20px;
+  margin-bottom: 0px;
 }
 
 .mb30 {
-  margin-bottom: 30px;
+  margin-bottom: 0px;
 }
 
 .mb40 {
-  margin-bottom: 40px;
+  margin-bottom: 0px;
 }
 
 .mb50 {
-  margin-bottom: 50px;
+  margin-bottom: 0px;
 }
 
 .mb60 {
-  margin-bottom: 60px;
+  margin-bottom: 0px;
 }
 
 .mb70 {
-  margin-bottom: 70px;
+  margin-bottom: 0px;
 }
 
 .mb80 {
-  margin-bottom: 80px;
+  margin-bottom: 0px;
 }
 
 .mb90 {
-  margin-bottom: 90px;
+  margin-bottom: 0px;
 }
 
 .mb100 {
-  margin-bottom: 100px;
+  margin-bottom: 0px;
 }
 
 .mt0 {
@@ -2014,43 +2014,43 @@ a:hover, a:focus, a:active {
 }
 
 .mt10 {
-  margin-top: 10px;
+  margin-top: 0px;
 }
 
 .mt20 {
-  margin-top: 20px;
+  margin-top: 0px;
 }
 
 .mt30 {
-  margin-top: 30px;
+  margin-top: 0px;
 }
 
 .mt40 {
-  margin-top: 40px;
+  margin-top: 0px;
 }
 
 .mt50 {
-  margin-top: 50px;
+  margin-top: 0px;
 }
 
 .mt60 {
-  margin-top: 60px;
+  margin-top: 0px;
 }
 
 .mt70 {
-  margin-top: 70px;
+  margin-top: 0px;
 }
 
 .mt80 {
-  margin-top: 80px;
+  margin-top: 0px;
 }
 
 .mt90 {
-  margin-top: 90px;
+  margin-top: 0px;
 }
 
 .mt100 {
-  margin-top: 100px;
+  margin-top: 0px;
 }
 
 .pb0 {

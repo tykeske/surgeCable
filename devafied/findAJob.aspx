@@ -1,19 +1,19 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="findAJob.aspx.cs" Inherits="surgeCable.portfolio" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="findAJob.aspx.cs" Inherits="surgecable.portfolio" %>
 
 <!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Surge Cable INC |Find a Job</title>
-    <meta name="description" content="Surge Cable">
-    <meta name="keywords" content="Surge Cable">
+    <title>Surge Cable INC. | Work for Surge Cable INC.</title>
+    <meta name="description" content="Surge Cable Careers">
+    <meta name="keywords" content="cable install, cabling jobs, xfinity jobs, installation job, networking in oregon, cable service company, surge cable jobs, surge cable positions">
     
-       <script src="https://kit.fontawesome.com/0593c0994a.js" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:400,500,700">
     <link rel="stylesheet" href="assets/css/styles-merged.css">
     <link rel="stylesheet" href="assets/css/style.min.css">
-    
+      <script src="https://kit.fontawesome.com/0593c0994a.js" crossorigin="anonymous"></script>
+
     <!--[if lt IE 9]>
       <script src="js/vendor/html5shiv.min.js"></script>
       <script src="js/vendor/respond.min.js"></script>
@@ -24,7 +24,7 @@
     <!-- Fixed navbar -->
     
     
-    <nav class="navbar navbar-default navbar-fixed-top probootstrap-navbar scrolled" id="navbar">
+    <nav class="navbar navbar-default navbar-fixed-top probootstrap-navbar scrolled">
       <div class="container">
         <div class="navbar-header">
           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse" aria-expanded="false" aria-controls="navbar">
@@ -45,8 +45,8 @@
                 <li><a href="about.aspx">About Us</a></li>
                 <li class="active"><a href="findAJob.aspx">Find a Job</a></li>
                 <li><a href="findAnEmployee.aspx">Find an Employee</a></li>
-                <li><a href="partnershipAndFranchise.aspx">Partnership and Franchise</a></li>
-                <li><a href="News.aspx">News</a></li>
+                <li><a href="partnershipFranchise.aspx">Partnership</a></li>
+                <li><a href="news.aspx">News</a></li>
               </ul>
             </li>
             <li><a href="contact.aspx">Contact</a></li>
@@ -58,12 +58,12 @@
     <section class="flexslider">
       <ul class="slides">
         
-        <li style="background-image: url(assets/img/tele.jpeg)" class="overlay">
+        <li style="background-image: url(assets/img/surgeheader3.jpg)" class="overlay">
           <div class="container">
             <div class="row">
               <div class="col-md-8 col-md-offset-2">
                 <div class="probootstrap-slider-text text-center">
-                  <h1 class="probootstrap-heading">Find a Job</h1>
+                  <h1 class="probootstrap-heading">Start a Career</h1>
                   <p class="probootstrap-subheading"></p>
                 </div>
               </div>
@@ -72,49 +72,47 @@
         </li>
       </ul>
     </section>
-       <section class="probootstrap-section proboostrap-clients ">
+
+
+       <section class="probootstrap-section proboostrap-clients" style="padding-top:0px; padding-bottom:0px; background-color:#fff;">
       <div class="container">
 
-        <div class="row probootstrap-gutter60">
+        <div class="row probootstrap-gutter60" style="height:10px;">
             <div class="row">
-          <div class="col-md-6 col-md-offset-3 text-center section-heading">
+          <div class="col-md-6 col-md-offset-3 text-center section-heading" >
             <h2>Our Services</h2>
           </div>
         </div>
           <div class="col-md-4 probootstrap-animate" data-animate-effect="fadeIn">
             <div class="service  text-center">
-              <div class="icon"><i class="fas fa-dollar-sign"></i></div>
+              <div class="icon"><i class="fas fa-money-bill-wave"></i></div>
               <div class="text">
-                <h3>Competitive Salary</h3>
+                <h3 style="color:#0066BF;">Competitive Salary</h3>
                 <p></p>
               </div>  
             </div>
           </div>
           <div class="col-md-4 probootstrap-animate" data-animate-effect="fadeIn">
             <div class="service  text-center">
-              <div class="icon"><i class="icon-presentation"></i></div>
+              <div class="icon"><i class="fas fa-chart-line"></i></div>
               <div class="text">
-                <h3>Stable work & projects</h3>
+                <h3 style="color:#0066BF;">Stable work & projects</h3>
                 <p></p>
               </div>
             </div>
           </div>
           <div class="col-md-4 probootstrap-animate" data-animate-effect="fadeIn">
             <div class="service  text-center">
-              <div class="icon"><i class="icomoon icon-calendar"></i></div>
+              <div class="icon"><i class="fas fa-calendar-alt"></i></div>
               <div class="text">
-                <h3>Flexible work schedules</h3>
+                <h3 style="color:#0066BF;">Flexible work schedules</h3>
                 <p></p>
               </div>
             </div>
           </div>
             <div class="container">
 
-        <div class="row">
-          <div class="col-md-6 col-md-offset-3 text-center section-heading probootstrap-animate">
-            <p class="lead">We have a wide variety of services such as residential installation, home security and automation, underground and aerial constructions, multi-dwelling unit constructions, and other special services.</p>
-              </div>
-        </div>
+        
         <!-- END row -->
       </div>
         </div>
@@ -126,18 +124,18 @@
       
                 <div class="container">
         <div class="row">
-          <div class="col-md-6">
+          <div class="col-md-6";>
             <div class="service left-icon probootstrap-animate" data-animate-effect="fadeInLeft">
               <div class="icon"><i class="fas fa-hard-hat"></i></div>
               <div class="text">
-                <h3>Residential Installation</h3>
+                <h3 style="color:#0066BF;">Residential Installation</h3>
                 <p>These include installation of high-speed internet modems, setting up wifi networks, and even servicing them. Our technicians and engineers are quick to respond and assist you with any problems regarding your home network.</p>
               </div>  
             </div>
             <div class="service left-icon probootstrap-animate" data-animate-effect="fadeInLeft">
               <div class="icon"><i class="fas fa-lock"></i></div>
               <div class="text">
-                <h3>Home Security And Automation</h3>
+                <h3 style="color:#0066BF;">Home Security And Automation</h3>
                 <p>We also provide automated security systems for your homes to keep them safe from intruders. These robust systems come with numerous features that are simple to understand and use on a daily basis.</p>
               </div>
             </div>
@@ -147,15 +145,15 @@
             <div class="service left-icon probootstrap-animate" data-animate-effect="fadeInLeft">
               <div class="icon"><i class="fas fa-home"></i></div>
               <div class="text">
-                <h3>Multi-Dwelling Unit Constructions</h3>
-                <p>Planning and constructing networks for apartments and colonies is yet another area that we cater to. As in the previous cases, we work with partners and vendors to provide quality services. Besides constructing them, we also service the colonies with the help of our technicians and engineers.</p>
+                <h3 style="color:#0066BF;">Multi-Dwelling Unit Constructions</h3>
+                <p>Planning and constructing networks for apartments and colonies is yet another area that we cater to. As in the previous cases, we work with partners and vendors to provide quality services. We also service the colonies with the help of our technicians and engineers.</p>
               </div>  
             </div>
             
             <div class="service left-icon probootstrap-animate" data-animate-effect="fadeInLeft">
               <div class="icon"><i class="fas fa-tools"></i></div>
               <div class="text">
-                <h3>Underground And Aerial Constructions</h3>
+                <h3 style="color:#0066BF;">Underground And Aerial Constructions</h3>
                 <p>We work with our partners and specialize in constructing underground and aerial networks of fiber optic and 5G services. These include end-to-end planning and execution of outside plant designs.</p>
               </div>           
          </div>
@@ -163,8 +161,7 @@
         </div>
         <!-- END row -->
       </div>
-                     <div class="container">
-
+     <div class="container">
         <div class="row">
           <div class="col-md-6 col-md-offset-3 text-center section-heading probootstrap-animate">
             <p class="lead">Above and beyond these, we provide services such as digital migration of projects, digital conversions, hurricane relief, and others.</p>
@@ -173,24 +170,75 @@
         </div>
         <!-- END row -->
       </div>
-   
       </section>
-    <section class="probootstrap-section proboostrap-clients probootstrap-bg-white probootstrap-zindex-above-showcase">
-      <div class="container">
+<section>
+      <div class="container" style="padding-top:30px;padding-bottom:20px;">
+  <div class="col_fourth text-center">
+    <div class="at-work-process position-relative overflow-hidden text-center">
+      <div class="at-work-process-text">
+        <span class="at-work-process-number">01</span>
+        <span class="at-work-process-number-text" style="font-family:system-ui;color:#fff;">1st Step</span>
+        <div class="at-separator-thick"></div>
+      </div>
+      <div class="at-work-process-details">
+        <i class="fas fa-inbox" style="margin-top:0px;margin-bottom:10px;color:#0066BF;"></i><span style="color:#fff; font-size:12px;">You leave a request</span>
+      </div>
+    </div>
+  </div>
+  <div class="col_fourth text-center">
+    <div class="at-work-process position-relative overflow-hidden">
+      <div class="at-work-process-text">
+        <span class="at-work-process-number">02</span>
+        <span class="at-work-process-number-text"style="font-family:system-ui;color:#fff;">2nd step</span>
+        <div class="at-separator-thick"></div>
+      </div>
+      <div class="at-work-process-details">
+        <i class="fas fa-tasks"style="margin-top:0px;margin-bottom:10px;color:#0066BF;"></i><span style="color:#fff; font-size:12px;">Our manager will contact you and clarify all your wishes</span>
+      </div>
+    </div>
+  </div>
+  <div class="col_fourth text-center">
+    <div class="at-work-process position-relative overflow-hidden">
+      <div class="at-work-process-text">
+        <span class="at-work-process-number">03</span>
+        <span class="at-work-process-number-text"style="font-family:system-ui;color:#fff;">3rd step</span>
+        <div class="at-separator-thick"></div>
+      </div>
+      <div class="at-work-process-details">
+        <i class="fas fa-info"style="margin-top:0px;margin-bottom:10px;color:#0066BF;"></i><span style="color:#fff; font-size:12px;">We will conduct an interview and select the best job for you</span>
+      </div>
+    </div>
+  </div>
+  <div class="col_fourth text-center end">
+    <div class="at-work-process position-relative overflow-hidden">
+      <div class="at-work-process-text">
+        <span class="at-work-process-number">04</span>
+        <span class="at-work-process-number-text"style="font-family:system-ui;color:#fff;">4th step</span>
+        <div class="at-separator-thick"></div>
+      </div>
+      <div class="at-work-process-details">
+        <i class="fas fa-screwdriver"style="margin-top:0px;margin-bottom:10px;color:#0066BF;"></i><span style="color:#fff; font-size:12px;">We will contact you with an offical job offer</span>
+      </div>
+    </div>
+  </div>
+</div>   
+</section>
 
+    <section class="probootstrap-section probootstrap-border-top probootstrap-bg-white">
+      <div class="container">
         <div class="row">
-          <div class="col-md-6 col-md-offset-3 text-center section-heading probootstrap-animate">
+          <div class="col-md-6 col-md-offset-3 text-center section-heading">
             <h2>About Us</h2>
-            <p class="lead">As a growing telecommunication service company, we are always on the look for outreach mediums. One such medium is expanding our service company as a franchise in other places. Currently, we are based in the state of Illinois and would like to have branches in other states as well.</p>
-              <p class="lead">This brings an entrepreneurship opportunity for anyone and everyone passionate about telecommunications and networks. An opportunity that enables you to have your own business under our franchise, and it also helps us expand as a company and build new customer bases.</p>
-              <p class="lead">As owners of the branches, you’ll manage and run all operations as we help you with the resources and support you as franchise owners. Besides these, we’d also help you with the direction of the company and plans of expansion.</p>
           </div>
-        </div>
-        <!-- END row -->
+          <div class="col-md-12" style="color:#808080; text-align:center;">
+            <p>As a young and ambitious telecommunication service company, we strive for growth while providing the best services for our partners. Surge Cable INC. began in Oregon, and one of our key values is expanding and branching out our services across the states.</p>
+            <p>While expanding our services, we aim to provide the best services possible for our partners. Quantity and quality are always a possibility with us, and it’s what we continually strive to provide with our services. We are always looking forward to new partnerships and our development.</p>
+          </div>
+          </div>
       </div>
     </section>
-      
-      <section class="probootstrap-section probootstrap-bg-white">
+    
+<section class="probootstrap-section probootstrap-bg-white"style="background-color:#94D3FF;">
       <div class="container">
         <div class="row">
           <div class="col-md-6 col-md-offset-3 text-center section-heading">
@@ -246,190 +294,18 @@
             </div>
           </div>
         </div>
-        <!-- END row -->
       </div>
     </section>
-       <section class="probootstrap-section">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-6 col-md-offset-3 text-center section-heading probootstrap-animate">
-            <h2>Team</h2>
-          </div>
-        </div>
-        <!-- END row -->
-        <div class="row">
-          <div class="col-md-3 col-sm-6 col-xs-6 probootstrap-animate">
-            <a href="#" class="probootstrap-team">
-              <img src="assets/img/person_1.jpg" alt="Free Bootstrap Template by uicookies.com" class="img-responsive img-rounded">
-              <img src="assets/img/person_1.jpg" alt="Free Bootstrap Template by uicookies.com" class="img-responsive img-rounded">
-              <div class="probootstrap-team-info">
-                <h3>Mike Hawk <span class="position">Co-Founder / Tech</span></h3>
-              </div>
-            </a>
-          </div>
-          <div class="col-md-3 col-sm-6 col-xs-6 probootstrap-animate">
-            <a href="#" class="probootstrap-team">
-              <img src="assets/img/person_2.jpg" alt="Free Bootstrap Template by uicookies.com" class="img-responsive img-rounded">
-              <div class="probootstrap-team-info">
-                <h3>Lil Baby <span class="position">Co-Founder / Creative</span></h3>
-              </div>
-            </a>
-          </div>
-          
-          <div class="clearfix visible-sm-block visible-xs-block"></div>
 
-          <div class="col-md-3 col-sm-6 col-xs-6 probootstrap-animate">
-            <a href="#" class="probootstrap-team">
-              <img src="assets/img/person_3.jpg" alt="Free Bootstrap Template by uicookies.com" class="img-responsive img-rounded">
-              <div class="probootstrap-team-info">
-                <h3>Will Smith <span class="position">Developer</span></h3>
-              </div>
-            </a>
-          </div>
-          <div class="col-md-3 col-sm-6 col-xs-6 probootstrap-animate">
-            <a href="#" class="probootstrap-team">
-              <img src="assets/img/person_4.jpg" alt="Free Bootstrap Template by uicookies.com" class="img-responsive img-rounded">
-              <div class="probootstrap-team-info">
-                <h3>Don Joe <span class="position">Designer</span></h3>
-                
-              </div>
-            </a>
-          </div>
 
-          <div class="clearfix visible-sm-block visible-xs-block"></div>
 
-          <div class="col-md-3 col-sm-6 col-xs-6 probootstrap-animate">
-            <a href="#" class="probootstrap-team">
-              <img src="assets/img/person_2.jpg" alt="Free Bootstrap Template by uicookies.com" class="img-responsive img-rounded">
-              <div class="probootstrap-team-info">
-                <h3>Kid Cudi <span class="position">Co-Founder / Creative</span></h3>
-              </div>
-            </a>
-          </div>
-          <div class="col-md-3 col-sm-6 col-xs-6 probootstrap-animate">
-            <a href="#" class="probootstrap-team">
-              <img src="assets/img/person_1.jpg" alt="Free Bootstrap Template by uicookies.com" class="img-responsive img-rounded">
-              <div class="probootstrap-team-info">
-                <h3>Da Baby <span class="position">Co-Founder / Tech</span></h3>
-              </div>
-            </a>
-          </div>
-          
-          <div class="clearfix visible-sm-block visible-xs-block"></div>
 
-          <div class="col-md-3 col-sm-6 col-xs-6 probootstrap-animate">
-            <a href="#" class="probootstrap-team">
-              <img src="assets/img/person_4.jpg" alt="Free Bootstrap Template by uicookies.com" class="img-responsive img-rounded">
-              <div class="probootstrap-team-info">
-                <h3>Don Donnie <span class="position">Designer</span></h3>
-                
-              </div>
-            </a>
-          </div>
-        </div>
-      </div>
-    </section>
-      <section class="probootstrap-section probootstrap-bg-white">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-6 col-md-offset-3 text-center section-heading">
-            <h2>Testimonials</h2>
-          </div>
-        </div>
-        <!-- END row -->
-        <div class="row">
-          <div class="col-md-12">
-            <div class="owl-carousel owl-carousel-fullwidth">
-              <div class="item">
-
-                <div class="probootstrap-testimony-wrap text-center">
-                  <figure>
-                    <img src="assets/img/person_1.jpg" alt="Free Bootstrap Template by uicookies.com">
-                  </figure>
-                  <blockquote class="quote">&ldquo;Design must be functional and functionality must be translated into visual aesthetics, without any reliance on gimmicks that have to be explained.&rdquo; <cite class="author">&mdash; Ferdinand A. Porsche <br> <span>Design Lead at AirBNB</span></cite></blockquote>
-                </div>
-
-              </div>
-              <div class="item">
-                <div class="probootstrap-testimony-wrap text-center">
-                  <figure>
-                    <img src="assets/img/person_2.jpg" alt="Free Bootstrap Template by uicookies.com">
-                  </figure>
-                  <blockquote class="quote">&ldquo;Creativity is just connecting things. When you ask creative people how they did something, they feel a little guilty because they didn’t really do it, they just saw something. It seemed obvious to them after a while.&rdquo; <cite class="author">&mdash; Steve Jobs <br> <span>Co-Founder Square</span></cite></blockquote>
-                </div>
-              </div>
-              <div class="item">
-                <div class="probootstrap-testimony-wrap text-center">
-                  <figure>
-                    <img src="assets/img/person_3.jpg" alt="Free Bootstrap Template by uicookies.com">
-                  </figure>
-                  <blockquote class="quote">&ldquo;I think design would be better if designers were much more skeptical about its applications. If you believe in the potency of your craft, where you choose to dole it out is not something to take lightly.&rdquo; <cite class="author">&mdash; Frank Chimero <br> <span>Creative Director at Twitter</span></cite></blockquote>
-                </div>
-              </div>              
-            </div>
-          </div>
-        </div>
-        <!-- END row -->
-      </div>
-    </section>
- <section>
-      <div class="container">
-  <div class="col_fourth">
-    <div class="at-work-process position-relative overflow-hidden text-center">
-      <div class="at-work-process-text">
-        <span class="at-work-process-number">01</span>
-        <span class="at-work-process-number-text">1st Step</span>
-        <div class="at-separator-thick"></div>
-      </div>
-      <div class="at-work-process-details">
-        <i class="fas fa-inbox"></i><span>You leave a request</span>
-      </div>
-    </div>
-  </div>
-  <div class="col_fourth text-center">
-    <div class="at-work-process position-relative overflow-hidden">
-      <div class="at-work-process-text">
-        <span class="at-work-process-number">02</span>
-        <span class="at-work-process-number-text">2nd step</span>
-        <div class="at-separator-thick"></div>
-      </div>
-      <div class="at-work-process-details">
-        <i class="fas fa-tasks"></i><span>Our manager will contact you and clarify all your wishes</span>
-      </div>
-    </div>
-  </div>
-  <div class="col_fourth text-center">
-    <div class="at-work-process position-relative overflow-hidden">
-      <div class="at-work-process-text">
-        <span class="at-work-process-number">03</span>
-        <span class="at-work-process-number-text">3rd step</span>
-        <div class="at-separator-thick"></div>
-      </div>
-      <div class="at-work-process-details">
-        <i class="fas fa-info"></i><span>We will conduct an interview and select the best job for you</span>
-      </div>
-    </div>
-  </div>
-  <div class="col_fourth text-center end">
-    <div class="at-work-process position-relative overflow-hidden">
-      <div class="at-work-process-text">
-        <span class="at-work-process-number">04</span>
-        <span class="at-work-process-number-text">4th step</span>
-        <div class="at-separator-thick"></div>
-      </div>
-      <div class="at-work-process-details">
-        <i class="fas fa-screwdriver"></i><span>We will conduct an interview and select the best job for you</span>
-      </div>
-    </div>
-  </div>
-</div>   
-          </section>
     <section class="probootstrap-cta">
       <div class="container">
         <div class="row">
           <div class="col-md-12">
-            <h2 class="probootstrap-animate" data-animate-effect="fadeInRight">We'd like to help and talk with you</h2>
-            <a href="#" role="button" class="btn btn-primary btn-lg btn-ghost probootstrap-animate" data-animate-effect="fadeInLeft">Contact Us</a>
+            <h2 class="probootstrap-animate" data-animate-effect="fadeInRight">Contact us to start your career now</h2>
+            <a href="jobContact.aspx" role="button" class="btn btn-primary btn-lg btn-ghost probootstrap-animate" data-animate-effect="fadeInLeft">Apply Now</a>
           </div>
         </div>
       </div>
@@ -440,12 +316,12 @@
         <div class="row">
           <div class="col-md-6">
             <div class="probootstrap-footer-widget">
-              <h3>Surge Cable INC</h3>
-              <p>Contact info contact info contact info</p>
+              <img src="assets/img/betterBotLogosss.png" />
+              <p>info@surgecable.com</p>
               <ul class="probootstrap-footer-social">
                 <li><a href="#"><i class="icon-twitter"></i></a></li>
                 <li><a href="#"><i class="icon-facebook"></i></a></li>
-                <li><a href="#"><i class="icon-github"></i></a></li>
+                <li><a href="#"><i class="icon-instagram"></i></a></li>
                 <li><a href="#"><i class="icon-linkedin"></i></a></li>
               </ul>
             </div>
@@ -454,12 +330,23 @@
             <div class="row">
               <div class="col-md-4">
                 <div class="probootstrap-footer-widget">
-                  <h3>Links</h3>
+                  <h3></h3>
                   <ul>
-                    <li><a href="#">Knowledge Base</a></li>
-                    <li><a href="#">Careers</a></li>
-                    <li><a href="#">Terms of services</a></li>
-                    <li><a href="#">Privacy Policy</a></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                  </ul>
+                </div>
+              </div>
+              <div class="col-md-4">
+                <div class="probootstrap-footer-widget">
+                  <h3></h3>
+                  <ul>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
                   </ul>
                 </div>
               </div>
@@ -468,20 +355,10 @@
                   <h3>Links</h3>
                   <ul>
                     <li><a href="#">Knowledge Base</a></li>
-                    <li><a href="#">Careers</a></li>
-                    <li><a href="#">Terms of services</a></li>
-                    <li><a href="#">Privacy Policy</a></li>
-                  </ul>
-                </div>
-              </div>
-              <div class="col-md-4">
-                <div class="probootstrap-footer-widget">
-                  <h3>Links</h3>
-                  <ul>
-                    <li><a href="#">Knowledge Base</a></li>
-                    <li><a href="#">Careers</a></li>
-                    <li><a href="#">Terms of services</a></li>
-                    <li><a href="#">Privacy Policy</a></li>
+                    <li><a href="findAJob.aspx">Careers</a></li>
+                    <li><a href="employeeContact.aspx">Employee Contact</a></li>
+                    <li><a href="partnershipFranchise.aspx">Partnership/Franchise</a></li>
+                    <li><a href="contact.aspx">Contact Us</a></li>
                   </ul>
                 </div>
               </div>
@@ -499,109 +376,10 @@
       </div>
     </footer>
     
-  
-    <!-- Modal login -->
-    <div class="modal fadeInUp probootstrap-animated" id="loginModal" tabindex="-1" role="dialog" aria-labelledby="loginModalLabel" aria-hidden="true">
-      <div class="vertical-alignment-helper">
-        <div class="modal-dialog modal-md vertical-align-center">
-          <div class="modal-content">
-            <button type="button" class="close" data-dismiss="modal" aria-hidden="true"><i class="icon-cross"></i></button>
-            <div class="probootstrap-modal-flex">
-              <div class="probootstrap-modal-figure" style="background-image: url(assets/img/modal_bg.jpg);"></div>
-              <div class="probootstrap-modal-content">
-                <form action="#" class="probootstrap-form">
-                  <div class="form-group">
-                    <input type="text" class="form-control" placeholder="Email">
-                  </div> 
-                  <div class="form-group">
-                    <input type="password" class="form-control" placeholder="Password">
-                  </div> 
-                  <div class="form-group clearfix mb40">
-                    <label for="remember" class="probootstrap-remember"><input type="checkbox" id="remember"> Remember Me</label>
-                    <a href="#" class="probootstrap-forgot">Forgot Password?</a>
-                  </div>
-                  <div class="form-group text-left">
-                    <div class="row">
-                      <div class="col-md-6">
-                        <input type="submit" class="btn btn-primary btn-block" value="Sign In">
-                      </div>
-                    </div>
-                  </div>
-                  <div class="form-group probootstrap-or">
-                    <span><em>or</em></span>
-                  </div>
-                  <div class="form-group">
-                    <div class="row">
-                      <div class="col-md-12">
-                        <button class="btn btn-primary btn-ghost btn-block btn-connect-facebook"><span>connect with</span> Facebook</button>
-                        <button class="btn btn-primary btn-ghost btn-block btn-connect-google"><span>connect with</span> Google</button>
-                        <button class="btn btn-primary btn-ghost btn-block btn-connect-twitter"><span>connect with</span> Twitter</button>
-                      </div>
-                    </div>
-                  </div>
-                </form>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <!-- END modal login -->
-    
-    <!-- Modal signup -->
-    <div class="modal fadeInUp probootstrap-animated" id="signupModal" tabindex="-1" role="dialog" aria-labelledby="signupModalLabel" aria-hidden="true">
-      <div class="vertical-alignment-helper">
-        <div class="modal-dialog modal-md vertical-align-center">
-          <div class="modal-content">
-            <button type="button" class="close" data-dismiss="modal" aria-hidden="true"><i class="icon-cross"></i></button>
-            <div class="probootstrap-modal-flex">
-              <div class="probootstrap-modal-figure" style="background-image: url(assets/img/modal_bg.jpg);"></div>
-              <div class="probootstrap-modal-content">
-                <form action="#" class="probootstrap-form">
-                  <div class="form-group">
-                    <input type="text" class="form-control" placeholder="Email">
-                  </div> 
-                  <div class="form-group">
-                    <input type="password" class="form-control" placeholder="Password">
-                  </div> 
-                  <div class="form-group">
-                    <input type="password" class="form-control" placeholder="Re-type Password">
-                  </div> 
-                  <div class="form-group clearfix mb40">
-                    <label for="remember" class="probootstrap-remember"><input type="checkbox" id="remember"> Remember Me</label>
-                    <a href="#" class="probootstrap-forgot">Forgot Password?</a>
-                  </div>
-                  <div class="form-group text-left">
-                    <div class="row">
-                      <div class="col-md-6">
-                        <input type="submit" class="btn btn-primary btn-block" value="Sign Up">
-                      </div>
-                    </div>
-                    
-                  </div>
-                  <div class="form-group probootstrap-or">
-                    <span><em>or</em></span>
-                  </div>
-                  <div class="form-group">
-                    <div class="row">
-                      <div class="col-md-12">
-                        <button class="btn btn-primary btn-ghost btn-block btn-connect-facebook"><span>connect with</span> Facebook</button>
-                        <button class="btn btn-primary btn-ghost btn-block btn-connect-google"><span>connect with</span> Google</button>
-                        <button class="btn btn-primary btn-ghost btn-block btn-connect-twitter"><span>connect with</span> Twitter</button>
-                      </div>
-                    </div>
-                  </div>
-                </form>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <!-- END modal signup -->
 
+   
     <script src="assets/js/scripts.min.js"></script>
     <script src="assets/js/custom.min.js"></script>
-
+    <script src="assets/js/background.js"></script>
   </body>
 </html>

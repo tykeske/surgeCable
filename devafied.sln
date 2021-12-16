@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30320.27
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "surgeCable", "devafied\surgeCable.csproj", "{A2230CD0-F5A2-4D71-9EBE-3DA7E1FFAFFA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "surgecable", "devafied\surgecable.csproj", "{A2230CD0-F5A2-4D71-9EBE-3DA7E1FFAFFA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

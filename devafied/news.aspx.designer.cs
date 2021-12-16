@@ -7,11 +7,11 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace surgeCable
+namespace surgecable
 {
 
 
-    public partial class portfolio
+    public partial class news
     {
     }
 }

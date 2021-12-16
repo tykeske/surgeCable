@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace surgeCable
+namespace surgecable
 {
 
 

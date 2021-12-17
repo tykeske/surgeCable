@@ -1937,14 +1937,13 @@ a:before {
 
 .probootstrap-gutter60 > div[class*=col-] {
     padding-right: 30px;
-    padding-left: 30px
+    padding-left: 30px;
 }
 
-@media screen and (max-width:480px) {
+@media screen and (max-width:460px) {
     .probootstrap-gutter60 > div[class*=col-] {
         padding-right: 15px;
         padding-left: 15px;
-        width: auto
     }
 }
 

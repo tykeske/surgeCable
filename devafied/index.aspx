@@ -104,7 +104,7 @@
         </div>
           </div>
          
-        <div class="row probootstrap-gutter60">
+        <div class="row probootstrap-gutter60" style="margin-right:0px;margin-left:0px;">
           <div class="col-md-4 probootstrap-animate" data-animate-effect="fadeIn">
             <div class="service hover_service text-center">
               <div class="icon"><i class="icon-user-plus"></i></div>

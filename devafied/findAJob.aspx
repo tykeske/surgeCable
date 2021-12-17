@@ -77,7 +77,7 @@
        <section class="probootstrap-section proboostrap-clients" style="padding-top:0px; padding-bottom:0px; background-color:#fff;">
       <div class="container">
 
-        <div class="row probootstrap-gutter60" style="height:10px;">
+        <div class="row probootstrap-gutter60" style="height:10px;margin-right:0px;margin-left:0px;">
             <div class="row">
           <div class="col-md-6 col-md-offset-3 text-center section-heading" >
             <h2>Our Services</h2>

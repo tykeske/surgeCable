@@ -111,6 +111,7 @@
     <Content Include="assets\img\client_3.png" />
     <Content Include="assets\img\client_4.png" />
     <Content Include="assets\img\cox.png" />
+    <Content Include="assets\img\coxNew.png" />
     <Content Include="assets\img\devafiedLogo.png" />
     <Content Include="assets\img\devafiedLogo1.png" />
     <Content Include="assets\img\devLogo.png" />
@@ -127,6 +128,7 @@
     <Content Include="assets\img\logotest2_155x46.png" />
     <Content Include="assets\img\logoTesting.jpg" />
     <Content Include="assets\img\mediaCom.png" />
+    <Content Include="assets\img\mediacomNew.png" />
     <Content Include="assets\img\modal_bg.jpg" />
     <Content Include="assets\img\newlogo-removebg-preview.png" />
     <Content Include="assets\img\newlogo.png" />
@@ -136,10 +138,12 @@
     <Content Include="assets\img\person_3.jpg" />
     <Content Include="assets\img\person_4.jpg" />
     <Content Include="assets\img\RCN.png" />
+    <Content Include="assets\img\rcnNew.png" />
     <Content Include="assets\img\slider_1.jpg" />
     <Content Include="assets\img\slider_2.jpg" />
     <Content Include="assets\img\slider_3.jpg" />
     <Content Include="assets\img\Spectrum.png" />
+    <Content Include="assets\img\spectrumNew.png" />
     <Content Include="assets\img\surgeheader1.jpg" />
     <Content Include="assets\img\surgeheader2.jpg" />
     <Content Include="assets\img\surgeheader3.jpg" />
@@ -154,6 +158,7 @@
     <Content Include="assets\img\work_6.jpg" />
     <Content Include="assets\img\work_7.jpg" />
     <Content Include="assets\img\Xfinity.jpg" />
+    <Content Include="assets\img\xfinityNew.png" />
     <Content Include="assets\js\background.js" />
     <Content Include="assets\js\custom.js" />
     <Content Include="assets\js\custom.min.js" />

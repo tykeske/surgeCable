@@ -253,7 +253,7 @@
 
                 <div class="probootstrap-testimony-wrap text-center">
                   <figure>
-                    <img src="assets/img/mediaCom.png" alt="Free Bootstrap Template by uicookies.com">
+                    <img src="assets/img/mediaComNew.png" alt="Free Bootstrap Template by uicookies.com">
                   </figure>
                     <blockquote class="quote">Mediacom<cite class="author">&mdash; Rocco B. Commisso <br> <span>CEO</span></cite></blockquote>
                 </div>
@@ -262,7 +262,7 @@
               <div class="item">
                 <div class="probootstrap-testimony-wrap text-center">
                   <figure>
-                    <img src="assets/img/RCN.png" alt="Free Bootstrap Template by uicookies.com">
+                    <img src="assets/img/rcnNew.png" alt="Free Bootstrap Template by uicookies.com">
                   </figure>
                   <blockquote class="quote">RCN Corporation<cite class="author">&mdash; Jim Holanda <br> <span>CEO</span></cite></blockquote>
                 </div>
@@ -270,7 +270,7 @@
               <div class="item">
                 <div class="probootstrap-testimony-wrap text-center">
                   <figure>
-                    <img src="assets/img/cox.png" alt="Free Bootstrap Template by uicookies.com">
+                    <img src="assets/img/coxNew.png" alt="Free Bootstrap Template by uicookies.com">
                   </figure>
                   <blockquote class="quote">Cox Communications <cite class="author">&mdash; Patrick J. Esser <br> <span>President</span></cite></blockquote>
                 </div>
@@ -278,7 +278,7 @@
               <div class="item">
                 <div class="probootstrap-testimony-wrap text-center">
                   <figure>
-                    <img src="assets/img/Xfinity.jpg" alt="Free Bootstrap Template by uicookies.com">
+                    <img src="assets/img/xfinityNew.png" alt="Free Bootstrap Template by uicookies.com">
                   </figure>
                   <blockquote class="quote">Comcast Xfinity<cite class="author">&mdash; Brian L. Roberts <br> <span>CEO</span></cite></blockquote>
                 </div>
@@ -286,7 +286,7 @@
                 <div class="item">
                 <div class="probootstrap-testimony-wrap text-center">
                   <figure>
-                    <img src="assets/img/Spectrum.png" alt="Free Bootstrap Template by uicookies.com">
+                    <img src="assets/img/spectrumNew.png" alt="Free Bootstrap Template by uicookies.com">
                   </figure>
                   <blockquote class="quote">Charter Spectrum <cite class="author">&mdash; Tom Rutledge <br> <span>CEO</span></cite></blockquote>
                 </div>

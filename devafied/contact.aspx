@@ -92,7 +92,7 @@
               </div>
               <div class="form-group">
                 <label for="message">Message</label>
-                <textarea cols="30" rows="10" class="form-control" id="message" name="message" runat="server"></textarea>
+                <textarea cols="30" rows="10" class="form-control" id="messageText" name="messageText" runat="server"></textarea>
               </div>
               <div class="form-group">
                 <asp:Button type="submit" class="btn btn-primary btn-lg" ID="submitButton" value="Submit Here" runat="server" Text="Submit Here" OnClick="submitButton_Click"></asp:Button>

@@ -2,7 +2,7 @@
 
 <!DOCTYPE html>
 <html lang="en">
-  <head>
+  <head runat="server">
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Surge Cable INC. | Contact Surge Cable INC.</title>
@@ -76,25 +76,25 @@
         <div class="row">
           <div class="col-md-5 probootstrap-animate" data-animate-effect="fadeIn">
             <h2>Send Proposal</h2>
-            <form action="#" method="post" class="probootstrap-form">
+            <form action="#" method="post" class="probootstrap-form" id="form1" runat="server">
               <div class="form-group">
                 <label for="name">Full Name</label>
-                <input type="text" class="form-control" id="name" name="name">
+                <asp:TextBox type="name" ID="firstNameTextBox" class="form-control" required="required" runat="server"></asp:TextBox>
               </div>
               <div class="form-group">
                 <label for="email">Email</label>
-                <input type="email" class="form-control" id="email" name="email">
+                <asp:TextBox type="email" ID="emailTextBox" class="form-control" required="required" runat="server"></asp:TextBox>            
               </div>
-                <div class="form-group">
-                <label for="name">Company or Business</label>
-                <input type="text" class="form-control" id="company" name="company">
+              <div class="form-group">
+                <label for="company">Company or Business</label>
+                <asp:TextBox type="name" ID="companyTextBox" class="form-control" required="required" runat="server"></asp:TextBox>
               </div>
               <div class="form-group">
                 <label for="message">Message</label>
-                <textarea cols="30" rows="10" class="form-control" id="message" name="message"></textarea>
+                <textarea cols="30" rows="10" class="form-control" id="messageText" name="messageText" runat="server"></textarea>
               </div>
               <div class="form-group">
-                <input type="submit" class="btn btn-primary btn-lg" id="submit" name="submit" value="Submit Proposal">
+                <asp:Button type="submit" class="btn btn-primary btn-lg" ID="submitButton" value="Submit Here" runat="server" Text="Submit Here" OnClick="submitButton_Click"></asp:Button>
               </div>
             </form>
           </div>

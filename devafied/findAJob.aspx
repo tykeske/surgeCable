@@ -193,7 +193,7 @@
         <div class="at-separator-thick"></div>
       </div>
       <div class="at-work-process-details">
-        <i class="fas fa-tasks"style="margin-top:0px;margin-bottom:10px;color:#0066BF;"></i><span style="color:#fff; font-size:12px;">Our manager will contact you and clarify all your wishes</span>
+        <i class="fas fa-tasks"style="margin-top:0px;margin-bottom:10px;color:#0066BF;"></i><span style="color:#fff; font-size:12px;">Schedule an interview</span>
       </div>
     </div>
   </div>
@@ -205,7 +205,7 @@
         <div class="at-separator-thick"></div>
       </div>
       <div class="at-work-process-details">
-        <i class="fas fa-info"style="margin-top:0px;margin-bottom:10px;color:#0066BF;"></i><span style="color:#fff; font-size:12px;">We will conduct an interview and select the best job for you</span>
+        <i class="fas fa-info"style="margin-top:0px;margin-bottom:10px;color:#0066BF;"></i><span style="color:#fff; font-size:12px;">Interview applicant</span>
       </div>
     </div>
   </div>
@@ -217,7 +217,7 @@
         <div class="at-separator-thick"></div>
       </div>
       <div class="at-work-process-details">
-        <i class="fas fa-screwdriver"style="margin-top:0px;margin-bottom:10px;color:#0066BF;"></i><span style="color:#fff; font-size:12px;">We will contact you with an offical job offer</span>
+        <i class="fas fa-screwdriver"style="margin-top:0px;margin-bottom:10px;color:#0066BF;"></i><span style="color:#fff; font-size:12px;">We send a job offer</span>
       </div>
     </div>
   </div>

@@ -9,6 +9,7 @@ using System.Reflection.Emit;
 using System.Data.SqlClient;
 using System.Data;
 using System.Net.Mail;
+using System.Net;
 
 namespace surgecable
 {
@@ -23,26 +24,18 @@ namespace surgecable
             try
             {
                 MailMessage mail = new MailMessage();
-                SmtpClient SmtpServer = new SmtpClient("surgecable-com.mail.protection.outlook.com.");
+                SmtpClient SmtpServer = new SmtpClient("smtp.gmail.com");
 
-                mail.From = new MailAddress("info@surgecable.com");
-                mail.To.Add("info@surgecable.com");
-                mail.Subject = ("New Inquiry from Contact Us page");
-                mail.Body = (firstNameTextBox.Text + "\n" + emailTextBox.Text + "\n" + subjectTextBox.Text + "\n" + message.InnerText +  "\n" + DateTime.Now);
+                mail.From = new MailAddress("surgecableinfo@gmail.com");
+                mail.To.Add("surgecableinfo@gmail.com");
+                mail.Subject = ("Inquiry From Contact Page");
+                mail.Body = (firstNameTextBox.Text + "\n" + emailTextBox.Text + "\n" + subjectTextBox.Text + "\n" + messageText.InnerText + "\n" + DateTime.Now);
 
-                SmtpServer.Port = 25;
-                SmtpServer.Credentials = new System.Net.NetworkCredential("info@surgecable.com", "surgeCableInfo2465");
+                SmtpServer.Port = 587;
+                SmtpServer.Credentials = new System.Net.NetworkCredential("surgecableinfo@gmail.com", "Ashes@1212");
                 SmtpServer.EnableSsl = true;
 
                 SmtpServer.Send(mail);
-
-                string script = "alert(\"Thank you for contacting us. We will get back to you as soon as possible!\");";
-                ScriptManager.RegisterStartupScript(this, GetType(),
-                                      "ServerControlScript", script, true);
-                firstNameTextBox.Text = "";
-                emailTextBox.Text = "";
-                subjectTextBox.Text = "";
-                message.InnerText = "";
             }
             catch
             {
@@ -50,6 +43,13 @@ namespace surgecable
                 ScriptManager.RegisterStartupScript(this, GetType(),
                                       "ServerControlScript", script, true);
             }
+
+            firstNameTextBox.Text = "";
+            emailTextBox.Text = "";
+            subjectTextBox.Text = "";
+            messageText.InnerText = "";
+
         }
+
     }
 }
